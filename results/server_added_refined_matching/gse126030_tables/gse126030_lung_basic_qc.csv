@@ -1,0 +1,2 @@
+dataset,condition,n_cells,n_genes,median_counts_per_cell,median_genes_per_cell,donor_id_n_unique,cell_type_n_unique,assay_n_unique
+GSE126030,lung,11059,61497,2138.0,977.0,2,6,1

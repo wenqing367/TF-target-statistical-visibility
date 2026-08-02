@@ -1,0 +1,593 @@
+pathway,gene,source
+Interferon Signaling,AAAS,Reactome_Pathways_2024
+Interferon Signaling,ABCE1,Reactome_Pathways_2024
+Interferon Signaling,ADAR,Reactome_Pathways_2024
+Interferon Signaling,APITD1,Reactome_Pathways_2024
+Interferon Signaling,ARIH1,Reactome_Pathways_2024
+Interferon Signaling,B2M,Reactome_Pathways_2024
+Interferon Signaling,BECN1,Reactome_Pathways_2024
+Interferon Signaling,BST2,Reactome_Pathways_2024
+Interferon Signaling,CAMK2A,Reactome_Pathways_2024
+Interferon Signaling,CAMK2B,Reactome_Pathways_2024
+Interferon Signaling,CAMK2D,Reactome_Pathways_2024
+Interferon Signaling,CAMK2G,Reactome_Pathways_2024
+Interferon Signaling,CD44,Reactome_Pathways_2024
+Interferon Signaling,CDK1,Reactome_Pathways_2024
+Interferon Signaling,CHUK,Reactome_Pathways_2024
+Interferon Signaling,CIITA,Reactome_Pathways_2024
+Interferon Signaling,DHX9,Reactome_Pathways_2024
+Interferon Signaling,DNAJC3,Reactome_Pathways_2024
+Interferon Signaling,DUS2,Reactome_Pathways_2024
+Interferon Signaling,EGR1,Reactome_Pathways_2024
+Interferon Signaling,EIF2AK2,Reactome_Pathways_2024
+Interferon Signaling,EIF2S1,Reactome_Pathways_2024
+Interferon Signaling,EIF2S2,Reactome_Pathways_2024
+Interferon Signaling,EIF2S3,Reactome_Pathways_2024
+Interferon Signaling,EIF4A1,Reactome_Pathways_2024
+Interferon Signaling,EIF4A2,Reactome_Pathways_2024
+Interferon Signaling,EIF4A3,Reactome_Pathways_2024
+Interferon Signaling,EIF4E,Reactome_Pathways_2024
+Interferon Signaling,EIF4E2,Reactome_Pathways_2024
+Interferon Signaling,EIF4E3,Reactome_Pathways_2024
+Interferon Signaling,EIF4G1,Reactome_Pathways_2024
+Interferon Signaling,EIF4G2,Reactome_Pathways_2024
+Interferon Signaling,EIF4G3,Reactome_Pathways_2024
+Interferon Signaling,FAAP100,Reactome_Pathways_2024
+Interferon Signaling,FAAP20,Reactome_Pathways_2024
+Interferon Signaling,FAAP24,Reactome_Pathways_2024
+Interferon Signaling,FANCA,Reactome_Pathways_2024
+Interferon Signaling,FANCB,Reactome_Pathways_2024
+Interferon Signaling,FANCC,Reactome_Pathways_2024
+Interferon Signaling,FANCE,Reactome_Pathways_2024
+Interferon Signaling,FANCF,Reactome_Pathways_2024
+Interferon Signaling,FANCG,Reactome_Pathways_2024
+Interferon Signaling,FANCL,Reactome_Pathways_2024
+Interferon Signaling,FANCM,Reactome_Pathways_2024
+Interferon Signaling,FCGR1A,Reactome_Pathways_2024
+Interferon Signaling,FCGR1B,Reactome_Pathways_2024
+Interferon Signaling,FCGR1BP,Reactome_Pathways_2024
+Interferon Signaling,FLNA,Reactome_Pathways_2024
+Interferon Signaling,FLNB,Reactome_Pathways_2024
+Interferon Signaling,GBP1,Reactome_Pathways_2024
+Interferon Signaling,GBP2,Reactome_Pathways_2024
+Interferon Signaling,GBP3,Reactome_Pathways_2024
+Interferon Signaling,GBP4,Reactome_Pathways_2024
+Interferon Signaling,GBP5,Reactome_Pathways_2024
+Interferon Signaling,GBP6,Reactome_Pathways_2024
+Interferon Signaling,GBP7,Reactome_Pathways_2024
+Interferon Signaling,HERC5,Reactome_Pathways_2024
+Interferon Signaling,HLA-A,Reactome_Pathways_2024
+Interferon Signaling,HLA-B,Reactome_Pathways_2024
+Interferon Signaling,HLA-C,Reactome_Pathways_2024
+Interferon Signaling,HLA-DPA1,Reactome_Pathways_2024
+Interferon Signaling,HLA-DPB1,Reactome_Pathways_2024
+Interferon Signaling,HLA-DQA1,Reactome_Pathways_2024
+Interferon Signaling,HLA-DQA2,Reactome_Pathways_2024
+Interferon Signaling,HLA-DQB1,Reactome_Pathways_2024
+Interferon Signaling,HLA-DQB2,Reactome_Pathways_2024
+Interferon Signaling,HLA-DRA,Reactome_Pathways_2024
+Interferon Signaling,HLA-DRB1,Reactome_Pathways_2024
+Interferon Signaling,HLA-DRB3,Reactome_Pathways_2024
+Interferon Signaling,HLA-DRB4,Reactome_Pathways_2024
+Interferon Signaling,HLA-DRB5,Reactome_Pathways_2024
+Interferon Signaling,HLA-E,Reactome_Pathways_2024
+Interferon Signaling,HLA-F,Reactome_Pathways_2024
+Interferon Signaling,HLA-G,Reactome_Pathways_2024
+Interferon Signaling,HLA-H,Reactome_Pathways_2024
+Interferon Signaling,HSPA1A,Reactome_Pathways_2024
+Interferon Signaling,HSPA1B,Reactome_Pathways_2024
+Interferon Signaling,HSPA1L,Reactome_Pathways_2024
+Interferon Signaling,HSPA2,Reactome_Pathways_2024
+Interferon Signaling,HSPA8,Reactome_Pathways_2024
+Interferon Signaling,HUMAN RESPIRATORY SYNCYTIAL VIRUS A2,Reactome_Pathways_2024
+Interferon Signaling,ICAM1,Reactome_Pathways_2024
+Interferon Signaling,IFI27,Reactome_Pathways_2024
+Interferon Signaling,IFI30,Reactome_Pathways_2024
+Interferon Signaling,IFI35,Reactome_Pathways_2024
+Interferon Signaling,IFI6,Reactome_Pathways_2024
+Interferon Signaling,IFIT1,Reactome_Pathways_2024
+Interferon Signaling,IFIT2,Reactome_Pathways_2024
+Interferon Signaling,IFIT3,Reactome_Pathways_2024
+Interferon Signaling,IFIT5,Reactome_Pathways_2024
+Interferon Signaling,IFITM1,Reactome_Pathways_2024
+Interferon Signaling,IFITM2,Reactome_Pathways_2024
+Interferon Signaling,IFITM3,Reactome_Pathways_2024
+Interferon Signaling,IFNA1,Reactome_Pathways_2024
+Interferon Signaling,IFNA10,Reactome_Pathways_2024
+Interferon Signaling,IFNA14,Reactome_Pathways_2024
+Interferon Signaling,IFNA16,Reactome_Pathways_2024
+Interferon Signaling,IFNA17,Reactome_Pathways_2024
+Interferon Signaling,IFNA2,Reactome_Pathways_2024
+Interferon Signaling,IFNA21,Reactome_Pathways_2024
+Interferon Signaling,IFNA4,Reactome_Pathways_2024
+Interferon Signaling,IFNA5,Reactome_Pathways_2024
+Interferon Signaling,IFNA6,Reactome_Pathways_2024
+Interferon Signaling,IFNA7,Reactome_Pathways_2024
+Interferon Signaling,IFNA8,Reactome_Pathways_2024
+Interferon Signaling,IFNAR1,Reactome_Pathways_2024
+Interferon Signaling,IFNAR2,Reactome_Pathways_2024
+Interferon Signaling,IFNB1,Reactome_Pathways_2024
+Interferon Signaling,IFNG,Reactome_Pathways_2024
+Interferon Signaling,IFNGR1,Reactome_Pathways_2024
+Interferon Signaling,IFNGR2,Reactome_Pathways_2024
+Interferon Signaling,IKBKB,Reactome_Pathways_2024
+Interferon Signaling,IKBKG,Reactome_Pathways_2024
+Interferon Signaling,ILF2,Reactome_Pathways_2024
+Interferon Signaling,ILF3,Reactome_Pathways_2024
+Interferon Signaling,IP6K2,Reactome_Pathways_2024
+Interferon Signaling,IRF1,Reactome_Pathways_2024
+Interferon Signaling,IRF2,Reactome_Pathways_2024
+Interferon Signaling,IRF3,Reactome_Pathways_2024
+Interferon Signaling,IRF4,Reactome_Pathways_2024
+Interferon Signaling,IRF5,Reactome_Pathways_2024
+Interferon Signaling,IRF6,Reactome_Pathways_2024
+Interferon Signaling,IRF7,Reactome_Pathways_2024
+Interferon Signaling,IRF8,Reactome_Pathways_2024
+Interferon Signaling,IRF9,Reactome_Pathways_2024
+Interferon Signaling,ISG15,Reactome_Pathways_2024
+Interferon Signaling,ISG20,Reactome_Pathways_2024
+Interferon Signaling,JAK1,Reactome_Pathways_2024
+Interferon Signaling,JAK2,Reactome_Pathways_2024
+Interferon Signaling,KPNA1,Reactome_Pathways_2024
+Interferon Signaling,KPNA2,Reactome_Pathways_2024
+Interferon Signaling,KPNA3,Reactome_Pathways_2024
+Interferon Signaling,KPNA4,Reactome_Pathways_2024
+Interferon Signaling,KPNA5,Reactome_Pathways_2024
+Interferon Signaling,KPNA7,Reactome_Pathways_2024
+Interferon Signaling,KPNB1,Reactome_Pathways_2024
+Interferon Signaling,MAP2K6,Reactome_Pathways_2024
+Interferon Signaling,MAPK1,Reactome_Pathways_2024
+Interferon Signaling,MAPK3,Reactome_Pathways_2024
+Interferon Signaling,MAPT,Reactome_Pathways_2024
+Interferon Signaling,MAVS,Reactome_Pathways_2024
+Interferon Signaling,MID1,Reactome_Pathways_2024
+Interferon Signaling,MT2A,Reactome_Pathways_2024
+Interferon Signaling,MX1,Reactome_Pathways_2024
+Interferon Signaling,MX2,Reactome_Pathways_2024
+Interferon Signaling,N,Reactome_Pathways_2024
+Interferon Signaling,NCAM1,Reactome_Pathways_2024
+Interferon Signaling,NCK1,Reactome_Pathways_2024
+Interferon Signaling,NDC1,Reactome_Pathways_2024
+Interferon Signaling,NEDD4,Reactome_Pathways_2024
+Interferon Signaling,NPM1,Reactome_Pathways_2024
+Interferon Signaling,NS,Reactome_Pathways_2024
+Interferon Signaling,NUP107,Reactome_Pathways_2024
+Interferon Signaling,NUP133,Reactome_Pathways_2024
+Interferon Signaling,NUP153,Reactome_Pathways_2024
+Interferon Signaling,NUP155,Reactome_Pathways_2024
+Interferon Signaling,NUP160,Reactome_Pathways_2024
+Interferon Signaling,NUP188,Reactome_Pathways_2024
+Interferon Signaling,NUP205,Reactome_Pathways_2024
+Interferon Signaling,NUP210,Reactome_Pathways_2024
+Interferon Signaling,NUP214,Reactome_Pathways_2024
+Interferon Signaling,NUP35,Reactome_Pathways_2024
+Interferon Signaling,NUP37,Reactome_Pathways_2024
+Interferon Signaling,NUP42,Reactome_Pathways_2024
+Interferon Signaling,NUP43,Reactome_Pathways_2024
+Interferon Signaling,NUP50,Reactome_Pathways_2024
+Interferon Signaling,NUP54,Reactome_Pathways_2024
+Interferon Signaling,NUP58,Reactome_Pathways_2024
+Interferon Signaling,NUP62,Reactome_Pathways_2024
+Interferon Signaling,NUP85,Reactome_Pathways_2024
+Interferon Signaling,NUP88,Reactome_Pathways_2024
+Interferon Signaling,NUP93,Reactome_Pathways_2024
+Interferon Signaling,NUP98,Reactome_Pathways_2024
+Interferon Signaling,OAS1,Reactome_Pathways_2024
+Interferon Signaling,OAS2,Reactome_Pathways_2024
+Interferon Signaling,OAS3,Reactome_Pathways_2024
+Interferon Signaling,OASL,Reactome_Pathways_2024
+Interferon Signaling,PDE12,Reactome_Pathways_2024
+Interferon Signaling,PIAS1,Reactome_Pathways_2024
+Interferon Signaling,PIN1,Reactome_Pathways_2024
+Interferon Signaling,PLCG1,Reactome_Pathways_2024
+Interferon Signaling,PML,Reactome_Pathways_2024
+Interferon Signaling,POM121,Reactome_Pathways_2024
+Interferon Signaling,POM121C,Reactome_Pathways_2024
+Interferon Signaling,PPM1B,Reactome_Pathways_2024
+Interferon Signaling,PPP2CA,Reactome_Pathways_2024
+Interferon Signaling,PPP2CB,Reactome_Pathways_2024
+Interferon Signaling,PPP2R1A,Reactome_Pathways_2024
+Interferon Signaling,PPP2R1B,Reactome_Pathways_2024
+Interferon Signaling,PPP2R5A,Reactome_Pathways_2024
+Interferon Signaling,PRKCD,Reactome_Pathways_2024
+Interferon Signaling,PRKRA,Reactome_Pathways_2024
+Interferon Signaling,PSMB8,Reactome_Pathways_2024
+Interferon Signaling,PTAFR,Reactome_Pathways_2024
+Interferon Signaling,PTPN1,Reactome_Pathways_2024
+Interferon Signaling,PTPN11,Reactome_Pathways_2024
+Interferon Signaling,PTPN2,Reactome_Pathways_2024
+Interferon Signaling,PTPN6,Reactome_Pathways_2024
+Interferon Signaling,RAE1,Reactome_Pathways_2024
+Interferon Signaling,RAF1,Reactome_Pathways_2024
+Interferon Signaling,RANBP2,Reactome_Pathways_2024
+Interferon Signaling,RIGI,Reactome_Pathways_2024
+Interferon Signaling,RNASEL,Reactome_Pathways_2024
+Interferon Signaling,RPS27A,Reactome_Pathways_2024
+Interferon Signaling,RSAD2,Reactome_Pathways_2024
+Interferon Signaling,SAMHD1,Reactome_Pathways_2024
+Interferon Signaling,SEC13,Reactome_Pathways_2024
+Interferon Signaling,SEH1L,Reactome_Pathways_2024
+Interferon Signaling,SMAD7,Reactome_Pathways_2024
+Interferon Signaling,SNCA,Reactome_Pathways_2024
+Interferon Signaling,SOCS1,Reactome_Pathways_2024
+Interferon Signaling,SOCS3,Reactome_Pathways_2024
+Interferon Signaling,SP100,Reactome_Pathways_2024
+Interferon Signaling,SPHK1,Reactome_Pathways_2024
+Interferon Signaling,STAT1,Reactome_Pathways_2024
+Interferon Signaling,STAT2,Reactome_Pathways_2024
+Interferon Signaling,STAT3,Reactome_Pathways_2024
+Interferon Signaling,STRA13,Reactome_Pathways_2024
+Interferon Signaling,SUMO1,Reactome_Pathways_2024
+Interferon Signaling,TARBP2,Reactome_Pathways_2024
+Interferon Signaling,TP53,Reactome_Pathways_2024
+Interferon Signaling,TPR,Reactome_Pathways_2024
+Interferon Signaling,TRIM10,Reactome_Pathways_2024
+Interferon Signaling,TRIM14,Reactome_Pathways_2024
+Interferon Signaling,TRIM17,Reactome_Pathways_2024
+Interferon Signaling,TRIM2,Reactome_Pathways_2024
+Interferon Signaling,TRIM21,Reactome_Pathways_2024
+Interferon Signaling,TRIM22,Reactome_Pathways_2024
+Interferon Signaling,TRIM25,Reactome_Pathways_2024
+Interferon Signaling,TRIM26,Reactome_Pathways_2024
+Interferon Signaling,TRIM29,Reactome_Pathways_2024
+Interferon Signaling,TRIM3,Reactome_Pathways_2024
+Interferon Signaling,TRIM31,Reactome_Pathways_2024
+Interferon Signaling,TRIM34,Reactome_Pathways_2024
+Interferon Signaling,TRIM35,Reactome_Pathways_2024
+Interferon Signaling,TRIM38,Reactome_Pathways_2024
+Interferon Signaling,TRIM45,Reactome_Pathways_2024
+Interferon Signaling,TRIM46,Reactome_Pathways_2024
+Interferon Signaling,TRIM48,Reactome_Pathways_2024
+Interferon Signaling,TRIM5,Reactome_Pathways_2024
+Interferon Signaling,TRIM6,Reactome_Pathways_2024
+Interferon Signaling,TRIM62,Reactome_Pathways_2024
+Interferon Signaling,TRIM68,Reactome_Pathways_2024
+Interferon Signaling,TRIM8,Reactome_Pathways_2024
+Interferon Signaling,TRS1,Reactome_Pathways_2024
+Interferon Signaling,TUBA1A,Reactome_Pathways_2024
+Interferon Signaling,TUBA1B,Reactome_Pathways_2024
+Interferon Signaling,TUBA1C,Reactome_Pathways_2024
+Interferon Signaling,TUBA3C,Reactome_Pathways_2024
+Interferon Signaling,TUBA3E,Reactome_Pathways_2024
+Interferon Signaling,TUBA4A,Reactome_Pathways_2024
+Interferon Signaling,TUBA4B,Reactome_Pathways_2024
+Interferon Signaling,TUBA8,Reactome_Pathways_2024
+Interferon Signaling,TUBAL3,Reactome_Pathways_2024
+Interferon Signaling,TUBB1,Reactome_Pathways_2024
+Interferon Signaling,TUBB2A,Reactome_Pathways_2024
+Interferon Signaling,TUBB2B,Reactome_Pathways_2024
+Interferon Signaling,TUBB3,Reactome_Pathways_2024
+Interferon Signaling,TUBB4A,Reactome_Pathways_2024
+Interferon Signaling,TUBB4B,Reactome_Pathways_2024
+Interferon Signaling,TUBB6,Reactome_Pathways_2024
+Interferon Signaling,TUBB8,Reactome_Pathways_2024
+Interferon Signaling,TUBB8B,Reactome_Pathways_2024
+Interferon Signaling,TYK2,Reactome_Pathways_2024
+Interferon Signaling,UBA52,Reactome_Pathways_2024
+Interferon Signaling,UBA7,Reactome_Pathways_2024
+Interferon Signaling,UBB,Reactome_Pathways_2024
+Interferon Signaling,UBC,Reactome_Pathways_2024
+Interferon Signaling,UBE2E1,Reactome_Pathways_2024
+Interferon Signaling,UBE2I,Reactome_Pathways_2024
+Interferon Signaling,UBE2L6,Reactome_Pathways_2024
+Interferon Signaling,UBE2N,Reactome_Pathways_2024
+Interferon Signaling,USP18,Reactome_Pathways_2024
+Interferon Signaling,VCAM1,Reactome_Pathways_2024
+Interferon Signaling,VP3,Reactome_Pathways_2024
+Interferon Signaling,VTRNA2-1,Reactome_Pathways_2024
+Interferon Signaling,XAF1,Reactome_Pathways_2024
+Interferon Signaling,YBX1,Reactome_Pathways_2024
+Interferon Signaling,GAG,Reactome_Pathways_2024
+Interferon Signaling,TAT,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,ABCE1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,ADAR,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,BST2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,EGR1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,EIF2AK2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,GBP2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,HLA-A,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,HLA-B,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,HLA-C,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,HLA-E,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,HLA-F,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,HLA-G,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,HLA-H,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFI27,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFI35,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFI6,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFIT1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFIT2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFIT3,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFIT5,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFITM1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFITM2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFITM3,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA10,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA14,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA16,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA17,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA21,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA4,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA5,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA6,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA7,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNA8,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNAR1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNAR2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IFNB1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IP6K2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF3,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF4,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF5,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF6,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF7,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF8,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,IRF9,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,ISG15,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,ISG20,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,JAK1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,KPNA1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,KPNB1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,MX1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,MX2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,N,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,OAS1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,OAS2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,OAS3,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,OASL,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,PSMB8,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,PTPN1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,PTPN11,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,PTPN6,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,RNASEL,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,RPS27A,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,RSAD2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,SAMHD1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,SOCS1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,SOCS3,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,STAT1,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,STAT2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,TYK2,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,UBA52,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,UBB,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,UBC,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,USP18,Reactome_Pathways_2024
+Interferon Alpha Beta Signaling,XAF1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,AAAS,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,ABCE1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,ADAR,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,APITD1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,ARIH1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,BECN1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,CDK1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,CHUK,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,DHX9,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,DNAJC3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,DUS2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF2AK2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF2S1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF2S2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF2S3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4A1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4A2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4A3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4E,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4E2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4E3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4G1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4G2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,EIF4G3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FAAP100,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FAAP20,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FAAP24,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCA,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCB,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCC,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCE,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCF,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCG,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCL,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FANCM,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FLNA,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,FLNB,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,HERC5,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,HSPA1A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,HSPA1B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,HSPA1L,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,HSPA2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,HSPA8,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,HUMAN RESPIRATORY SYNCYTIAL VIRUS A2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,IFIT1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,IKBKB,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,IKBKG,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,ILF2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,ILF3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,IRF3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,ISG15,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,JAK1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,KPNA1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,KPNA2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,KPNA3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,KPNA4,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,KPNA5,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,KPNA7,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,KPNB1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,MAP2K6,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,MAPK3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,MAPT,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,MAVS,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,MX1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,MX2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,N,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NCK1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NDC1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NEDD4,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NPM1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NS,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP107,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP133,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP153,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP155,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP160,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP188,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP205,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP210,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP214,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP35,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP37,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP42,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP43,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP50,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP54,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP58,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP62,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP85,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP88,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP93,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,NUP98,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,OAS1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,OAS2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,OAS3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,OASL,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PDE12,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PIN1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PLCG1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,POM121,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,POM121C,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PPM1B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PPP2CA,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PPP2CB,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PPP2R1A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PPP2R1B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PPP2R5A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PRKRA,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,PTPN2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,RAE1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,RANBP2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,RIGI,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,RNASEL,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,RPS27A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,SEC13,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,SEH1L,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,SNCA,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,SPHK1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,STAT1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,STAT3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,STRA13,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,SUMO1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TARBP2,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TP53,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TPR,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TRIM25,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TRS1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA1A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA1B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA1C,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA3C,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA3E,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA4A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA4B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBA8,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBAL3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB2A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB2B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB4A,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB4B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB6,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB8,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TUBB8B,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBA52,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBA7,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBB,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBC,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBE2E1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBE2I,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBE2L6,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,UBE2N,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,USP18,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,VP3,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,VTRNA2-1,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,GAG,Reactome_Pathways_2024
+Antiviral Mechanism by IFN-stimulated Genes,TAT,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,AAAS,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,ARIH1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,BECN1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF2AK2,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4A1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4A2,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4A3,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4E,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4E2,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4E3,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4G1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4G2,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,EIF4G3,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,FLNB,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,HERC5,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,IFIT1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,IRF3,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,ISG15,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,JAK1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,KPNA1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,KPNA2,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,KPNA3,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,KPNA4,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,KPNA5,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,KPNA7,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,KPNB1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,MAPK3,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,MX1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,MX2,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NDC1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NEDD4,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NS,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP107,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP133,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP153,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP155,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP160,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP188,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP205,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP210,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP214,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP35,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP37,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP42,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP43,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP50,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP54,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP58,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP62,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP85,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP88,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP93,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,NUP98,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,PIN1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,PLCG1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,POM121,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,POM121C,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,PPM1B,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,RAE1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,RANBP2,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,RIGI,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,RPS27A,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,SEC13,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,SEH1L,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,STAT1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,TPR,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,TRIM25,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,UBA52,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,UBA7,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,UBB,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,UBC,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,UBE2E1,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,UBE2L6,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,UBE2N,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,USP18,Reactome_Pathways_2024
+ISG15 Antiviral Mechanism,GAG,Reactome_Pathways_2024

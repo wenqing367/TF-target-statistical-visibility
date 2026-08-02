@@ -1,0 +1,16 @@
+﻿data/raw/
+data/processed/
+*.h5ad
+*.h5
+*.loom
+*.mtx
+*.gz
+*.zip
+tmp*/
+render*/
+~$*
+*.tmp
+results/reverse_validation_from_refined_pairs/reverse_refined_top_pairs_by_repeat.csv
+figures/final/
+__pycache__/
+*.pyc

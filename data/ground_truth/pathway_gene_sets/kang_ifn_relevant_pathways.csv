@@ -1,0 +1,984 @@
+pathway,gene
+IL-6/JAK/STAT3 Signaling,IL4R
+IL-6/JAK/STAT3 Signaling,IL6ST
+IL-6/JAK/STAT3 Signaling,STAT1
+IL-6/JAK/STAT3 Signaling,IL1R1
+IL-6/JAK/STAT3 Signaling,CSF2RB
+IL-6/JAK/STAT3 Signaling,SOCS3
+IL-6/JAK/STAT3 Signaling,STAT3
+IL-6/JAK/STAT3 Signaling,OSMR
+IL-6/JAK/STAT3 Signaling,IL2RG
+IL-6/JAK/STAT3 Signaling,IFNGR1
+IL-6/JAK/STAT3 Signaling,TYK2
+IL-6/JAK/STAT3 Signaling,IL13RA1
+IL-6/JAK/STAT3 Signaling,TLR2
+IL-6/JAK/STAT3 Signaling,IFNGR2
+IL-6/JAK/STAT3 Signaling,IL10RB
+IL-6/JAK/STAT3 Signaling,IL6
+IL-6/JAK/STAT3 Signaling,IL1R2
+IL-6/JAK/STAT3 Signaling,IL3RA
+IL-6/JAK/STAT3 Signaling,IFNAR1
+IL-6/JAK/STAT3 Signaling,TNFRSF1A
+IL-6/JAK/STAT3 Signaling,MYD88
+IL-6/JAK/STAT3 Signaling,ACVR1B
+IL-6/JAK/STAT3 Signaling,CSF3R
+IL-6/JAK/STAT3 Signaling,ITGB3
+IL-6/JAK/STAT3 Signaling,REG1A
+IL-6/JAK/STAT3 Signaling,CXCL1
+IL-6/JAK/STAT3 Signaling,A2M
+IL-6/JAK/STAT3 Signaling,CSF2RA
+IL-6/JAK/STAT3 Signaling,IL15RA
+IL-6/JAK/STAT3 Signaling,IRF9
+IL-6/JAK/STAT3 Signaling,PDGFC
+IL-6/JAK/STAT3 Signaling,HAX1
+IL-6/JAK/STAT3 Signaling,BAK1
+IL-6/JAK/STAT3 Signaling,EBI3
+IL-6/JAK/STAT3 Signaling,INHBE
+IL-6/JAK/STAT3 Signaling,CRLF2
+IL-6/JAK/STAT3 Signaling,TNFRSF1B
+IL-6/JAK/STAT3 Signaling,CD14
+IL-6/JAK/STAT3 Signaling,PTPN1
+IL-6/JAK/STAT3 Signaling,PTPN2
+IL-6/JAK/STAT3 Signaling,IL1B
+IL-6/JAK/STAT3 Signaling,CSF1
+IL-6/JAK/STAT3 Signaling,IL18R1
+IL-6/JAK/STAT3 Signaling,TNF
+IL-6/JAK/STAT3 Signaling,PF4
+IL-6/JAK/STAT3 Signaling,CXCL13
+IL-6/JAK/STAT3 Signaling,LTBR
+IL-6/JAK/STAT3 Signaling,FAS
+IL-6/JAK/STAT3 Signaling,IL17RA
+IL-6/JAK/STAT3 Signaling,CXCL10
+IL-6/JAK/STAT3 Signaling,IL9R
+IL-6/JAK/STAT3 Signaling,STAM2
+IL-6/JAK/STAT3 Signaling,TNFRSF12A
+IL-6/JAK/STAT3 Signaling,STAT2
+IL-6/JAK/STAT3 Signaling,HMOX1
+IL-6/JAK/STAT3 Signaling,LEPR
+IL-6/JAK/STAT3 Signaling,CBL
+IL-6/JAK/STAT3 Signaling,CD9
+IL-6/JAK/STAT3 Signaling,CXCL3
+IL-6/JAK/STAT3 Signaling,TGFB1
+IL-6/JAK/STAT3 Signaling,MAP3K8
+IL-6/JAK/STAT3 Signaling,ITGA4
+IL-6/JAK/STAT3 Signaling,CD38
+IL-6/JAK/STAT3 Signaling,JUN
+IL-6/JAK/STAT3 Signaling,SOCS1
+IL-6/JAK/STAT3 Signaling,ACVRL1
+IL-6/JAK/STAT3 Signaling,PIM1
+IL-6/JAK/STAT3 Signaling,TNFRSF21
+IL-6/JAK/STAT3 Signaling,PIK3R5
+IL-6/JAK/STAT3 Signaling,GRB2
+IL-6/JAK/STAT3 Signaling,IRF1
+IL-6/JAK/STAT3 Signaling,DNTT
+IL-6/JAK/STAT3 Signaling,CSF2
+IL-6/JAK/STAT3 Signaling,IL2RA
+IL-6/JAK/STAT3 Signaling,PTPN11
+IL-6/JAK/STAT3 Signaling,IL12RB1
+IL-6/JAK/STAT3 Signaling,CCR1
+IL-6/JAK/STAT3 Signaling,CNTFR
+IL-6/JAK/STAT3 Signaling,PLA2G2A
+IL-6/JAK/STAT3 Signaling,CXCL9
+IL-6/JAK/STAT3 Signaling,CD44
+IL-6/JAK/STAT3 Signaling,IL7
+IL-6/JAK/STAT3 Signaling,CXCL11
+IL-6/JAK/STAT3 Signaling,CCL7
+IL-6/JAK/STAT3 Signaling,LTB
+IL-6/JAK/STAT3 Signaling,IL17RB
+IL-6/JAK/STAT3 Signaling,CD36
+Interferon Alpha Response,MX1
+Interferon Alpha Response,ISG15
+Interferon Alpha Response,OAS1
+Interferon Alpha Response,IFIT3
+Interferon Alpha Response,IFI44
+Interferon Alpha Response,IFI35
+Interferon Alpha Response,IRF7
+Interferon Alpha Response,RSAD2
+Interferon Alpha Response,IFI44L
+Interferon Alpha Response,IFITM1
+Interferon Alpha Response,IFI27
+Interferon Alpha Response,IRF9
+Interferon Alpha Response,OASL
+Interferon Alpha Response,EIF2AK2
+Interferon Alpha Response,IFIT2
+Interferon Alpha Response,CXCL10
+Interferon Alpha Response,TAP1
+Interferon Alpha Response,SP110
+Interferon Alpha Response,DDX60
+Interferon Alpha Response,UBE2L6
+Interferon Alpha Response,USP18
+Interferon Alpha Response,PSMB8
+Interferon Alpha Response,IFIH1
+Interferon Alpha Response,BST2
+Interferon Alpha Response,LGALS3BP
+Interferon Alpha Response,ADAR
+Interferon Alpha Response,ISG20
+Interferon Alpha Response,GBP2
+Interferon Alpha Response,IRF1
+Interferon Alpha Response,PLSCR1
+Interferon Alpha Response,PSMB9
+Interferon Alpha Response,HERC6
+Interferon Alpha Response,SAMD9
+Interferon Alpha Response,CMPK2
+Interferon Alpha Response,IFITM3
+Interferon Alpha Response,RTP4
+Interferon Alpha Response,STAT2
+Interferon Alpha Response,SAMD9L
+Interferon Alpha Response,LY6E
+Interferon Alpha Response,IFITM2
+Interferon Alpha Response,HELZ2
+Interferon Alpha Response,CXCL11
+Interferon Alpha Response,TRIM21
+Interferon Alpha Response,PARP14
+Interferon Alpha Response,TRIM26
+Interferon Alpha Response,PARP12
+Interferon Alpha Response,NMI
+Interferon Alpha Response,RNF31
+Interferon Alpha Response,HLA-C
+Interferon Alpha Response,CASP1
+Interferon Alpha Response,TRIM14
+Interferon Alpha Response,TDRD7
+Interferon Alpha Response,DHX58
+Interferon Alpha Response,PARP9
+Interferon Alpha Response,PNPT1
+Interferon Alpha Response,TRIM25
+Interferon Alpha Response,PSME1
+Interferon Alpha Response,WARS1
+Interferon Alpha Response,EPSTI1
+Interferon Alpha Response,UBA7
+Interferon Alpha Response,PSME2
+Interferon Alpha Response,B2M
+Interferon Alpha Response,TRIM5
+Interferon Alpha Response,C1S
+Interferon Alpha Response,LAP3
+Interferon Alpha Response,LAMP3
+Interferon Alpha Response,GBP4
+Interferon Alpha Response,NCOA7
+Interferon Alpha Response,TMEM140
+Interferon Alpha Response,CD74
+Interferon Alpha Response,GMPR
+Interferon Alpha Response,PSMA3
+Interferon Alpha Response,PROCR
+Interferon Alpha Response,IL7
+Interferon Alpha Response,IFI30
+Interferon Alpha Response,IRF2
+Interferon Alpha Response,CSF1
+Interferon Alpha Response,IL15
+Interferon Alpha Response,CNP
+Interferon Alpha Response,TENT5A
+Interferon Alpha Response,IL4R
+Interferon Alpha Response,CMTR1
+Interferon Alpha Response,CD47
+Interferon Alpha Response,LPAR6
+Interferon Alpha Response,MOV10
+Interferon Alpha Response,CASP8
+Interferon Alpha Response,TXNIP
+Interferon Alpha Response,SLC25A28
+Interferon Alpha Response,SELL
+Interferon Alpha Response,TRAFD1
+Interferon Alpha Response,BATF2
+Interferon Alpha Response,RIPK2
+Interferon Alpha Response,CCRL2
+Interferon Alpha Response,NUB1
+Interferon Alpha Response,OGFR
+Interferon Alpha Response,MVB12A
+Interferon Alpha Response,ELF1
+Interferon Gamma Response,STAT1
+Interferon Gamma Response,ISG15
+Interferon Gamma Response,IFIT1
+Interferon Gamma Response,MX1
+Interferon Gamma Response,IFIT3
+Interferon Gamma Response,IFI35
+Interferon Gamma Response,IRF7
+Interferon Gamma Response,IFIT2
+Interferon Gamma Response,OAS2
+Interferon Gamma Response,TAP1
+Interferon Gamma Response,EIF2AK2
+Interferon Gamma Response,RSAD2
+Interferon Gamma Response,MX2
+Interferon Gamma Response,IRF1
+Interferon Gamma Response,OAS3
+Interferon Gamma Response,TNFSF10
+Interferon Gamma Response,IRF9
+Interferon Gamma Response,CXCL10
+Interferon Gamma Response,IFI44
+Interferon Gamma Response,BST2
+Interferon Gamma Response,XAF1
+Interferon Gamma Response,SP110
+Interferon Gamma Response,OASL
+Interferon Gamma Response,PSMB8
+Interferon Gamma Response,IFI44L
+Interferon Gamma Response,IFITM3
+Interferon Gamma Response,DDX60
+Interferon Gamma Response,LGALS3BP
+Interferon Gamma Response,GBP4
+Interferon Gamma Response,IRF8
+Interferon Gamma Response,PSMB9
+Interferon Gamma Response,PML
+Interferon Gamma Response,IFIH1
+Interferon Gamma Response,UBE2L6
+Interferon Gamma Response,IFI27
+Interferon Gamma Response,ADAR
+Interferon Gamma Response,LY6E
+Interferon Gamma Response,STAT2
+Interferon Gamma Response,CXCL9
+Interferon Gamma Response,IL10RA
+Interferon Gamma Response,PLA2G4A
+Interferon Gamma Response,TRIM21
+Interferon Gamma Response,USP18
+Interferon Gamma Response,PTGS2
+Interferon Gamma Response,EPSTI1
+Interferon Gamma Response,C1S
+Interferon Gamma Response,DDX58
+Interferon Gamma Response,IL15
+Interferon Gamma Response,NLRC5
+Interferon Gamma Response,NMI
+Interferon Gamma Response,IDO1
+Interferon Gamma Response,PSMB10
+Interferon Gamma Response,CXCL11
+Interferon Gamma Response,ITGB7
+Interferon Gamma Response,SAMHD1
+Interferon Gamma Response,HERC6
+Interferon Gamma Response,CMPK2
+Interferon Gamma Response,SAMD9L
+Interferon Gamma Response,RTP4
+Interferon Gamma Response,PTPN2
+Interferon Gamma Response,PARP14
+Interferon Gamma Response,TNFAIP2
+Interferon Gamma Response,IFITM2
+Interferon Gamma Response,PLSCR1
+Interferon Gamma Response,SOCS1
+Interferon Gamma Response,CASP1
+Interferon Gamma Response,ICAM1
+Interferon Gamma Response,WARS1
+Interferon Gamma Response,PSME1
+Interferon Gamma Response,ISG20
+Interferon Gamma Response,IRF2
+Interferon Gamma Response,TRIM14
+Interferon Gamma Response,FCGR1A
+Interferon Gamma Response,MARCHF1
+Interferon Gamma Response,SOCS3
+Interferon Gamma Response,JAK2
+Interferon Gamma Response,HLA-DMA
+Interferon Gamma Response,PARP12
+Interferon Gamma Response,TNFAIP6
+Interferon Gamma Response,TRIM26
+Interferon Gamma Response,VCAM1
+Interferon Gamma Response,CD274
+Interferon Gamma Response,CIITA
+Interferon Gamma Response,NAMPT
+Interferon Gamma Response,SELP
+Interferon Gamma Response,GPR18
+Interferon Gamma Response,FPR1
+Interferon Gamma Response,HELZ2
+Interferon Gamma Response,PSME2
+Interferon Gamma Response,SERPING1
+Interferon Gamma Response,CCL5
+Interferon Gamma Response,RNF31
+Interferon Gamma Response,SOD2
+Interferon Gamma Response,TRIM25
+Interferon Gamma Response,LAP3
+Interferon Gamma Response,PSMA3
+Interferon Gamma Response,RNF213
+Interferon Gamma Response,PELI1
+Interferon Gamma Response,CFB
+Interferon Gamma Response,CD86
+Interferon Gamma Response,TXNIP
+Interferon Gamma Response,HLA-DQA1
+Interferon Gamma Response,GCH1
+Interferon Gamma Response,PNP
+Interferon Gamma Response,CCL7
+Interferon Gamma Response,PTPN6
+Interferon Gamma Response,SPPL2A
+Interferon Gamma Response,IL4R
+Interferon Gamma Response,PNPT1
+Interferon Gamma Response,DHX58
+Interferon Gamma Response,BTG1
+Interferon Gamma Response,CASP8
+Interferon Gamma Response,IFI30
+Interferon Gamma Response,CCL2
+Interferon Gamma Response,FGL2
+Interferon Gamma Response,CASP7
+Interferon Gamma Response,SECTM1
+Interferon Gamma Response,IL15RA
+Interferon Gamma Response,CD40
+Interferon Gamma Response,TRAFD1
+Interferon Gamma Response,HLA-DRB1
+Interferon Gamma Response,GBP6
+Interferon Gamma Response,LCP2
+Interferon Gamma Response,HLA-G
+Interferon Gamma Response,MT2A
+Interferon Gamma Response,RIPK1
+Interferon Gamma Response,KLRK1
+Interferon Gamma Response,UPP1
+Interferon Gamma Response,PSMB2
+Interferon Gamma Response,TDRD7
+Interferon Gamma Response,HIF1A
+Interferon Gamma Response,EIF4E3
+Interferon Gamma Response,VAMP8
+Interferon Gamma Response,PFKP
+Interferon Gamma Response,CD38
+Interferon Gamma Response,ZBP1
+Interferon Gamma Response,BANK1
+Interferon Gamma Response,TOR1B
+Interferon Gamma Response,RBCK1
+Interferon Gamma Response,PDE4B
+Interferon Gamma Response,MVP
+Interferon Gamma Response,IL7
+Interferon Gamma Response,BPGM
+Interferon Gamma Response,CMTR1
+Interferon Gamma Response,AUTS2
+Interferon Gamma Response,B2M
+Interferon Gamma Response,RIPK2
+Interferon Gamma Response,CD69
+Interferon Gamma Response,MYD88
+Interferon Gamma Response,PSMA2
+Interferon Gamma Response,PIM1
+Interferon Gamma Response,NOD1
+Interferon Gamma Response,CFH
+Interferon Gamma Response,TAPBP
+Interferon Gamma Response,SLC25A28
+Interferon Gamma Response,PTPN1
+Interferon Gamma Response,TNFAIP3
+Interferon Gamma Response,SSPN
+Interferon Gamma Response,NUP93
+Interferon Gamma Response,MTHFD2
+Interferon Gamma Response,CDKN1A
+Interferon Gamma Response,IRF4
+Interferon Gamma Response,NFKB1
+Interferon Gamma Response,BATF2
+Interferon Gamma Response,HLA-B
+Interferon Gamma Response,LATS2
+Interferon Gamma Response,IRF5
+Interferon Gamma Response,SLAMF7
+Interferon Gamma Response,ISOC1
+Interferon Gamma Response,P2RY14
+Interferon Gamma Response,STAT3
+Interferon Gamma Response,NCOA3
+Interferon Gamma Response,HLA-A
+Interferon Gamma Response,IL6
+Interferon Gamma Response,GZMA
+Interferon Gamma Response,IFNAR2
+Interferon Gamma Response,CD74
+Interferon Gamma Response,RAPGEF6
+Interferon Gamma Response,CASP4
+Interferon Gamma Response,FAS
+Interferon Gamma Response,OGFR
+Interferon Gamma Response,ARL4A
+Interferon Gamma Response,SRI
+Interferon Gamma Response,LYSMD2
+Interferon Gamma Response,CSF2RB
+Interferon Gamma Response,ST3GAL5
+Interferon Gamma Response,C1R
+Interferon Gamma Response,CASP3
+Interferon Gamma Response,CMKLR1
+Interferon Gamma Response,NFKBIA
+Interferon Gamma Response,METTL7B
+Interferon Gamma Response,ST8SIA4
+Interferon Gamma Response,XCL1
+Interferon Gamma Response,IL2RB
+Interferon Gamma Response,VAMP5
+Interferon Gamma Response,IL18BP
+Interferon Gamma Response,ZNFX1
+Interferon Gamma Response,ARID5B
+Interferon Gamma Response,APOL6
+Interferon Gamma Response,STAT4
+Complement,C2
+Complement,C1S
+Complement,CFB
+Complement,C1R
+Complement,SERPINE1
+Complement,MMP14
+Complement,SERPING1
+Complement,CTSL
+Complement,F5
+Complement,MMP13
+Complement,F7
+Complement,CTSS
+Complement,LGMN
+Complement,PLG
+Complement,C1QA
+Complement,CASP1
+Complement,GZMA
+Complement,ADAM9
+Complement,CALM3
+Complement,C1QC
+Complement,TIMP1
+Complement,DPP4
+Complement,KLK1
+Complement,KLKB1
+Complement,CD59
+Complement,CR2
+Complement,MMP15
+Complement,LAP3
+Complement,SPOCK2
+Complement,F10
+Complement,CTSB
+Complement,SERPINA1
+Complement,CTSO
+Complement,CD40LG
+Complement,CBLB
+Complement,PDP1
+Complement,C4BPB
+Complement,PLEK
+Complement,GP9
+Complement,PLAUR
+Complement,C3
+Complement,F2
+Complement,CASP4
+Complement,STX4
+Complement,CTSC
+Complement,USP15
+Complement,CR1
+Complement,DUSP6
+Complement,SERPINB2
+Complement,GPD2
+Complement,CFH
+Complement,FN1
+Complement,CD36
+Complement,CA2
+Complement,PSMB9
+Complement,APOBEC3G
+Complement,FCN1
+Complement,GZMK
+Complement,PDGFB
+Complement,CLU
+Complement,CASP10
+Complement,LRP1
+Complement,CTSD
+Complement,S100A9
+Complement,WAS
+Complement,BRPF3
+Complement,PLAT
+Complement,CDA
+Complement,MT3
+Complement,CASP7
+Complement,PRSS36
+Complement,PFN1
+Complement,GZMB
+Complement,RNF4
+Complement,ZEB1
+Complement,CASP5
+Complement,IRF1
+Complement,CPQ
+Complement,CDK5R1
+Complement,ATOX1
+Complement,PIK3CA
+Complement,TMPRSS6
+Complement,CPM
+Complement,RCE1
+Complement,CALM1
+Complement,DOCK9
+Complement,KYNU
+Complement,RASGRP1
+Complement,USP14
+Complement,LCP2
+Complement,GP1BA
+Complement,KIF2A
+Complement,GNB4
+Complement,LCK
+Complement,OLR1
+Complement,PREP
+Complement,MSRB1
+Complement,LTA4H
+Complement,ZFPM2
+Complement,LYN
+Complement,ACTN2
+Complement,SIRT6
+Complement,APOC1
+Complement,PRKCD
+Complement,ITGAM
+Complement,DGKH
+Complement,LTF
+Complement,MAFF
+Complement,KCNIP2
+Complement,PCLO
+Complement,DOCK10
+Complement,SH2B3
+Complement,RABIF
+Complement,SRC
+Complement,HPCAL4
+Complement,CD46
+Complement,PRDM4
+Complement,GNAI3
+Complement,C9
+Complement,PPP2CB
+Complement,IRF2
+Complement,FYN
+Complement,JAK2
+Complement,PLA2G4A
+Complement,PRCP
+Complement,USP8
+Complement,RHOG
+Complement,L3MBTL4
+Complement,LAMP2
+Complement,PIM1
+Complement,CXCL1
+Complement,F3
+Complement,GNAI2
+Complement,CASP9
+Complement,XPNPEP1
+Complement,PLSCR1
+Complement,IRF7
+Complement,CD55
+Complement,HSPA5
+Complement,GNB2
+Complement,DYRK2
+Complement,PLA2G7
+Complement,S100A12
+Complement,GRB2
+Complement,PHEX
+Complement,GNGT2
+Complement,DOCK4
+Complement,MMP12
+Complement,KCNIP3
+Complement,FDX1
+Complement,TIMP2
+Complement,MMP8
+Complement,FCER1G
+Complement,RBSN
+Complement,ANXA5
+Complement,CTSV
+Complement,GCA
+Complement,EHD1
+Complement,PRSS3
+Complement,COL4A2
+Complement,CSRP1
+Complement,PIK3R5
+Complement,SERPINC1
+Complement,ANG
+Complement,APOBEC3F
+Complement,GATA3
+Complement,DUSP5
+Complement,CASP3
+Complement,USP16
+Complement,CP
+Complement,PSEN1
+Complement,LIPA
+Complement,PCSK9
+Complement,DGKG
+Complement,GNG2
+Complement,ME1
+Complement,GMFB
+Complement,SCG3
+Complement,PPP4C
+Complement,CCL5
+Complement,CTSH
+Complement,F8
+Complement,APOA4
+Complement,IL6
+Complement,AKAP10
+Complement,ERAP2
+Complement,VCPIP1
+Complement,HSPA1A
+Complement,RAF1
+Complement,NOTCH4
+Complement,ADRA2B
+Complement,CEBPB
+Complement,HNF4A
+Complement,LGALS3
+Complement,TNFAIP3
+Complement,CDH13
+Complement,ITIH1
+Complement,TFPI2
+Complement,PIK3CG
+Complement,S100A13
+Inflammatory Response,CXCL10
+Inflammatory Response,CCL2
+Inflammatory Response,CCL5
+Inflammatory Response,FPR1
+Inflammatory Response,CCL20
+Inflammatory Response,IL1A
+Inflammatory Response,CXCL8
+Inflammatory Response,CCL7
+Inflammatory Response,CCL22
+Inflammatory Response,CXCL11
+Inflammatory Response,CCR7
+Inflammatory Response,EDN1
+Inflammatory Response,CD40
+Inflammatory Response,CXCL9
+Inflammatory Response,IL6
+Inflammatory Response,IL1B
+Inflammatory Response,TLR2
+Inflammatory Response,IL1R1
+Inflammatory Response,CD69
+Inflammatory Response,ICAM1
+Inflammatory Response,CCRL2
+Inflammatory Response,AQP9
+Inflammatory Response,EREG
+Inflammatory Response,C3AR1
+Inflammatory Response,GNA15
+Inflammatory Response,CMKLR1
+Inflammatory Response,PTGER4
+Inflammatory Response,LIF
+Inflammatory Response,IL15
+Inflammatory Response,NAMPT
+Inflammatory Response,OPRK1
+Inflammatory Response,ITGB8
+Inflammatory Response,PTAFR
+Inflammatory Response,ADM
+Inflammatory Response,PLAUR
+Inflammatory Response,NFKB1
+Inflammatory Response,INHBA
+Inflammatory Response,OSM
+Inflammatory Response,TNFSF10
+Inflammatory Response,TNFSF15
+Inflammatory Response,IFNGR2
+Inflammatory Response,ADGRE1
+Inflammatory Response,IL12B
+Inflammatory Response,CSF1
+Inflammatory Response,CXCL6
+Inflammatory Response,TNFRSF9
+Inflammatory Response,LYN
+Inflammatory Response,ACVR2A
+Inflammatory Response,LDLR
+Inflammatory Response,BDKRB1
+Inflammatory Response,HRH1
+Inflammatory Response,F3
+Inflammatory Response,BST2
+Inflammatory Response,PTGIR
+Inflammatory Response,CD55
+Inflammatory Response,CALCRL
+Inflammatory Response,CSF3
+Inflammatory Response,GPR132
+Inflammatory Response,IL4R
+Inflammatory Response,NLRP3
+Inflammatory Response,IL15RA
+Inflammatory Response,ADORA2B
+Inflammatory Response,GCH1
+Inflammatory Response,OLR1
+Inflammatory Response,PTGER2
+Inflammatory Response,CSF3R
+Inflammatory Response,MYC
+Inflammatory Response,RELA
+Inflammatory Response,TNFAIP6
+Inflammatory Response,IL7R
+Inflammatory Response,IL18
+Inflammatory Response,GABBR1
+Inflammatory Response,CD82
+Inflammatory Response,TNFSF9
+Inflammatory Response,NMUR1
+Inflammatory Response,IL2RB
+Inflammatory Response,TLR1
+Inflammatory Response,LPAR1
+Inflammatory Response,IRAK2
+Inflammatory Response,RIPK2
+Inflammatory Response,MMP14
+Inflammatory Response,P2RX7
+Inflammatory Response,SLC11A2
+Inflammatory Response,SELL
+Inflammatory Response,P2RY2
+Inflammatory Response,ABCA1
+Inflammatory Response,FFAR2
+Inflammatory Response,PROK2
+Inflammatory Response,GNAI3
+Inflammatory Response,TACR1
+Inflammatory Response,SLC7A1
+Inflammatory Response,CDKN1A
+Inflammatory Response,CYBB
+Inflammatory Response,TIMP1
+Inflammatory Response,HBEGF
+Inflammatory Response,SCARF1
+Inflammatory Response,EBI3
+Inflammatory Response,NFKBIA
+Inflammatory Response,SRI
+Inflammatory Response,SLC7A2
+Inflammatory Response,CCL17
+Inflammatory Response,TLR3
+Inflammatory Response,APLNR
+Inflammatory Response,OSMR
+Inflammatory Response,IL10RA
+Inflammatory Response,PSEN1
+Inflammatory Response,GPR183
+Inflammatory Response,ATP2B1
+Inflammatory Response,TNFRSF1B
+Inflammatory Response,BEST1
+Inflammatory Response,GPC3
+Inflammatory Response,SCN1B
+Inflammatory Response,ACVR1B
+Inflammatory Response,HPN
+Inflammatory Response,SEMA4D
+Inflammatory Response,KLF6
+Inflammatory Response,CD48
+Inflammatory Response,CXCR6
+Inflammatory Response,SLC1A2
+Inflammatory Response,GP1BA
+Inflammatory Response,TAPBP
+Inflammatory Response,RGS16
+Inflammatory Response,SLAMF1
+Inflammatory Response,LCK
+Inflammatory Response,HIF1A
+Inflammatory Response,AHR
+Inflammatory Response,NMI
+Inflammatory Response,RHOG
+Inflammatory Response,TPBG
+Inflammatory Response,NPFFR2
+Inflammatory Response,IFNAR1
+Inflammatory Response,ICOSLG
+Inflammatory Response,RASGRP1
+Inflammatory Response,IFITM1
+Inflammatory Response,KCNJ2
+Inflammatory Response,LY6E
+Inflammatory Response,IL18R1
+Inflammatory Response,IL10
+Inflammatory Response,KCNA3
+Inflammatory Response,HAS2
+Inflammatory Response,DCBLD2
+Inflammatory Response,LAMP3
+Inflammatory Response,VIP
+Inflammatory Response,CD70
+Inflammatory Response,RGS1
+Inflammatory Response,SLC31A1
+Inflammatory Response,ADRM1
+Inflammatory Response,KCNMB2
+Inflammatory Response,SERPINE1
+Inflammatory Response,MXD1
+Inflammatory Response,AXL
+Inflammatory Response,MEFV
+Inflammatory Response,PVR
+Inflammatory Response,CCL24
+Inflammatory Response,PDE4B
+Inflammatory Response,LCP2
+Inflammatory Response,PDPN
+Inflammatory Response,IRF7
+Inflammatory Response,MET
+Inflammatory Response,ATP2A2
+Inflammatory Response,SLC31A2
+Inflammatory Response,FZD5
+Inflammatory Response,ITGA5
+Inflammatory Response,SGMS2
+Inflammatory Response,MARCO
+Inflammatory Response,CD14
+Inflammatory Response,EIF2AK2
+Inflammatory Response,ROS1
+Inflammatory Response,ATP2C1
+Inflammatory Response,NDP
+Inflammatory Response,BTG2
+Inflammatory Response,MSR1
+Inflammatory Response,PTPRE
+Inflammatory Response,RNF144B
+Inflammatory Response,PCDH7
+Inflammatory Response,SPHK1
+Inflammatory Response,IL18RAP
+Inflammatory Response,RTP4
+Inflammatory Response,RAF1
+Inflammatory Response,CHST2
+Inflammatory Response,ITGB3
+Inflammatory Response,KIF1B
+Inflammatory Response,SELE
+Inflammatory Response,NOD2
+Inflammatory Response,C5AR1
+Inflammatory Response,EMP3
+Inflammatory Response,CLEC5A
+Inflammatory Response,TACR3
+Inflammatory Response,SLC4A4
+Inflammatory Response,MEP1A
+Inflammatory Response,SELENOS
+Inflammatory Response,LTA
+Inflammatory Response,PIK3R5
+Inflammatory Response,STAB1
+Inflammatory Response,IRF1
+Inflammatory Response,ICAM4
+Inflammatory Response,P2RX4
+Inflammatory Response,ABI1
+Inflammatory Response,CX3CL1
+Inflammatory Response,SLC28A2
+IL-2/STAT5 Signaling,SOCS2
+IL-2/STAT5 Signaling,CISH
+IL-2/STAT5 Signaling,PIM1
+IL-2/STAT5 Signaling,IL2RA
+IL-2/STAT5 Signaling,TNFRSF4
+IL-2/STAT5 Signaling,SOCS1
+IL-2/STAT5 Signaling,TNFRSF9
+IL-2/STAT5 Signaling,XBP1
+IL-2/STAT5 Signaling,RRAGD
+IL-2/STAT5 Signaling,HK2
+IL-2/STAT5 Signaling,PHLDA1
+IL-2/STAT5 Signaling,IL2RB
+IL-2/STAT5 Signaling,CTLA4
+IL-2/STAT5 Signaling,NFIL3
+IL-2/STAT5 Signaling,CD83
+IL-2/STAT5 Signaling,IKZF2
+IL-2/STAT5 Signaling,IL10
+IL-2/STAT5 Signaling,TNFRSF18
+IL-2/STAT5 Signaling,DHRS3
+IL-2/STAT5 Signaling,ECM1
+IL-2/STAT5 Signaling,ADAM19
+IL-2/STAT5 Signaling,SLC2A3
+IL-2/STAT5 Signaling,HIPK2
+IL-2/STAT5 Signaling,BATF3
+IL-2/STAT5 Signaling,BHLHE40
+IL-2/STAT5 Signaling,PTGER2
+IL-2/STAT5 Signaling,DENND5A
+IL-2/STAT5 Signaling,ITIH5
+IL-2/STAT5 Signaling,PHTF2
+IL-2/STAT5 Signaling,GADD45B
+IL-2/STAT5 Signaling,NRP1
+IL-2/STAT5 Signaling,NCOA3
+IL-2/STAT5 Signaling,CD79B
+IL-2/STAT5 Signaling,AHR
+IL-2/STAT5 Signaling,TNFRSF1B
+IL-2/STAT5 Signaling,NDRG1
+IL-2/STAT5 Signaling,BCL2L1
+IL-2/STAT5 Signaling,GABARAPL1
+IL-2/STAT5 Signaling,LIF
+IL-2/STAT5 Signaling,TIAM1
+IL-2/STAT5 Signaling,BMPR2
+IL-2/STAT5 Signaling,MAP3K8
+IL-2/STAT5 Signaling,RHOB
+IL-2/STAT5 Signaling,MYC
+IL-2/STAT5 Signaling,S100A1
+IL-2/STAT5 Signaling,ETFBKMT
+IL-2/STAT5 Signaling,CAPG
+IL-2/STAT5 Signaling,ST3GAL4
+IL-2/STAT5 Signaling,PENK
+IL-2/STAT5 Signaling,IRF4
+IL-2/STAT5 Signaling,CST7
+IL-2/STAT5 Signaling,WLS
+IL-2/STAT5 Signaling,TLR7
+IL-2/STAT5 Signaling,IKZF4
+IL-2/STAT5 Signaling,GBP4
+IL-2/STAT5 Signaling,RGS16
+IL-2/STAT5 Signaling,SPP1
+IL-2/STAT5 Signaling,IL13
+IL-2/STAT5 Signaling,SLC29A2
+IL-2/STAT5 Signaling,NFKBIZ
+IL-2/STAT5 Signaling,IL4R
+IL-2/STAT5 Signaling,MXD1
+IL-2/STAT5 Signaling,CSF2
+IL-2/STAT5 Signaling,FAH
+IL-2/STAT5 Signaling,CTSZ
+IL-2/STAT5 Signaling,ITGAE
+IL-2/STAT5 Signaling,MUC1
+IL-2/STAT5 Signaling,MAPKAPK2
+IL-2/STAT5 Signaling,TNFRSF21
+IL-2/STAT5 Signaling,NT5E
+IL-2/STAT5 Signaling,FLT3LG
+IL-2/STAT5 Signaling,CCND2
+IL-2/STAT5 Signaling,TRAF1
+IL-2/STAT5 Signaling,LCLAT1
+IL-2/STAT5 Signaling,IL3RA
+IL-2/STAT5 Signaling,CYFIP1
+IL-2/STAT5 Signaling,BCL2
+IL-2/STAT5 Signaling,FGL2
+IL-2/STAT5 Signaling,PRNP
+IL-2/STAT5 Signaling,EEF1AKMT1
+IL-2/STAT5 Signaling,PUS1
+IL-2/STAT5 Signaling,ITGAV
+IL-2/STAT5 Signaling,NCS1
+IL-2/STAT5 Signaling,DCPS
+IL-2/STAT5 Signaling,AMACR
+IL-2/STAT5 Signaling,FAM126B
+IL-2/STAT5 Signaling,PTH1R
+IL-2/STAT5 Signaling,ODC1
+IL-2/STAT5 Signaling,IGF1R
+IL-2/STAT5 Signaling,PTCH1
+IL-2/STAT5 Signaling,ENO3
+IL-2/STAT5 Signaling,CD81
+IL-2/STAT5 Signaling,MAFF
+IL-2/STAT5 Signaling,EMP1
+IL-2/STAT5 Signaling,CDKN1C
+IL-2/STAT5 Signaling,CAPN3
+IL-2/STAT5 Signaling,IL1R2
+IL-2/STAT5 Signaling,SYT11
+IL-2/STAT5 Signaling,TTC39B
+IL-2/STAT5 Signaling,ANXA4
+IL-2/STAT5 Signaling,BATF
+IL-2/STAT5 Signaling,P4HA1
+IL-2/STAT5 Signaling,GPR65
+IL-2/STAT5 Signaling,SLC1A5
+IL-2/STAT5 Signaling,IGF2R
+IL-2/STAT5 Signaling,CKAP4
+IL-2/STAT5 Signaling,CCR4
+IL-2/STAT5 Signaling,CD44
+IL-2/STAT5 Signaling,P2RX4
+IL-2/STAT5 Signaling,GATA1
+IL-2/STAT5 Signaling,KLF6
+IL-2/STAT5 Signaling,ARL4A
+IL-2/STAT5 Signaling,HOPX
+IL-2/STAT5 Signaling,GPR83
+IL-2/STAT5 Signaling,ITGA6
+IL-2/STAT5 Signaling,CD48
+IL-2/STAT5 Signaling,DRC1
+IL-2/STAT5 Signaling,SELP
+IL-2/STAT5 Signaling,GLIPR2
+IL-2/STAT5 Signaling,SMPDL3A
+IL-2/STAT5 Signaling,PLSCR1
+IL-2/STAT5 Signaling,FURIN
+IL-2/STAT5 Signaling,SERPINB6
+IL-2/STAT5 Signaling,TNFSF11
+IL-2/STAT5 Signaling,GPX4
+IL-2/STAT5 Signaling,LRRC8C
+IL-2/STAT5 Signaling,CCNE1
+IL-2/STAT5 Signaling,CASP3
+IL-2/STAT5 Signaling,SH3BGRL2
+IL-2/STAT5 Signaling,SNX9
+IL-2/STAT5 Signaling,PLEC
+IL-2/STAT5 Signaling,BMP2
+IL-2/STAT5 Signaling,ICOS
+IL-2/STAT5 Signaling,ALCAM
+IL-2/STAT5 Signaling,LTB
+IL-2/STAT5 Signaling,ENPP1
+IL-2/STAT5 Signaling,IL1RL1
+IL-2/STAT5 Signaling,MYO1C
+IL-2/STAT5 Signaling,IFNGR1
+IL-2/STAT5 Signaling,PLIN2
+IL-2/STAT5 Signaling,IL18R1
+IL-2/STAT5 Signaling,AHNAK
+IL-2/STAT5 Signaling,PRKCH
+IL-2/STAT5 Signaling,TNFRSF8
+IL-2/STAT5 Signaling,SYNGR2
+IL-2/STAT5 Signaling,GALM
+IL-2/STAT5 Signaling,POU2F1
+IL-2/STAT5 Signaling,EOMES
+IL-2/STAT5 Signaling,NOP2
+IL-2/STAT5 Signaling,PTRH2
+IL-2/STAT5 Signaling,RHOH
+IL-2/STAT5 Signaling,CDC6
+IL-2/STAT5 Signaling,MYO1E
+IL-2/STAT5 Signaling,CXCL10
+IL-2/STAT5 Signaling,SNX14
+IL-2/STAT5 Signaling,IRF6
+IL-2/STAT5 Signaling,IL10RA
+IL-2/STAT5 Signaling,MAP6
+IL-2/STAT5 Signaling,TNFSF10
+IL-2/STAT5 Signaling,SPRED2
+IL-2/STAT5 Signaling,SELL
+IL-2/STAT5 Signaling,SERPINC1
+IL-2/STAT5 Signaling,CDCP1
+IL-2/STAT5 Signaling,RORA
+IL-2/STAT5 Signaling,COCH
+IL-2/STAT5 Signaling,CSF1
+IL-2/STAT5 Signaling,F2RL2
+IL-2/STAT5 Signaling,UCK2
+IL-2/STAT5 Signaling,CA2
+IL-2/STAT5 Signaling,IFITM3
+IL-2/STAT5 Signaling,UMPS
+IL-2/STAT5 Signaling,HUWE1
+IL-2/STAT5 Signaling,COL6A1
+IL-2/STAT5 Signaling,ABCB1
+IL-2/STAT5 Signaling,RNH1
+IL-2/STAT5 Signaling,IRF8
+IL-2/STAT5 Signaling,GUCY1B1
+IL-2/STAT5 Signaling,AHCY
+IL-2/STAT5 Signaling,PRAF2
+IL-2/STAT5 Signaling,GSTO1
+IL-2/STAT5 Signaling,TWSG1
+IL-2/STAT5 Signaling,CDC42SE2
+IL-2/STAT5 Signaling,PLAGL1
+IL-2/STAT5 Signaling,APLP1
+IL-2/STAT5 Signaling,PLPP1
+IL-2/STAT5 Signaling,SPRY4
+IL-2/STAT5 Signaling,SCN9A
+IL-2/STAT5 Signaling,SHE
+IL-2/STAT5 Signaling,PDCD2L
+IL-2/STAT5 Signaling,CCND3
+IL-2/STAT5 Signaling,LRIG1
+IL-2/STAT5 Signaling,SWAP70
+IL-2/STAT5 Signaling,SLC39A8
+IL-2/STAT5 Signaling,RABGAP1L
+IL-2/STAT5 Signaling,TGM2
+IL-2/STAT5 Signaling,PNP
+IL-2/STAT5 Signaling,AGER
+IL-2/STAT5 Signaling,ETV4
+IL-2/STAT5 Signaling,CD86
