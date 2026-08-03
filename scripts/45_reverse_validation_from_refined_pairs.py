@@ -4,7 +4,7 @@ Reverse validation using already computed refined-pair results.
 This is the minimal second objective:
 within the TF-gene pairs already evaluated in the strict refined forward
 validation, rank pairs by the five existing metrics and ask how many top-ranked
-pairs are database-supported positives.
+pairs are curated positives.
 
 No new pair universe is generated and no expression metrics are recomputed.
 """
@@ -365,9 +365,9 @@ def write_report(search: pd.DataFrame, overlap_summary: pd.DataFrame, top_pairs:
         f"- Overlap summary rows: {len(overlap_summary)}",
         f"- Pathway summary rows: {len(pathways)}",
         "",
-        "Balanced random baseline: each repeat contains 1:1 known positives and matched background pairs, so the expected known-positive fraction among top-ranked pairs is 0.5 if the metric carries no ranking signal.",
+        "Balanced random baseline: each repeat contains 1:1 curated positives and matched background pairs, so the expected curated-positive fraction among top-ranked pairs is 0.5 if the metric carries no ranking signal.",
         "",
-        "Pearson/Spearman top known-positive fractions:",
+        "Pearson/Spearman top curated-positive fractions:",
         focus[
             [
                 "dataset",
@@ -381,7 +381,7 @@ def write_report(search: pd.DataFrame, overlap_summary: pd.DataFrame, top_pairs:
             ]
         ].to_string(index=False),
     ]
-    (OUT / "reverse_refined_validation_report.md").write_text("\n".join(lines), encoding="utf-8")
+    (OUT / "reverse_refined_validation_report.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def main() -> None:

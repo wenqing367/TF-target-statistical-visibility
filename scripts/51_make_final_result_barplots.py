@@ -4,7 +4,7 @@ Create final result bar plots for the repositioned GRN visibility manuscript.
 
 Figures:
 - Figure 3: Forward validation main result across datasets and metrics.
-- Figure 4: Reverse validation known-positive fraction among high-scoring pairs.
+- Figure 4: Reverse validation curated-positive fraction among high-scoring pairs.
 - Figure 5: Pathway enrichment of high-scoring positive targets.
 
 The script reads only current refined result tables and writes new final figures.
@@ -199,7 +199,7 @@ def figure3_forward_main(forward_repeat: pd.DataFrame, forward_summary: pd.DataF
     save(fig, "figure3_forward_main_barplot")
 
 
-def figure4_reverse_known_fraction(reverse_summary: pd.DataFrame) -> None:
+def figure4_reverse_curated_fraction(reverse_summary: pd.DataFrame) -> None:
     df = reverse_summary[reverse_summary["top_level"].isin(["top_100", "top_500"])].copy()
     summary = (
         df.groupby(["metric", "top_level"], dropna=False)
@@ -233,13 +233,13 @@ def figure4_reverse_known_fraction(reverse_summary: pd.DataFrame) -> None:
     ax.axhline(0.5, color="#333333", linestyle="--", linewidth=0.9)
     ax.set_xticks(x)
     ax.set_xticklabels([METRIC_LABELS[m] for m in METRIC_ORDER], rotation=18, ha="right")
-    ax.set_ylabel("Known-positive fraction")
-    ax.set_title("Top-ranked pairs are enriched for known regulatory edges")
+    ax.set_ylabel("Curated-positive fraction")
+    ax.set_title("Top-ranked pairs are enriched for curated regulatory edges")
     ax.set_ylim(0.46, max(0.68, summary["mean_fraction"].max() + 0.04))
     ax.legend(title="", frameon=False, ncol=2, loc="upper right")
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
-    save(fig, "figure4_reverse_known_fraction_barplot")
+    save(fig, "figure4_reverse_curated_fraction_barplot")
 
 
 def figure5_pathway_enrichment(pathway_summary: pd.DataFrame) -> None:
@@ -298,7 +298,7 @@ def figure5_pathway_enrichment(pathway_summary: pd.DataFrame) -> None:
     ax.spines["bottom"].set_color("#444444")
     ax.spines["bottom"].set_linewidth(0.8)
     ax.set_title("Pathway enrichment of high-scoring positive targets", fontsize=10.8, fontweight="bold", pad=14)
-    ax.text(0, 1.012, "Top 100 ranked database-supported positive pairs; five datasets", transform=ax.transAxes, fontsize=7.9, color="#555555", ha="left", va="bottom")
+    ax.text(0, 1.012, "Top 100 ranked curated positive pairs; five datasets", transform=ax.transAxes, fontsize=7.9, color="#555555", ha="left", va="bottom")
     legend = [
         Patch(facecolor=COLORS["Hallmark"], edgecolor="#424242", label="Hallmark"),
         Patch(facecolor=COLORS["Reactome"], edgecolor="#424242", label="Reactome"),
@@ -315,7 +315,7 @@ def main() -> None:
     reverse_summary = pd.read_csv(REVERSE / "reverse_refined_known_overlap_summary.csv")
     pathway_summary = pd.read_csv(REVERSE / "reverse_refined_pathway_validation_summary.csv")
     figure3_forward_main(forward_repeat, forward_summary)
-    figure4_reverse_known_fraction(reverse_summary)
+    figure4_reverse_curated_fraction(reverse_summary)
     figure5_pathway_enrichment(pathway_summary)
 
 
