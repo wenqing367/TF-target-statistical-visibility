@@ -1,4 +1,4 @@
-﻿data/raw/
+data/raw/
 data/processed/
 *.h5ad
 *.h5
@@ -12,5 +12,9 @@ render*/
 *.tmp
 results/reverse_validation_from_refined_pairs/reverse_refined_top_pairs_by_repeat.csv
 figures/final/
+figures/hierarchical_context/
+results/formal_abs_association/
+results/formal_abs_association_refined_matching_test_run/
+results/hierarchical_context_outputs/
 __pycache__/
 *.pyc

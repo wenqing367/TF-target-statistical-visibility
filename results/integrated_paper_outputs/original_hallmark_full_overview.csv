@@ -1,0 +1,151 @@
+analysis_group,pathway,top_level,combinations,combinations_fdr_in_at_least_5_repeats,median_fold_enrichment,best_bh_fdr
+Original dataset contexts,Adipogenesis,top_100,60,0,0.9644088412521098,0.27540460775604153
+Original dataset contexts,Adipogenesis,top_500,60,1,1.1209385984704912,0.002477571054001677
+Original dataset contexts,Adipogenesis,top_5pct,60,0,0.9607985739216145,0.27540460775604153
+Original dataset contexts,Allograft Rejection,top_100,60,48,4.596105595341568,3.9691996645174905e-08
+Original dataset contexts,Allograft Rejection,top_500,60,60,3.9320486726973582,5.304654138066796e-23
+Original dataset contexts,Allograft Rejection,top_5pct,60,45,4.33106666487196,5.286231708681316e-14
+Original dataset contexts,Androgen Response,top_100,60,0,0.0,0.6244681093656341
+Original dataset contexts,Androgen Response,top_500,60,0,0.5498256209793648,0.19660234265996704
+Original dataset contexts,Androgen Response,top_5pct,60,0,0.0,0.23320991335622693
+Original dataset contexts,Angiogenesis,top_100,60,0,0.0,0.24963655774398869
+Original dataset contexts,Angiogenesis,top_500,60,8,3.4807482588011194,0.0037212966152179337
+Original dataset contexts,Angiogenesis,top_5pct,60,1,0.0,0.03953254644403794
+Original dataset contexts,Apical Junction,top_100,60,1,2.0564342612044815,0.017188968125772548
+Original dataset contexts,Apical Junction,top_500,60,18,1.7036042437545895,0.00022290056580219668
+Original dataset contexts,Apical Junction,top_5pct,60,15,1.682410319357292,0.00022290056580219668
+Original dataset contexts,Apical Surface,top_100,60,6,4.14203152191109,0.002814529797709504
+Original dataset contexts,Apical Surface,top_500,60,19,3.321723424091437,0.00014361630978965118
+Original dataset contexts,Apical Surface,top_5pct,60,11,3.866805340819032,0.0013351597244353108
+Original dataset contexts,Apoptosis,top_100,60,9,2.172830882352941,0.000717624153828698
+Original dataset contexts,Apoptosis,top_500,60,59,3.102374072902761,5.675888093606274e-14
+Original dataset contexts,Apoptosis,top_5pct,60,31,2.9363220058891297,1.5628169259730608e-10
+Original dataset contexts,Bile Acid Metabolism,top_100,60,0,1.9534384457497889,0.3909207935786763
+Original dataset contexts,Bile Acid Metabolism,top_500,60,1,1.721349687488515,0.015764040165415324
+Original dataset contexts,Bile Acid Metabolism,top_5pct,60,0,2.07398148753225,0.19343204571347355
+Original dataset contexts,Cholesterol Homeostasis,top_100,60,0,2.2845200438541275,0.0787548040479406
+Original dataset contexts,Cholesterol Homeostasis,top_500,60,8,1.9890209230199896,0.001943762573576422
+Original dataset contexts,Cholesterol Homeostasis,top_5pct,60,1,2.24104446894081,0.015477312527450222
+Original dataset contexts,Coagulation,top_100,60,0,3.0940139528793824,0.07279055856543304
+Original dataset contexts,Coagulation,top_500,60,1,2.213017346521445,0.02288987565761246
+Original dataset contexts,Coagulation,top_5pct,60,1,2.961052963511354,0.018718811043525595
+Original dataset contexts,Complement,top_100,60,25,3.2595200086442864,2.9229527646845613e-05
+Original dataset contexts,Complement,top_500,60,57,3.0835047685707857,1.0277387466284985e-10
+Original dataset contexts,Complement,top_5pct,60,43,4.110467540220965,1.14435317715517e-09
+Original dataset contexts,Dna Repair,top_100,60,0,0.0,0.7780885105964338
+Original dataset contexts,Dna Repair,top_500,60,0,0.3761029545675404,0.2843898878287593
+Original dataset contexts,Dna Repair,top_5pct,60,0,0.0,0.9408723032541648
+Original dataset contexts,E2F Targets,top_100,60,0,1.0095138050398171,0.12841015261028305
+Original dataset contexts,E2F Targets,top_500,60,7,0.9358374487426862,0.002429351446345924
+Original dataset contexts,E2F Targets,top_5pct,60,0,0.4850406400699482,0.43834718608373435
+Original dataset contexts,Epithelial Mesenchymal Transition,top_100,60,4,2.7082185828877003,0.025453238438332894
+Original dataset contexts,Epithelial Mesenchymal Transition,top_500,60,31,2.6401642517680233,5.9026892314326626e-06
+Original dataset contexts,Epithelial Mesenchymal Transition,top_5pct,60,18,2.839665269329987,2.5684556636998163e-06
+Original dataset contexts,Estrogen Response Early,top_100,60,0,1.5509963787924577,0.0637371326527611
+Original dataset contexts,Estrogen Response Early,top_500,60,2,1.9183990813793679,0.0037725876435296822
+Original dataset contexts,Estrogen Response Early,top_5pct,60,2,1.5587074649068084,0.004230142487843477
+Original dataset contexts,Estrogen Response Late,top_100,60,0,1.8890921334894002,0.03543746362372112
+Original dataset contexts,Estrogen Response Late,top_500,60,17,2.0756191693333803,0.00023767351349403444
+Original dataset contexts,Estrogen Response Late,top_5pct,60,19,1.827432983682984,0.00028838837250362624
+Original dataset contexts,Fatty Acid Metabolism,top_100,60,0,0.0,0.034585117731059656
+Original dataset contexts,Fatty Acid Metabolism,top_500,60,6,1.276797455688965,0.002461570291158546
+Original dataset contexts,Fatty Acid Metabolism,top_5pct,60,0,0.6824567832997844,0.04176108358767114
+Original dataset contexts,G2M Checkpoint,top_100,60,0,1.1107576974112507,0.12924077463520714
+Original dataset contexts,G2M Checkpoint,top_500,60,5,1.2914212875514093,0.0005052311958005266
+Original dataset contexts,G2M Checkpoint,top_5pct,60,0,0.5213026319820737,0.34694513128522564
+Original dataset contexts,Glycolysis,top_100,60,0,1.1492070905487517,0.02536706337047089
+Original dataset contexts,Glycolysis,top_500,60,12,1.5061285665514088,0.00011606653132803459
+Original dataset contexts,Glycolysis,top_5pct,60,4,0.9365768762186624,0.003981037188411249
+Original dataset contexts,Hedgehog Signaling,top_100,60,6,3.6621268750629214,0.026118760020207014
+Original dataset contexts,Hedgehog Signaling,top_500,60,7,2.7107343717035137,0.0018674221622760445
+Original dataset contexts,Hedgehog Signaling,top_5pct,60,6,2.6368461663417806,0.003636473221896679
+Original dataset contexts,Heme Metabolism,top_100,60,0,1.2116459025470654,0.12860469411300698
+Original dataset contexts,Heme Metabolism,top_500,60,2,1.466372253066441,0.021497955081805038
+Original dataset contexts,Heme Metabolism,top_5pct,60,1,1.7988602568120944,0.01510055102683551
+Original dataset contexts,Hypoxia,top_100,60,24,3.267240158656192,5.783736287308976e-06
+Original dataset contexts,Hypoxia,top_500,60,55,2.5844779988443314,9.603992582365634e-10
+Original dataset contexts,Hypoxia,top_5pct,60,32,2.95109742949069,1.8821671142491714e-10
+Original dataset contexts,Il2 Stat5 Signaling,top_100,60,1,1.4524276855150224,0.019884335705597302
+Original dataset contexts,Il2 Stat5 Signaling,top_500,60,25,1.9008921873306,3.6375359850298075e-05
+Original dataset contexts,Il2 Stat5 Signaling,top_5pct,60,8,1.7726501257373513,0.0030959051903777903
+Original dataset contexts,Il6 Jak Stat3 Signaling,top_100,60,26,5.4849714865917445,3.638916340033991e-07
+Original dataset contexts,Il6 Jak Stat3 Signaling,top_500,60,56,4.652534162835896,1.0504762201724729e-13
+Original dataset contexts,Il6 Jak Stat3 Signaling,top_5pct,60,35,4.652056895926544,1.0704268432083359e-10
+Original dataset contexts,Inflammatory Response,top_100,60,50,4.7720278182829485,5.6084890872335794e-08
+Original dataset contexts,Inflammatory Response,top_500,60,60,3.7316618753582875,2.106638727843376e-15
+Original dataset contexts,Inflammatory Response,top_5pct,60,47,4.720648033947416,1.623256182339902e-11
+Original dataset contexts,Interferon Alpha Response,top_100,60,18,2.364684581665714,0.0002807772950843752
+Original dataset contexts,Interferon Alpha Response,top_500,60,33,2.379965927287453,1.0964013751003692e-12
+Original dataset contexts,Interferon Alpha Response,top_5pct,60,20,2.8541500526332575,8.90940490865962e-14
+Original dataset contexts,Interferon Gamma Response,top_100,60,39,3.6637518415181334,1.2459757487803392e-10
+Original dataset contexts,Interferon Gamma Response,top_500,60,58,3.1098861152513395,5.432954586588451e-21
+Original dataset contexts,Interferon Gamma Response,top_5pct,60,40,3.5453647416413374,5.37652284454488e-21
+Original dataset contexts,Kras Signaling Dn,top_100,60,0,0.0,0.41470592803118544
+Original dataset contexts,Kras Signaling Dn,top_500,60,0,1.166513127169809,0.19881384027540608
+Original dataset contexts,Kras Signaling Dn,top_5pct,60,0,0.0,0.13747436090273296
+Original dataset contexts,Kras Signaling Up,top_100,60,16,3.489251227270921,0.0005594226679944414
+Original dataset contexts,Kras Signaling Up,top_500,60,40,2.909572046075875,1.285020709843573e-06
+Original dataset contexts,Kras Signaling Up,top_5pct,60,34,3.9568546631285075,3.462208831867751e-08
+Original dataset contexts,Mitotic Spindle,top_100,60,0,0.0,0.1745682092064372
+Original dataset contexts,Mitotic Spindle,top_500,60,1,0.6628595421709982,0.015945228294015384
+Original dataset contexts,Mitotic Spindle,top_5pct,60,2,0.0,0.017276909278533127
+Original dataset contexts,Mtorc1 Signaling,top_100,60,2,1.3475407602510323,0.0031119622412854185
+Original dataset contexts,Mtorc1 Signaling,top_500,60,13,1.5404991332785367,0.0002657569470206244
+Original dataset contexts,Mtorc1 Signaling,top_5pct,60,5,1.1554757810383833,0.00017174660651532643
+Original dataset contexts,Myc Targets V1,top_100,60,0,0.0,0.2536488773549813
+Original dataset contexts,Myc Targets V1,top_500,60,0,0.8807425006900589,0.013685683145223443
+Original dataset contexts,Myc Targets V1,top_5pct,60,0,0.16452292110197347,0.06079328605156465
+Original dataset contexts,Myc Targets V2,top_100,60,0,0.0,0.08621466995450738
+Original dataset contexts,Myc Targets V2,top_500,60,0,1.0774227020844254,0.16379544443811958
+Original dataset contexts,Myc Targets V2,top_5pct,60,0,0.0,0.481704747605272
+Original dataset contexts,Myogenesis,top_100,60,2,2.0760435521061287,0.037983019087619516
+Original dataset contexts,Myogenesis,top_500,60,10,2.0759676214367473,0.000512872535577793
+Original dataset contexts,Myogenesis,top_5pct,60,8,2.5960354058180144,0.0015983796517697168
+Original dataset contexts,Notch Signaling,top_100,60,0,0.0,0.41880855119457366
+Original dataset contexts,Notch Signaling,top_500,60,0,1.6651469488318889,0.26193991215759804
+Original dataset contexts,Notch Signaling,top_5pct,60,0,0.0,0.26872294838605326
+Original dataset contexts,Oxidative Phosphorylation,top_100,60,0,0.0,0.23137158760356044
+Original dataset contexts,Oxidative Phosphorylation,top_500,60,0,0.5018587740517109,0.09900658272936042
+Original dataset contexts,Oxidative Phosphorylation,top_5pct,60,0,0.0,0.2467830330252012
+Original dataset contexts,P53 Pathway,top_100,60,6,2.1184028737220224,0.0031578192942315585
+Original dataset contexts,P53 Pathway,top_500,60,37,1.8809306040025189,1.1377785369359612e-07
+Original dataset contexts,P53 Pathway,top_5pct,60,13,1.753540771251868,9.09194737066976e-05
+Original dataset contexts,Pancreas Beta Cells,top_100,50,0,0.0,0.3434900930846827
+Original dataset contexts,Pancreas Beta Cells,top_500,50,0,0.0,0.06881489224916278
+Original dataset contexts,Pancreas Beta Cells,top_5pct,50,0,0.0,0.08902406180204633
+Original dataset contexts,Peroxisome,top_100,60,0,0.0,0.1727247891115642
+Original dataset contexts,Peroxisome,top_500,60,0,1.2547463312121536,0.03512349351218439
+Original dataset contexts,Peroxisome,top_5pct,60,0,0.5959519293877704,0.061446093444005055
+Original dataset contexts,Pi3K Akt Mtor Signaling,top_100,60,4,2.2837918215598196,0.011697424635491943
+Original dataset contexts,Pi3K Akt Mtor Signaling,top_500,60,14,1.861685425693323,0.0002289371244278379
+Original dataset contexts,Pi3K Akt Mtor Signaling,top_5pct,60,6,2.5890673600936727,0.00025407285576171647
+Original dataset contexts,Protein Secretion,top_100,60,0,0.0,0.5930269732526701
+Original dataset contexts,Protein Secretion,top_500,60,0,0.5540602227749846,0.2944860792647757
+Original dataset contexts,Protein Secretion,top_5pct,60,0,0.0,0.4218608671466636
+Original dataset contexts,Reactive Oxygen Species Pathway,top_100,60,0,1.901654069835888,0.07684311029318337
+Original dataset contexts,Reactive Oxygen Species Pathway,top_500,60,2,1.5496435364579184,0.010722528617249743
+Original dataset contexts,Reactive Oxygen Species Pathway,top_5pct,60,3,1.643334857620572,0.012765959787601514
+Original dataset contexts,Spermatogenesis,top_100,55,0,0.0,1.0
+Original dataset contexts,Spermatogenesis,top_500,55,0,0.0,0.5154127100073046
+Original dataset contexts,Spermatogenesis,top_5pct,55,0,0.0,0.5560310737710449
+Original dataset contexts,Tgf Beta Signaling,top_100,60,0,1.319665557610604,0.15767766265852792
+Original dataset contexts,Tgf Beta Signaling,top_500,60,11,1.7199861424993683,0.0006043847726249408
+Original dataset contexts,Tgf Beta Signaling,top_5pct,60,7,0.21178955453149004,0.002665726052209247
+Original dataset contexts,Tnfa Signaling Via Nfkb,top_100,60,36,3.2064560109906446,4.074876237980929e-07
+Original dataset contexts,Tnfa Signaling Via Nfkb,top_500,60,60,2.9206187132424457,1.1419291992172154e-18
+Original dataset contexts,Tnfa Signaling Via Nfkb,top_5pct,60,37,3.2106267056102373,4.7464916949637946e-18
+Original dataset contexts,Unfolded Protein Response,top_100,60,0,0.0,0.06286229507201481
+Original dataset contexts,Unfolded Protein Response,top_500,60,3,1.0940716618451687,0.0022171178890761757
+Original dataset contexts,Unfolded Protein Response,top_5pct,60,3,0.4665196029747113,0.0016998572351755391
+Original dataset contexts,Uv Response Dn,top_100,60,2,2.125761224603941,0.02345388057365717
+Original dataset contexts,Uv Response Dn,top_500,60,12,1.7628925234821586,0.0001410649289040333
+Original dataset contexts,Uv Response Dn,top_5pct,60,1,1.4577922077922079,0.02206891190343116
+Original dataset contexts,Uv Response Up,top_100,60,6,2.5293479233798783,0.00031945378216934435
+Original dataset contexts,Uv Response Up,top_500,60,21,1.9464708372424027,0.0024497066316027747
+Original dataset contexts,Uv Response Up,top_5pct,60,4,2.0310469140172356,0.0013153858510181091
+Original dataset contexts,Wnt Beta Catenin Signaling,top_100,60,0,2.8549059951676226,0.07228984805785114
+Original dataset contexts,Wnt Beta Catenin Signaling,top_500,60,6,2.53692968566737,0.005344038297528511
+Original dataset contexts,Wnt Beta Catenin Signaling,top_5pct,60,2,1.7554365784894221,0.022143730703480222
+Original dataset contexts,Xenobiotic Metabolism,top_100,60,0,0.707495252646513,0.10993065103884953
+Original dataset contexts,Xenobiotic Metabolism,top_500,60,2,1.3450232023928537,0.0021148173332660846
+Original dataset contexts,Xenobiotic Metabolism,top_5pct,60,0,0.5801219843253524,0.2963439001495551

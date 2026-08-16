@@ -41,7 +41,6 @@ TOP_LEVELS = {
 SOURCE_DIRS = {
     "local_refined": LOCAL_REFINED,
     "server_nygc": SERVER_REFINED / "nygc_multimodal_pbmc_refined_matching",
-    "server_gse126030": SERVER_REFINED / "gse126030_refined_matching",
 }
 
 
@@ -145,6 +144,10 @@ def top_k_for_level(total: int, level: str, value: int | str) -> int:
     return min(int(value), total)
 
 
+def sort_ranked_pairs(df: pd.DataFrame, metric: str) -> pd.DataFrame:
+    return df.sort_values(metric, ascending=False, kind="quicksort").reset_index(drop=True)
+
+
 def analyze_unit(
     result_source: str,
     dataset: str,
@@ -197,7 +200,7 @@ def analyze_unit(
             valid = test.replace([np.inf, -np.inf], np.nan).dropna(subset=[metric]).copy()
             if valid.empty:
                 continue
-            valid = valid.sort_values(metric, ascending=False).reset_index(drop=True)
+            valid = sort_ranked_pairs(valid, metric)
             valid["rank"] = np.arange(1, len(valid) + 1)
             total = len(valid)
             for level, raw_k in TOP_LEVELS.items():

@@ -1,0 +1,451 @@
+context_group,pathway,top_level,combinations,combinations_fdr_in_at_least_5_repeats,median_fold_enrichment,best_bh_fdr,support_fraction,context_level
+Adult cell types,Adipogenesis,top_100,140,0,0.7358561091686092,0.1824986659053032,0.0,Adult cell types
+Adult cell types,Adipogenesis,top_500,140,2,1.100102634990284,0.0019060726830826,0.014285714285714285,Adult cell types
+Adult cell types,Adipogenesis,top_5pct,140,0,0.0,0.439085923184671,0.0,Adult cell types
+Adult cell types,Allograft Rejection,top_100,140,19,2.2200075331172893,8.046252196286092e-05,0.1357142857142857,Adult cell types
+Adult cell types,Allograft Rejection,top_500,140,44,1.8782180436928624,1.2582830437716164e-05,0.3142857142857143,Adult cell types
+Adult cell types,Allograft Rejection,top_5pct,140,7,2.4000128161312375,0.0040558648094279,0.05,Adult cell types
+Adult cell types,Androgen Response,top_100,140,0,0.0,0.0785499528800799,0.0,Adult cell types
+Adult cell types,Androgen Response,top_500,140,0,0.936842105263158,0.044570869818892,0.0,Adult cell types
+Adult cell types,Androgen Response,top_5pct,140,0,0.0,0.2294866985453182,0.0,Adult cell types
+Adult cell types,Angiogenesis,top_100,140,0,2.1603386408479786,0.0446894086101593,0.0,Adult cell types
+Adult cell types,Angiogenesis,top_500,140,0,2.134920634920635,0.0740486217464584,0.0,Adult cell types
+Adult cell types,Angiogenesis,top_5pct,140,0,0.0,0.1376849462825472,0.0,Adult cell types
+Adult cell types,Apical Junction,top_100,140,1,1.0667592017587353,0.0118156346675385,0.007142857142857143,Adult cell types
+Adult cell types,Apical Junction,top_500,140,9,1.0359787167449137,0.0007961782223794,0.06428571428571428,Adult cell types
+Adult cell types,Apical Junction,top_5pct,140,0,0.0,0.0440992342509251,0.0,Adult cell types
+Adult cell types,Apical Surface,top_100,140,0,3.975716248037677,0.0204915438978938,0.0,Adult cell types
+Adult cell types,Apical Surface,top_500,140,4,2.275173611111111,0.027299163018944,0.02857142857142857,Adult cell types
+Adult cell types,Apical Surface,top_5pct,140,0,0.0,0.2487627355574618,0.0,Adult cell types
+Adult cell types,Apoptosis,top_100,140,94,3.1820235533237686,3.952855453891778e-07,0.6714285714285714,Adult cell types
+Adult cell types,Apoptosis,top_500,140,136,2.1499645419535947,1.6688884739483974e-10,0.9714285714285714,Adult cell types
+Adult cell types,Apoptosis,top_5pct,140,62,3.9623917344715665,3.073128698096557e-06,0.44285714285714284,Adult cell types
+Adult cell types,Bile Acid Metabolism,top_100,140,0,0.0,0.2537146061115783,0.0,Adult cell types
+Adult cell types,Bile Acid Metabolism,top_500,140,0,0.9007430238781318,0.1057536400380394,0.0,Adult cell types
+Adult cell types,Bile Acid Metabolism,top_5pct,140,0,0.0,0.5267243279186348,0.0,Adult cell types
+Adult cell types,Cholesterol Homeostasis,top_100,140,7,2.134624756335283,0.0078513021946973,0.05,Adult cell types
+Adult cell types,Cholesterol Homeostasis,top_500,140,23,1.8996914027114757,0.0007410833574407,0.16428571428571428,Adult cell types
+Adult cell types,Cholesterol Homeostasis,top_5pct,140,11,2.7013928799489144,0.0070532087675696,0.07857142857142857,Adult cell types
+Adult cell types,Coagulation,top_100,140,0,0.0,0.0822720322956578,0.0,Adult cell types
+Adult cell types,Coagulation,top_500,140,0,1.0921545333586253,0.0491213760046761,0.0,Adult cell types
+Adult cell types,Coagulation,top_5pct,140,0,0.0,0.3213462497626324,0.0,Adult cell types
+Adult cell types,Complement,top_100,140,1,1.5822048976720144,0.0314298147285966,0.007142857142857143,Adult cell types
+Adult cell types,Complement,top_500,140,55,1.715031382750728,0.0001783950475358,0.39285714285714285,Adult cell types
+Adult cell types,Complement,top_5pct,140,0,1.3616704345559258,0.0835957278166351,0.0,Adult cell types
+Adult cell types,Dna Repair,top_100,140,0,0.0,0.1013480911359035,0.0,Adult cell types
+Adult cell types,Dna Repair,top_500,140,0,0.34199497676054347,0.169723383623924,0.0,Adult cell types
+Adult cell types,Dna Repair,top_5pct,140,0,0.0,0.3971934409278752,0.0,Adult cell types
+Adult cell types,E2F Targets,top_100,140,4,1.7667164357381748,0.0064118101757596,0.02857142857142857,Adult cell types
+Adult cell types,E2F Targets,top_500,140,47,1.7966397630638105,4.893792672564821e-05,0.3357142857142857,Adult cell types
+Adult cell types,E2F Targets,top_5pct,140,0,2.2667680533751966,0.1086738643560479,0.0,Adult cell types
+Adult cell types,Epithelial Mesenchymal Transition,top_100,140,9,2.1925863487572617,0.0037172991806941,0.06428571428571428,Adult cell types
+Adult cell types,Epithelial Mesenchymal Transition,top_500,140,10,1.4678649237472765,0.0025494626990382,0.07142857142857142,Adult cell types
+Adult cell types,Epithelial Mesenchymal Transition,top_5pct,140,2,2.1643999645047862,0.0108602665468888,0.014285714285714285,Adult cell types
+Adult cell types,Estrogen Response Early,top_100,140,3,1.869188982851774,0.0186909240586924,0.02142857142857143,Adult cell types
+Adult cell types,Estrogen Response Early,top_500,140,8,1.3436570161343027,0.0017909089130352,0.05714285714285714,Adult cell types
+Adult cell types,Estrogen Response Early,top_5pct,140,4,2.7754807692307697,0.0108293048744221,0.02857142857142857,Adult cell types
+Adult cell types,Estrogen Response Late,top_100,140,0,1.1767857142857143,0.0734511423917691,0.0,Adult cell types
+Adult cell types,Estrogen Response Late,top_500,140,3,1.2763975155279503,0.0026146000180619,0.02142857142857143,Adult cell types
+Adult cell types,Estrogen Response Late,top_5pct,140,0,1.076115280676752,0.060721388729149,0.0,Adult cell types
+Adult cell types,Fatty Acid Metabolism,top_100,140,4,1.7293594002896329,0.0019469894153443,0.02857142857142857,Adult cell types
+Adult cell types,Fatty Acid Metabolism,top_500,140,7,1.2903093331153972,0.003937460779011,0.05,Adult cell types
+Adult cell types,Fatty Acid Metabolism,top_5pct,140,0,1.2176033220305666,0.0864413004108345,0.0,Adult cell types
+Adult cell types,G2M Checkpoint,top_100,140,18,2.279832766439909,0.0002929957273978,0.12857142857142856,Adult cell types
+Adult cell types,G2M Checkpoint,top_500,140,78,1.9124506655316513,1.3654041756587617e-05,0.5571428571428572,Adult cell types
+Adult cell types,G2M Checkpoint,top_5pct,140,9,2.8485593025707043,0.0011176575313833,0.06428571428571428,Adult cell types
+Adult cell types,Glycolysis,top_100,140,39,2.5308112373737375,6.326098281344938e-07,0.2785714285714286,Adult cell types
+Adult cell types,Glycolysis,top_500,140,93,1.8733771769577396,2.3298155516447847e-05,0.6642857142857143,Adult cell types
+Adult cell types,Glycolysis,top_5pct,140,3,2.1486042692939242,4.041028189589384e-07,0.02142857142857143,Adult cell types
+Adult cell types,Hedgehog Signaling,top_100,140,1,4.6098023571130575,0.0324212793934561,0.007142857142857143,Adult cell types
+Adult cell types,Hedgehog Signaling,top_500,140,0,2.272222222222222,0.0906819019695462,0.0,Adult cell types
+Adult cell types,Hedgehog Signaling,top_5pct,140,0,0.0,0.1437814521926671,0.0,Adult cell types
+Adult cell types,Heme Metabolism,top_100,140,1,1.0801719452634087,0.0306513291656075,0.007142857142857143,Adult cell types
+Adult cell types,Heme Metabolism,top_500,140,1,1.5102560441500958,0.0102861925349131,0.007142857142857143,Adult cell types
+Adult cell types,Heme Metabolism,top_5pct,140,0,0.0,0.1831311281166719,0.0,Adult cell types
+Adult cell types,Hypoxia,top_100,140,118,3.5888961449809704,8.52022790000625e-10,0.8428571428571429,Adult cell types
+Adult cell types,Hypoxia,top_500,140,140,2.154754699982661,4.510457170238397e-13,1.0,Adult cell types
+Adult cell types,Hypoxia,top_5pct,140,82,4.452390963511537,1.0089136691426456e-08,0.5857142857142857,Adult cell types
+Adult cell types,Il2 Stat5 Signaling,top_100,140,21,2.2593529439471833,9.953346871181782e-05,0.15,Adult cell types
+Adult cell types,Il2 Stat5 Signaling,top_500,140,73,1.886406864416636,8.475034872549456e-06,0.5214285714285715,Adult cell types
+Adult cell types,Il2 Stat5 Signaling,top_5pct,140,8,2.649881712215678,0.0001177217876887,0.05714285714285714,Adult cell types
+Adult cell types,Il6 Jak Stat3 Signaling,top_100,140,14,2.098406593406594,0.0006081644780612,0.1,Adult cell types
+Adult cell types,Il6 Jak Stat3 Signaling,top_500,140,51,1.9882690659258753,0.0001672131697019,0.36428571428571427,Adult cell types
+Adult cell types,Il6 Jak Stat3 Signaling,top_5pct,140,5,2.471590909090909,0.000305104322003,0.03571428571428571,Adult cell types
+Adult cell types,Inflammatory Response,top_100,140,64,3.103295164979422,1.0218315807928856e-08,0.45714285714285713,Adult cell types
+Adult cell types,Inflammatory Response,top_500,140,101,1.9444444444444444,1.0699959125311948e-08,0.7214285714285714,Adult cell types
+Adult cell types,Inflammatory Response,top_5pct,140,47,4.507371794871796,2.21415697654126e-09,0.3357142857142857,Adult cell types
+Adult cell types,Interferon Alpha Response,top_100,140,0,0.9763794406651549,0.1538585094231867,0.0,Adult cell types
+Adult cell types,Interferon Alpha Response,top_500,140,10,1.7432330806047591,0.0105265132447105,0.07142857142857142,Adult cell types
+Adult cell types,Interferon Alpha Response,top_5pct,140,0,0.0,0.2627145297299657,0.0,Adult cell types
+Adult cell types,Interferon Gamma Response,top_100,140,45,2.531477108749836,1.3285614034349226e-05,0.32142857142857145,Adult cell types
+Adult cell types,Interferon Gamma Response,top_500,140,119,1.9894179894179893,1.996411789518048e-08,0.85,Adult cell types
+Adult cell types,Interferon Gamma Response,top_5pct,140,17,2.5438167570548766,0.0008894680254087,0.12142857142857143,Adult cell types
+Adult cell types,Kras Signaling Dn,top_100,135,0,0.0,0.2968230595899426,0.0,Adult cell types
+Adult cell types,Kras Signaling Dn,top_500,135,0,0.0,0.1383553086585012,0.0,Adult cell types
+Adult cell types,Kras Signaling Dn,top_5pct,135,0,0.0,1.0,0.0,Adult cell types
+Adult cell types,Kras Signaling Up,top_100,140,6,2.0539613661814107,0.0063579818869234,0.04285714285714286,Adult cell types
+Adult cell types,Kras Signaling Up,top_500,140,9,1.3984392419175027,0.0028852566930835,0.06428571428571428,Adult cell types
+Adult cell types,Kras Signaling Up,top_5pct,140,5,1.6281300500969618,0.0032606423386347,0.03571428571428571,Adult cell types
+Adult cell types,Mitotic Spindle,top_100,140,0,0.8891991170159685,0.0517052244544212,0.0,Adult cell types
+Adult cell types,Mitotic Spindle,top_500,140,0,1.1416666666666666,0.0133566842800954,0.0,Adult cell types
+Adult cell types,Mitotic Spindle,top_5pct,140,0,0.0,0.0848506449605394,0.0,Adult cell types
+Adult cell types,Mtorc1 Signaling,top_100,140,57,2.4757217972024446,3.4675677196378096e-08,0.40714285714285714,Adult cell types
+Adult cell types,Mtorc1 Signaling,top_500,140,103,1.743915343915344,2.722119364165105e-06,0.7357142857142858,Adult cell types
+Adult cell types,Mtorc1 Signaling,top_5pct,140,34,2.6606079547481682,5.274166090122718e-07,0.24285714285714285,Adult cell types
+Adult cell types,Myc Targets V1,top_100,140,0,1.3180685382225819,0.04518762389102,0.0,Adult cell types
+Adult cell types,Myc Targets V1,top_500,140,26,1.3550519095291065,0.000120050381954,0.18571428571428572,Adult cell types
+Adult cell types,Myc Targets V1,top_5pct,140,0,1.1169677373381077,0.1064167514500272,0.0,Adult cell types
+Adult cell types,Myc Targets V2,top_100,135,0,2.3562367864693448,0.042093251451044,0.0,Adult cell types
+Adult cell types,Myc Targets V2,top_500,135,17,1.6980337078651684,0.0003167787630596,0.1259259259259259,Adult cell types
+Adult cell types,Myc Targets V2,top_5pct,135,1,3.58470695970696,0.0299221160273961,0.007407407407407408,Adult cell types
+Adult cell types,Myogenesis,top_100,140,11,2.2069290505542916,0.0012212923997313,0.07857142857142857,Adult cell types
+Adult cell types,Myogenesis,top_500,140,5,1.490042701863354,6.037022386324303e-05,0.03571428571428571,Adult cell types
+Adult cell types,Myogenesis,top_5pct,140,8,2.7041860916860916,0.0006189620522414,0.05714285714285714,Adult cell types
+Adult cell types,Notch Signaling,top_100,135,0,0.0,0.2777777777777778,0.0,Adult cell types
+Adult cell types,Notch Signaling,top_500,135,0,0.0,0.3319609806757909,0.0,Adult cell types
+Adult cell types,Notch Signaling,top_5pct,135,0,0.0,1.0,0.0,Adult cell types
+Adult cell types,Oxidative Phosphorylation,top_100,140,0,0.6110898509328488,0.074268904153262,0.0,Adult cell types
+Adult cell types,Oxidative Phosphorylation,top_500,140,0,0.788978494623656,0.1169615739001009,0.0,Adult cell types
+Adult cell types,Oxidative Phosphorylation,top_5pct,140,0,0.0,0.3978710436812251,0.0,Adult cell types
+Adult cell types,P53 Pathway,top_100,140,64,2.9498669654438885,3.678657695708856e-05,0.45714285714285713,Adult cell types
+Adult cell types,P53 Pathway,top_500,140,99,1.8529694349366483,5.681067539925415e-08,0.7071428571428572,Adult cell types
+Adult cell types,P53 Pathway,top_5pct,140,42,3.9811249724342312,5.240428167530196e-06,0.3,Adult cell types
+Adult cell types,Pancreas Beta Cells,top_100,130,0,0.0,0.1415428167020523,0.0,Adult cell types
+Adult cell types,Pancreas Beta Cells,top_500,130,0,0.0,0.1799246942112326,0.0,Adult cell types
+Adult cell types,Pancreas Beta Cells,top_5pct,130,0,0.0,0.1108998732572876,0.0,Adult cell types
+Adult cell types,Peroxisome,top_100,140,0,0.0,0.0886950533290007,0.0,Adult cell types
+Adult cell types,Peroxisome,top_500,140,0,0.9760221420128334,0.0434469659993702,0.0,Adult cell types
+Adult cell types,Peroxisome,top_5pct,140,0,0.0,0.3829662859497782,0.0,Adult cell types
+Adult cell types,Pi3K Akt Mtor Signaling,top_100,140,11,2.233361937452327,0.0024084494995389,0.07857142857142857,Adult cell types
+Adult cell types,Pi3K Akt Mtor Signaling,top_500,140,22,1.5296296296296297,1.487484982006323e-05,0.15714285714285714,Adult cell types
+Adult cell types,Pi3K Akt Mtor Signaling,top_5pct,140,15,2.582846003898635,0.0005211138590464,0.10714285714285714,Adult cell types
+Adult cell types,Protein Secretion,top_100,140,0,0.0,0.2216744891166554,0.0,Adult cell types
+Adult cell types,Protein Secretion,top_500,140,0,1.112364479534385,0.0591231627069634,0.0,Adult cell types
+Adult cell types,Protein Secretion,top_5pct,140,0,0.0,0.4938617962185428,0.0,Adult cell types
+Adult cell types,Reactive Oxygen Species Pathway,top_100,140,2,2.3837241828857683,0.008345704346215,0.014285714285714285,Adult cell types
+Adult cell types,Reactive Oxygen Species Pathway,top_500,140,21,1.8135332316083912,0.0008819412259087,0.15,Adult cell types
+Adult cell types,Reactive Oxygen Species Pathway,top_5pct,140,0,2.054177861048265,0.0036759279009838,0.0,Adult cell types
+Adult cell types,Spermatogenesis,top_100,120,0,0.0,0.1687017994858611,0.0,Adult cell types
+Adult cell types,Spermatogenesis,top_500,120,0,0.0,0.1957975761747215,0.0,Adult cell types
+Adult cell types,Spermatogenesis,top_5pct,120,0,0.0,0.187446443873179,0.0,Adult cell types
+Adult cell types,Tgf Beta Signaling,top_100,140,14,2.3593679712100766,0.0006925447362459,0.1,Adult cell types
+Adult cell types,Tgf Beta Signaling,top_500,140,33,1.9208386108199393,0.0003936779664114,0.2357142857142857,Adult cell types
+Adult cell types,Tgf Beta Signaling,top_5pct,140,7,1.9658624286341677,0.0014920970441851,0.05,Adult cell types
+Adult cell types,Tnfa Signaling Via Nfkb,top_100,140,112,3.276640569140569,1.6987690114884274e-19,0.8,Adult cell types
+Adult cell types,Tnfa Signaling Via Nfkb,top_500,140,135,1.9531042972882773,6.504275710856678e-17,0.9642857142857143,Adult cell types
+Adult cell types,Tnfa Signaling Via Nfkb,top_5pct,140,92,4.103875951634572,4.7102251556322855e-15,0.6571428571428571,Adult cell types
+Adult cell types,Unfolded Protein Response,top_100,140,17,2.3678384115884112,0.0007258277253231,0.12142857142857143,Adult cell types
+Adult cell types,Unfolded Protein Response,top_500,140,23,1.7180782989527472,2.351457472081431e-06,0.16428571428571428,Adult cell types
+Adult cell types,Unfolded Protein Response,top_5pct,140,13,3.696879713423831,0.0007965225004041,0.09285714285714286,Adult cell types
+Adult cell types,Uv Response Dn,top_100,140,14,2.3445824041799272,0.0002319509410212,0.1,Adult cell types
+Adult cell types,Uv Response Dn,top_500,140,24,1.7039324421965318,0.0001943219032332,0.17142857142857143,Adult cell types
+Adult cell types,Uv Response Dn,top_5pct,140,12,3.62727205634278,0.0015417469084483,0.08571428571428572,Adult cell types
+Adult cell types,Uv Response Up,top_100,140,34,2.5470038526327583,5.904305870188463e-05,0.24285714285714285,Adult cell types
+Adult cell types,Uv Response Up,top_500,140,55,1.7588426093070428,2.8334077385751043e-05,0.39285714285714285,Adult cell types
+Adult cell types,Uv Response Up,top_5pct,140,18,3.142760582010582,0.0001988976422656,0.12857142857142856,Adult cell types
+Adult cell types,Wnt Beta Catenin Signaling,top_100,140,1,3.2845473024044454,0.023303352600365,0.007142857142857143,Adult cell types
+Adult cell types,Wnt Beta Catenin Signaling,top_500,140,5,2.217391304347826,0.006770807904909,0.03571428571428571,Adult cell types
+Adult cell types,Wnt Beta Catenin Signaling,top_5pct,140,0,4.831250000000001,0.0787024597636039,0.0,Adult cell types
+Adult cell types,Xenobiotic Metabolism,top_100,140,0,1.3667600337071248,0.086329485384046,0.0,Adult cell types
+Adult cell types,Xenobiotic Metabolism,top_500,140,0,1.0535251204017333,0.0270735150785716,0.0,Adult cell types
+Adult cell types,Xenobiotic Metabolism,top_5pct,140,0,0.0,0.0635643390899424,0.0,Adult cell types
+Adult tissues,Adipogenesis,top_100,80,0,0.5831328247775616,0.5083793745691957,0.0,Adult tissues
+Adult tissues,Adipogenesis,top_500,80,0,0.7179958254869839,0.0338194384186732,0.0,Adult tissues
+Adult tissues,Adipogenesis,top_5pct,80,0,0.0,0.5083793745691957,0.0,Adult tissues
+Adult tissues,Allograft Rejection,top_100,80,19,2.283333333333333,7.756087622080769e-05,0.2375,Adult tissues
+Adult tissues,Allograft Rejection,top_500,80,43,2.099377710863347,7.140442822688028e-10,0.5375,Adult tissues
+Adult tissues,Allograft Rejection,top_5pct,80,7,2.3626206474684732,0.0026680681587595,0.0875,Adult tissues
+Adult tissues,Androgen Response,top_100,80,0,0.0,0.5085680924366157,0.0,Adult tissues
+Adult tissues,Androgen Response,top_500,80,0,0.7311827956989246,0.1935558054068804,0.0,Adult tissues
+Adult tissues,Androgen Response,top_5pct,80,0,0.0,0.4772667761103464,0.0,Adult tissues
+Adult tissues,Angiogenesis,top_100,80,0,2.6982007383323174,0.0403542643320099,0.0,Adult tissues
+Adult tissues,Angiogenesis,top_500,80,0,1.4217865602313275,0.0646200701495869,0.0,Adult tissues
+Adult tissues,Angiogenesis,top_5pct,80,0,0.0,0.0403542643320099,0.0,Adult tissues
+Adult tissues,Apical Junction,top_100,75,0,1.5776183644189383,0.0502873157370587,0.0,Adult tissues
+Adult tissues,Apical Junction,top_500,75,2,1.4753086419753083,0.0042880892581366,0.02666666666666667,Adult tissues
+Adult tissues,Apical Junction,top_5pct,75,0,0.0,0.0364658196782253,0.0,Adult tissues
+Adult tissues,Apical Surface,top_100,80,3,3.603891715489773,0.0058231768734891,0.0375,Adult tissues
+Adult tissues,Apical Surface,top_500,80,3,2.23015873015873,0.0037059173146597,0.0375,Adult tissues
+Adult tissues,Apical Surface,top_5pct,80,0,4.189803543421965,0.0402100845519575,0.0,Adult tissues
+Adult tissues,Apoptosis,top_100,80,41,2.426735976425995,3.387899334094374e-07,0.5125,Adult tissues
+Adult tissues,Apoptosis,top_500,80,65,1.9358530050877487,1.5750231431039438e-10,0.8125,Adult tissues
+Adult tissues,Apoptosis,top_5pct,80,26,3.236185383244207,7.079671919343649e-07,0.325,Adult tissues
+Adult tissues,Bile Acid Metabolism,top_100,70,0,0.0,0.1421217625578438,0.0,Adult tissues
+Adult tissues,Bile Acid Metabolism,top_500,70,0,1.0460069444444446,0.1787952828081611,0.0,Adult tissues
+Adult tissues,Bile Acid Metabolism,top_5pct,70,0,0.0,0.5266846964845987,0.0,Adult tissues
+Adult tissues,Cholesterol Homeostasis,top_100,80,1,2.075296969046969,0.0009558450303918,0.0125,Adult tissues
+Adult tissues,Cholesterol Homeostasis,top_500,80,1,1.530726752664703,0.0188519506686598,0.0125,Adult tissues
+Adult tissues,Cholesterol Homeostasis,top_5pct,80,0,2.8790945165945168,0.0689385691667549,0.0,Adult tissues
+Adult tissues,Coagulation,top_100,80,0,0.0,0.1017148172697652,0.0,Adult tissues
+Adult tissues,Coagulation,top_500,80,0,0.8296296296296296,0.0289958612806186,0.0,Adult tissues
+Adult tissues,Coagulation,top_5pct,80,0,0.0,0.099529245293899,0.0,Adult tissues
+Adult tissues,Complement,top_100,80,4,1.738095238095238,0.0039780634707791,0.05,Adult tissues
+Adult tissues,Complement,top_500,80,27,1.5092592592592593,4.8476959686085525e-05,0.3375,Adult tissues
+Adult tissues,Complement,top_5pct,80,0,2.1894526455329526,0.0303235880077359,0.0,Adult tissues
+Adult tissues,Dna Repair,top_100,80,0,0.0,0.4107142857142857,0.0,Adult tissues
+Adult tissues,Dna Repair,top_500,80,0,0.6665028253404015,0.3108921729611384,0.0,Adult tissues
+Adult tissues,Dna Repair,top_5pct,80,0,0.0,1.0,0.0,Adult tissues
+Adult tissues,E2F Targets,top_100,80,0,1.206756198842303,0.1488902127027974,0.0,Adult tissues
+Adult tissues,E2F Targets,top_500,80,6,1.6180555555555554,0.0009129270654679,0.075,Adult tissues
+Adult tissues,E2F Targets,top_5pct,80,0,0.0,0.1862417765862457,0.0,Adult tissues
+Adult tissues,Epithelial Mesenchymal Transition,top_100,80,9,1.9211908336908334,0.0019153990052444,0.1125,Adult tissues
+Adult tissues,Epithelial Mesenchymal Transition,top_500,80,6,1.4421768707482994,0.0019560707589263,0.075,Adult tissues
+Adult tissues,Epithelial Mesenchymal Transition,top_5pct,80,6,3.1296064814814812,0.0049915508009459,0.075,Adult tissues
+Adult tissues,Estrogen Response Early,top_100,80,0,1.450874861572536,0.1407906836696228,0.0,Adult tissues
+Adult tissues,Estrogen Response Early,top_500,80,0,1.2462804768196012,0.0394873039002852,0.0,Adult tissues
+Adult tissues,Estrogen Response Early,top_5pct,80,0,1.6091525915363998,0.1125087623939707,0.0,Adult tissues
+Adult tissues,Estrogen Response Late,top_100,80,0,0.7611904843480545,0.2470980019029495,0.0,Adult tissues
+Adult tissues,Estrogen Response Late,top_500,80,0,1.205454760835952,0.0169881793194419,0.0,Adult tissues
+Adult tissues,Estrogen Response Late,top_5pct,80,0,0.85581188306153,0.2470980019029495,0.0,Adult tissues
+Adult tissues,Fatty Acid Metabolism,top_100,80,0,1.4159024286108512,0.0236199319098916,0.0,Adult tissues
+Adult tissues,Fatty Acid Metabolism,top_500,80,1,1.3384979441182807,0.0148518417208194,0.0125,Adult tissues
+Adult tissues,Fatty Acid Metabolism,top_5pct,80,0,0.0,0.054045219738454,0.0,Adult tissues
+Adult tissues,G2M Checkpoint,top_100,80,0,1.6051755837470123,0.0766866925224287,0.0,Adult tissues
+Adult tissues,G2M Checkpoint,top_500,80,20,1.849462365591397,0.0001473345077833,0.25,Adult tissues
+Adult tissues,G2M Checkpoint,top_5pct,80,0,0.0,0.1710603415368633,0.0,Adult tissues
+Adult tissues,Glycolysis,top_100,80,16,1.3457633417000774,6.62698120156489e-07,0.2,Adult tissues
+Adult tissues,Glycolysis,top_500,80,41,1.7125,1.9977673292336715e-06,0.5125,Adult tissues
+Adult tissues,Glycolysis,top_5pct,80,9,0.0,2.590568086289651e-06,0.1125,Adult tissues
+Adult tissues,Hedgehog Signaling,top_100,80,0,0.9393274853801168,0.017045768996624,0.0,Adult tissues
+Adult tissues,Hedgehog Signaling,top_500,80,4,2.158163265306122,0.0216344811615737,0.05,Adult tissues
+Adult tissues,Hedgehog Signaling,top_5pct,80,0,0.0,0.2176656151419558,0.0,Adult tissues
+Adult tissues,Heme Metabolism,top_100,80,0,1.3324006525687198,0.0674784295538157,0.0,Adult tissues
+Adult tissues,Heme Metabolism,top_500,80,1,1.1516513357552771,0.0326977865139263,0.0125,Adult tissues
+Adult tissues,Heme Metabolism,top_5pct,80,0,0.0,0.1916882510718987,0.0,Adult tissues
+Adult tissues,Hypoxia,top_100,80,38,2.3227467765199967,3.0817164263409736e-10,0.475,Adult tissues
+Adult tissues,Hypoxia,top_500,80,69,1.863636363636364,5.189695425447528e-11,0.8625,Adult tissues
+Adult tissues,Hypoxia,top_5pct,80,27,3.402572278911564,3.0817164263409736e-10,0.3375,Adult tissues
+Adult tissues,Il2 Stat5 Signaling,top_100,80,4,1.5227560975609755,0.0088274596393906,0.05,Adult tissues
+Adult tissues,Il2 Stat5 Signaling,top_500,80,33,1.678741154925893,0.0004793446208473,0.4125,Adult tissues
+Adult tissues,Il2 Stat5 Signaling,top_5pct,80,3,1.3815410947631743,0.0103880627053459,0.0375,Adult tissues
+Adult tissues,Il6 Jak Stat3 Signaling,top_100,80,5,2.022288763066202,0.0050580258451287,0.0625,Adult tissues
+Adult tissues,Il6 Jak Stat3 Signaling,top_500,80,43,2.0432098765432096,3.726152489591275e-05,0.5375,Adult tissues
+Adult tissues,Il6 Jak Stat3 Signaling,top_5pct,80,5,2.860965959328028,0.0011999820048838,0.0625,Adult tissues
+Adult tissues,Inflammatory Response,top_100,80,34,2.465513700666259,7.94280722454781e-08,0.425,Adult tissues
+Adult tissues,Inflammatory Response,top_500,80,57,1.913574520717377,1.1115455158635397e-07,0.7125,Adult tissues
+Adult tissues,Inflammatory Response,top_5pct,80,16,2.3891914959892153,1.2433178203258331e-06,0.2,Adult tissues
+Adult tissues,Interferon Alpha Response,top_100,80,1,1.076964171956408,0.0011705518227332,0.0125,Adult tissues
+Adult tissues,Interferon Alpha Response,top_500,80,18,1.903935185185185,1.5577000407087309e-07,0.225,Adult tissues
+Adult tissues,Interferon Alpha Response,top_5pct,80,0,0.0,0.222955407393063,0.0,Adult tissues
+Adult tissues,Interferon Gamma Response,top_100,80,21,1.9201595618004288,2.283839460379772e-05,0.2625,Adult tissues
+Adult tissues,Interferon Gamma Response,top_500,80,56,1.972222222222222,3.9653526986430643e-13,0.7,Adult tissues
+Adult tissues,Interferon Gamma Response,top_5pct,80,10,1.338858234295416,0.0005231690347829,0.125,Adult tissues
+Adult tissues,Kras Signaling Dn,top_100,80,0,0.0,0.4144736842105262,0.0,Adult tissues
+Adult tissues,Kras Signaling Dn,top_500,80,0,0.0,0.3086778297462083,0.0,Adult tissues
+Adult tissues,Kras Signaling Dn,top_5pct,80,0,0.0,1.0,0.0,Adult tissues
+Adult tissues,Kras Signaling Up,top_100,80,10,2.255030153508772,0.0021683678596048,0.125,Adult tissues
+Adult tissues,Kras Signaling Up,top_500,80,8,1.4691358024691357,0.0004095114274102,0.1,Adult tissues
+Adult tissues,Kras Signaling Up,top_5pct,80,7,2.0620648844333056,0.0021683678596048,0.0875,Adult tissues
+Adult tissues,Mitotic Spindle,top_100,80,0,0.0,0.0611233153204334,0.0,Adult tissues
+Adult tissues,Mitotic Spindle,top_500,80,0,1.7265306122448978,0.0235407780386716,0.0,Adult tissues
+Adult tissues,Mitotic Spindle,top_5pct,80,0,0.0,0.0611233153204334,0.0,Adult tissues
+Adult tissues,Mtorc1 Signaling,top_100,80,19,1.761870692285672,7.507852476447798e-08,0.2375,Adult tissues
+Adult tissues,Mtorc1 Signaling,top_500,80,22,1.598684210526316,0.0002101716995773,0.275,Adult tissues
+Adult tissues,Mtorc1 Signaling,top_5pct,80,13,1.188226174410385,4.447536354942868e-07,0.1625,Adult tissues
+Adult tissues,Myc Targets V1,top_100,80,0,0.5074596540113782,0.0816569515357864,0.0,Adult tissues
+Adult tissues,Myc Targets V1,top_500,80,13,1.0216049382716048,0.001016003234241,0.1625,Adult tissues
+Adult tissues,Myc Targets V1,top_5pct,80,0,0.0,0.1773418012002717,0.0,Adult tissues
+Adult tissues,Myc Targets V2,top_100,80,0,0.0,0.0768347560495065,0.0,Adult tissues
+Adult tissues,Myc Targets V2,top_500,80,1,0.7883051161203516,0.0187304280804471,0.0125,Adult tissues
+Adult tissues,Myc Targets V2,top_5pct,80,0,0.0,0.3697732475008358,0.0,Adult tissues
+Adult tissues,Myogenesis,top_100,80,3,2.3576923076923073,0.0190603886524269,0.0375,Adult tissues
+Adult tissues,Myogenesis,top_500,80,4,1.4218158272248875,0.0090007280341287,0.05,Adult tissues
+Adult tissues,Myogenesis,top_5pct,80,5,2.449670008354219,0.0013178114593503,0.0625,Adult tissues
+Adult tissues,Notch Signaling,top_100,50,0,0.0,1.0,0.0,Adult tissues
+Adult tissues,Notch Signaling,top_500,50,0,0.0,0.2657710280373832,0.0,Adult tissues
+Adult tissues,Notch Signaling,top_5pct,50,0,0.0,1.0,0.0,Adult tissues
+Adult tissues,Oxidative Phosphorylation,top_100,80,0,0.5247902949340056,0.5162727286624699,0.0,Adult tissues
+Adult tissues,Oxidative Phosphorylation,top_500,80,0,0.6418560606060606,0.2938870884046364,0.0,Adult tissues
+Adult tissues,Oxidative Phosphorylation,top_5pct,80,0,0.0,0.6232826871580638,0.0,Adult tissues
+Adult tissues,P53 Pathway,top_100,80,19,2.2464586329443783,0.0008992722647445,0.2375,Adult tissues
+Adult tissues,P53 Pathway,top_500,80,32,1.522222222222222,2.727317025186678e-05,0.4,Adult tissues
+Adult tissues,P53 Pathway,top_5pct,80,13,3.599968543012274,0.0008992722647445,0.1625,Adult tissues
+Adult tissues,Pancreas Beta Cells,top_100,55,0,0.0,1.0,0.0,Adult tissues
+Adult tissues,Pancreas Beta Cells,top_500,55,0,0.0,1.0,0.0,Adult tissues
+Adult tissues,Pancreas Beta Cells,top_5pct,55,0,0.0,1.0,0.0,Adult tissues
+Adult tissues,Peroxisome,top_100,80,0,1.1690900719262063,0.0801679559950822,0.0,Adult tissues
+Adult tissues,Peroxisome,top_500,80,1,1.0356744988892217,0.0102600190421229,0.0125,Adult tissues
+Adult tissues,Peroxisome,top_5pct,80,0,0.0,0.1798318353989854,0.0,Adult tissues
+Adult tissues,Pi3K Akt Mtor Signaling,top_100,80,4,1.964060410488982,0.0179539609283632,0.05,Adult tissues
+Adult tissues,Pi3K Akt Mtor Signaling,top_500,80,2,1.6592592592592592,0.0008448776978425,0.025,Adult tissues
+Adult tissues,Pi3K Akt Mtor Signaling,top_5pct,80,2,0.0,0.0250276504499421,0.025,Adult tissues
+Adult tissues,Protein Secretion,top_100,70,0,0.0,0.4144736842105262,0.0,Adult tissues
+Adult tissues,Protein Secretion,top_500,70,0,0.8223241947273987,0.3781112091791703,0.0,Adult tissues
+Adult tissues,Protein Secretion,top_5pct,70,0,0.0,0.6264238737138015,0.0,Adult tissues
+Adult tissues,Reactive Oxygen Species Pathway,top_100,80,7,1.6514944103923521,0.0210613083063136,0.0875,Adult tissues
+Adult tissues,Reactive Oxygen Species Pathway,top_500,80,6,1.5394837044269254,0.0019897895704736,0.075,Adult tissues
+Adult tissues,Reactive Oxygen Species Pathway,top_5pct,80,9,0.0,0.0155936133319134,0.1125,Adult tissues
+Adult tissues,Spermatogenesis,top_100,70,0,0.0,0.2470980019029495,0.0,Adult tissues
+Adult tissues,Spermatogenesis,top_500,70,0,0.0,0.3277022474474756,0.0,Adult tissues
+Adult tissues,Spermatogenesis,top_5pct,70,0,0.0,0.2470980019029495,0.0,Adult tissues
+Adult tissues,Tgf Beta Signaling,top_100,80,0,1.3670024270199836,0.0481780798503721,0.0,Adult tissues
+Adult tissues,Tgf Beta Signaling,top_500,80,6,1.6840277777777777,0.0026702896654594,0.075,Adult tissues
+Adult tissues,Tgf Beta Signaling,top_5pct,80,0,0.0,0.1768031090453587,0.0,Adult tissues
+Adult tissues,Tnfa Signaling Via Nfkb,top_100,80,41,2.077520010853344,2.275700645630496e-18,0.5125,Adult tissues
+Adult tissues,Tnfa Signaling Via Nfkb,top_500,80,70,1.9139454094292805,5.118213880440939e-19,0.875,Adult tissues
+Adult tissues,Tnfa Signaling Via Nfkb,top_5pct,80,23,3.0617273850742,2.275700645630496e-18,0.2875,Adult tissues
+Adult tissues,Unfolded Protein Response,top_100,80,0,1.1208153458731624,0.1005615786776941,0.0,Adult tissues
+Adult tissues,Unfolded Protein Response,top_500,80,1,1.492063492063492,0.0126315139046613,0.0125,Adult tissues
+Adult tissues,Unfolded Protein Response,top_5pct,80,0,1.3516596580641989,0.2195495367628934,0.0,Adult tissues
+Adult tissues,Uv Response Dn,top_100,80,6,1.657782414767709,0.0003033534079068,0.075,Adult tissues
+Adult tissues,Uv Response Dn,top_500,80,8,1.6043944738389184,0.0010171761490906,0.1,Adult tissues
+Adult tissues,Uv Response Dn,top_5pct,80,4,2.367796184908805,0.001376015113206,0.05,Adult tissues
+Adult tissues,Uv Response Up,top_100,80,8,1.9762388678668348,0.0047063761621764,0.1,Adult tissues
+Adult tissues,Uv Response Up,top_500,80,30,1.7181818181818185,4.481107393147285e-05,0.375,Adult tissues
+Adult tissues,Uv Response Up,top_5pct,80,0,3.0616071428571425,0.0411672758604975,0.0,Adult tissues
+Adult tissues,Wnt Beta Catenin Signaling,top_100,50,0,0.0,0.2526924978759856,0.0,Adult tissues
+Adult tissues,Wnt Beta Catenin Signaling,top_500,50,0,2.0432098765432096,0.0867303721713068,0.0,Adult tissues
+Adult tissues,Wnt Beta Catenin Signaling,top_5pct,50,0,0.0,0.285720129405109,0.0,Adult tissues
+Adult tissues,Xenobiotic Metabolism,top_100,80,0,1.0306038808170208,0.1353141572677105,0.0,Adult tissues
+Adult tissues,Xenobiotic Metabolism,top_500,80,0,1.1749650141860286,0.0739609180411236,0.0,Adult tissues
+Adult tissues,Xenobiotic Metabolism,top_5pct,80,0,0.0,0.1972336131551445,0.0,Adult tissues
+PBMC datasets,Adipogenesis,top_100,60,0,0.9644088412521098,0.2754046077560415,0.0,PBMC datasets
+PBMC datasets,Adipogenesis,top_500,60,1,1.1209385984704912,0.0024775710540016,0.016666666666666666,PBMC datasets
+PBMC datasets,Adipogenesis,top_5pct,60,0,0.9607985739216145,0.2754046077560415,0.0,PBMC datasets
+PBMC datasets,Allograft Rejection,top_100,60,48,4.596105595341568,3.9691996645174905e-08,0.8,PBMC datasets
+PBMC datasets,Allograft Rejection,top_500,60,60,3.9320486726973582,5.304654138066796e-23,1.0,PBMC datasets
+PBMC datasets,Allograft Rejection,top_5pct,60,45,4.33106666487196,5.2862317086813165e-14,0.75,PBMC datasets
+PBMC datasets,Androgen Response,top_100,60,0,0.0,0.6244681093656341,0.0,PBMC datasets
+PBMC datasets,Androgen Response,top_500,60,0,0.5498256209793648,0.196602342659967,0.0,PBMC datasets
+PBMC datasets,Androgen Response,top_5pct,60,0,0.0,0.2332099133562269,0.0,PBMC datasets
+PBMC datasets,Angiogenesis,top_100,60,0,0.0,0.2496365577439886,0.0,PBMC datasets
+PBMC datasets,Angiogenesis,top_500,60,8,3.4807482588011194,0.0037212966152179,0.13333333333333333,PBMC datasets
+PBMC datasets,Angiogenesis,top_5pct,60,1,0.0,0.0395325464440379,0.016666666666666666,PBMC datasets
+PBMC datasets,Apical Junction,top_100,60,1,2.0564342612044815,0.0171889681257725,0.016666666666666666,PBMC datasets
+PBMC datasets,Apical Junction,top_500,60,18,1.7036042437545895,0.0002229005658021,0.3,PBMC datasets
+PBMC datasets,Apical Junction,top_5pct,60,15,1.682410319357292,0.0002229005658021,0.25,PBMC datasets
+PBMC datasets,Apical Surface,top_100,60,6,4.14203152191109,0.0028145297977095,0.1,PBMC datasets
+PBMC datasets,Apical Surface,top_500,60,19,3.3217234240914366,0.0001436163097896,0.31666666666666665,PBMC datasets
+PBMC datasets,Apical Surface,top_5pct,60,11,3.866805340819032,0.0013351597244353,0.18333333333333332,PBMC datasets
+PBMC datasets,Apoptosis,top_100,60,9,2.172830882352941,0.0007176241538286,0.15,PBMC datasets
+PBMC datasets,Apoptosis,top_500,60,59,3.102374072902761,5.6758880936062744e-14,0.9833333333333333,PBMC datasets
+PBMC datasets,Apoptosis,top_5pct,60,31,2.9363220058891306,1.5628169259730608e-10,0.5166666666666667,PBMC datasets
+PBMC datasets,Bile Acid Metabolism,top_100,60,0,1.9534384457497889,0.3909207935786763,0.0,PBMC datasets
+PBMC datasets,Bile Acid Metabolism,top_500,60,1,1.7213496874885152,0.0157640401654153,0.016666666666666666,PBMC datasets
+PBMC datasets,Bile Acid Metabolism,top_5pct,60,0,2.07398148753225,0.1934320457134735,0.0,PBMC datasets
+PBMC datasets,Cholesterol Homeostasis,top_100,60,0,2.284520043854127,0.0787548040479406,0.0,PBMC datasets
+PBMC datasets,Cholesterol Homeostasis,top_500,60,8,1.9890209230199896,0.0019437625735764,0.13333333333333333,PBMC datasets
+PBMC datasets,Cholesterol Homeostasis,top_5pct,60,1,2.24104446894081,0.0154773125274502,0.016666666666666666,PBMC datasets
+PBMC datasets,Coagulation,top_100,60,0,3.0940139528793824,0.072790558565433,0.0,PBMC datasets
+PBMC datasets,Coagulation,top_500,60,1,2.213017346521445,0.0228898756576124,0.016666666666666666,PBMC datasets
+PBMC datasets,Coagulation,top_5pct,60,1,2.961052963511354,0.0187188110435255,0.016666666666666666,PBMC datasets
+PBMC datasets,Complement,top_100,60,25,3.2595200086442864,2.9229527646845613e-05,0.4166666666666667,PBMC datasets
+PBMC datasets,Complement,top_500,60,57,3.0835047685707857,1.0277387466284983e-10,0.95,PBMC datasets
+PBMC datasets,Complement,top_5pct,60,43,4.110467540220965,1.1443531771551701e-09,0.7166666666666667,PBMC datasets
+PBMC datasets,Dna Repair,top_100,60,0,0.0,0.7780885105964338,0.0,PBMC datasets
+PBMC datasets,Dna Repair,top_500,60,0,0.37610295456754034,0.2843898878287593,0.0,PBMC datasets
+PBMC datasets,Dna Repair,top_5pct,60,0,0.0,0.9408723032541648,0.0,PBMC datasets
+PBMC datasets,E2F Targets,top_100,60,0,1.0095138050398171,0.128410152610283,0.0,PBMC datasets
+PBMC datasets,E2F Targets,top_500,60,7,0.9358374487426862,0.0024293514463459,0.11666666666666667,PBMC datasets
+PBMC datasets,E2F Targets,top_5pct,60,0,0.4850406400699482,0.4383471860837343,0.0,PBMC datasets
+PBMC datasets,Epithelial Mesenchymal Transition,top_100,60,4,2.7082185828877003,0.0254532384383328,0.06666666666666667,PBMC datasets
+PBMC datasets,Epithelial Mesenchymal Transition,top_500,60,31,2.640164251768023,5.902689231432663e-06,0.5166666666666667,PBMC datasets
+PBMC datasets,Epithelial Mesenchymal Transition,top_5pct,60,18,2.839665269329987,2.5684556636998163e-06,0.3,PBMC datasets
+PBMC datasets,Estrogen Response Early,top_100,60,0,1.5509963787924574,0.0637371326527611,0.0,PBMC datasets
+PBMC datasets,Estrogen Response Early,top_500,60,2,1.9183990813793679,0.0037725876435296,0.03333333333333333,PBMC datasets
+PBMC datasets,Estrogen Response Early,top_5pct,60,2,1.5587074649068084,0.0042301424878434,0.03333333333333333,PBMC datasets
+PBMC datasets,Estrogen Response Late,top_100,60,0,1.8890921334894002,0.0354374636237211,0.0,PBMC datasets
+PBMC datasets,Estrogen Response Late,top_500,60,17,2.0756191693333808,0.000237673513494,0.2833333333333333,PBMC datasets
+PBMC datasets,Estrogen Response Late,top_5pct,60,19,1.827432983682984,0.0002883883725036,0.31666666666666665,PBMC datasets
+PBMC datasets,Fatty Acid Metabolism,top_100,60,0,0.0,0.0345851177310596,0.0,PBMC datasets
+PBMC datasets,Fatty Acid Metabolism,top_500,60,6,1.276797455688965,0.0024615702911585,0.1,PBMC datasets
+PBMC datasets,Fatty Acid Metabolism,top_5pct,60,0,0.6824567832997844,0.0417610835876711,0.0,PBMC datasets
+PBMC datasets,G2M Checkpoint,top_100,60,0,1.1107576974112507,0.1292407746352071,0.0,PBMC datasets
+PBMC datasets,G2M Checkpoint,top_500,60,5,1.2914212875514095,0.0005052311958005,0.08333333333333333,PBMC datasets
+PBMC datasets,G2M Checkpoint,top_5pct,60,0,0.5213026319820737,0.3469451312852256,0.0,PBMC datasets
+PBMC datasets,Glycolysis,top_100,60,0,1.1492070905487517,0.0253670633704708,0.0,PBMC datasets
+PBMC datasets,Glycolysis,top_500,60,12,1.5061285665514088,0.000116066531328,0.2,PBMC datasets
+PBMC datasets,Glycolysis,top_5pct,60,4,0.9365768762186624,0.0039810371884112,0.06666666666666667,PBMC datasets
+PBMC datasets,Hedgehog Signaling,top_100,60,6,3.6621268750629214,0.026118760020207,0.1,PBMC datasets
+PBMC datasets,Hedgehog Signaling,top_500,60,7,2.7107343717035137,0.001867422162276,0.11666666666666667,PBMC datasets
+PBMC datasets,Hedgehog Signaling,top_5pct,60,6,2.6368461663417806,0.0036364732218966,0.1,PBMC datasets
+PBMC datasets,Heme Metabolism,top_100,60,0,1.2116459025470654,0.1286046941130069,0.0,PBMC datasets
+PBMC datasets,Heme Metabolism,top_500,60,2,1.4663722530664411,0.021497955081805,0.03333333333333333,PBMC datasets
+PBMC datasets,Heme Metabolism,top_5pct,60,1,1.7988602568120944,0.0151005510268355,0.016666666666666666,PBMC datasets
+PBMC datasets,Hypoxia,top_100,60,24,3.267240158656192,5.783736287308976e-06,0.4,PBMC datasets
+PBMC datasets,Hypoxia,top_500,60,55,2.5844779988443314,9.603992582365634e-10,0.9166666666666666,PBMC datasets
+PBMC datasets,Hypoxia,top_5pct,60,32,2.95109742949069,1.8821671142491714e-10,0.5333333333333333,PBMC datasets
+PBMC datasets,Il2 Stat5 Signaling,top_100,60,1,1.4524276855150227,0.0198843357055973,0.016666666666666666,PBMC datasets
+PBMC datasets,Il2 Stat5 Signaling,top_500,60,25,1.9008921873306,3.637535985029808e-05,0.4166666666666667,PBMC datasets
+PBMC datasets,Il2 Stat5 Signaling,top_5pct,60,8,1.7726501257373513,0.0030959051903777,0.13333333333333333,PBMC datasets
+PBMC datasets,Il6 Jak Stat3 Signaling,top_100,60,26,5.4849714865917445,3.638916340033991e-07,0.43333333333333335,PBMC datasets
+PBMC datasets,Il6 Jak Stat3 Signaling,top_500,60,56,4.652534162835896,1.0504762201724729e-13,0.9333333333333333,PBMC datasets
+PBMC datasets,Il6 Jak Stat3 Signaling,top_5pct,60,35,4.652056895926544,1.0704268432083359e-10,0.5833333333333334,PBMC datasets
+PBMC datasets,Inflammatory Response,top_100,60,50,4.7720278182829485,5.6084890872335794e-08,0.8333333333333334,PBMC datasets
+PBMC datasets,Inflammatory Response,top_500,60,60,3.731661875358288,2.106638727843376e-15,1.0,PBMC datasets
+PBMC datasets,Inflammatory Response,top_5pct,60,47,4.720648033947416,1.6232561823399018e-11,0.7833333333333333,PBMC datasets
+PBMC datasets,Interferon Alpha Response,top_100,60,18,2.364684581665714,0.0002807772950843,0.3,PBMC datasets
+PBMC datasets,Interferon Alpha Response,top_500,60,33,2.3799659272874534,1.0964013751003692e-12,0.55,PBMC datasets
+PBMC datasets,Interferon Alpha Response,top_5pct,60,20,2.8541500526332575,8.90940490865962e-14,0.3333333333333333,PBMC datasets
+PBMC datasets,Interferon Gamma Response,top_100,60,39,3.6637518415181334,1.2459757487803392e-10,0.65,PBMC datasets
+PBMC datasets,Interferon Gamma Response,top_500,60,58,3.1098861152513395,5.432954586588451e-21,0.9666666666666667,PBMC datasets
+PBMC datasets,Interferon Gamma Response,top_5pct,60,40,3.5453647416413374,5.37652284454488e-21,0.6666666666666666,PBMC datasets
+PBMC datasets,Kras Signaling Dn,top_100,60,0,0.0,0.4147059280311854,0.0,PBMC datasets
+PBMC datasets,Kras Signaling Dn,top_500,60,0,1.166513127169809,0.198813840275406,0.0,PBMC datasets
+PBMC datasets,Kras Signaling Dn,top_5pct,60,0,0.0,0.1374743609027329,0.0,PBMC datasets
+PBMC datasets,Kras Signaling Up,top_100,60,16,3.489251227270921,0.0005594226679944,0.26666666666666666,PBMC datasets
+PBMC datasets,Kras Signaling Up,top_500,60,40,2.909572046075875,1.285020709843573e-06,0.6666666666666666,PBMC datasets
+PBMC datasets,Kras Signaling Up,top_5pct,60,34,3.9568546631285075,3.462208831867751e-08,0.5666666666666667,PBMC datasets
+PBMC datasets,Mitotic Spindle,top_100,60,0,0.0,0.1745682092064372,0.0,PBMC datasets
+PBMC datasets,Mitotic Spindle,top_500,60,1,0.6628595421709982,0.0159452282940153,0.016666666666666666,PBMC datasets
+PBMC datasets,Mitotic Spindle,top_5pct,60,2,0.0,0.0172769092785331,0.03333333333333333,PBMC datasets
+PBMC datasets,Mtorc1 Signaling,top_100,60,2,1.3475407602510323,0.0031119622412854,0.03333333333333333,PBMC datasets
+PBMC datasets,Mtorc1 Signaling,top_500,60,13,1.5404991332785367,0.0002657569470206,0.21666666666666667,PBMC datasets
+PBMC datasets,Mtorc1 Signaling,top_5pct,60,5,1.1554757810383833,0.0001717466065153,0.08333333333333333,PBMC datasets
+PBMC datasets,Myc Targets V1,top_100,60,0,0.0,0.2536488773549813,0.0,PBMC datasets
+PBMC datasets,Myc Targets V1,top_500,60,0,0.8807425006900589,0.0136856831452234,0.0,PBMC datasets
+PBMC datasets,Myc Targets V1,top_5pct,60,0,0.16452292110197342,0.0607932860515646,0.0,PBMC datasets
+PBMC datasets,Myc Targets V2,top_100,60,0,0.0,0.0862146699545073,0.0,PBMC datasets
+PBMC datasets,Myc Targets V2,top_500,60,0,1.0774227020844254,0.1637954444381195,0.0,PBMC datasets
+PBMC datasets,Myc Targets V2,top_5pct,60,0,0.0,0.481704747605272,0.0,PBMC datasets
+PBMC datasets,Myogenesis,top_100,60,2,2.0760435521061287,0.0379830190876195,0.03333333333333333,PBMC datasets
+PBMC datasets,Myogenesis,top_500,60,10,2.0759676214367473,0.0005128725355777,0.16666666666666666,PBMC datasets
+PBMC datasets,Myogenesis,top_5pct,60,8,2.5960354058180144,0.0015983796517697,0.13333333333333333,PBMC datasets
+PBMC datasets,Notch Signaling,top_100,60,0,0.0,0.4188085511945736,0.0,PBMC datasets
+PBMC datasets,Notch Signaling,top_500,60,0,1.665146948831889,0.261939912157598,0.0,PBMC datasets
+PBMC datasets,Notch Signaling,top_5pct,60,0,0.0,0.2687229483860532,0.0,PBMC datasets
+PBMC datasets,Oxidative Phosphorylation,top_100,60,0,0.0,0.2313715876035604,0.0,PBMC datasets
+PBMC datasets,Oxidative Phosphorylation,top_500,60,0,0.5018587740517109,0.0990065827293604,0.0,PBMC datasets
+PBMC datasets,Oxidative Phosphorylation,top_5pct,60,0,0.0,0.2467830330252012,0.0,PBMC datasets
+PBMC datasets,P53 Pathway,top_100,60,6,2.1184028737220224,0.0031578192942315,0.1,PBMC datasets
+PBMC datasets,P53 Pathway,top_500,60,37,1.8809306040025193,1.1377785369359613e-07,0.6166666666666667,PBMC datasets
+PBMC datasets,P53 Pathway,top_5pct,60,13,1.753540771251868,9.09194737066976e-05,0.21666666666666667,PBMC datasets
+PBMC datasets,Pancreas Beta Cells,top_100,50,0,0.0,0.3434900930846827,0.0,PBMC datasets
+PBMC datasets,Pancreas Beta Cells,top_500,50,0,0.0,0.0688148922491627,0.0,PBMC datasets
+PBMC datasets,Pancreas Beta Cells,top_5pct,50,0,0.0,0.0890240618020463,0.0,PBMC datasets
+PBMC datasets,Peroxisome,top_100,60,0,0.0,0.1727247891115642,0.0,PBMC datasets
+PBMC datasets,Peroxisome,top_500,60,0,1.2547463312121534,0.0351234935121843,0.0,PBMC datasets
+PBMC datasets,Peroxisome,top_5pct,60,0,0.5959519293877704,0.061446093444005,0.0,PBMC datasets
+PBMC datasets,Pi3K Akt Mtor Signaling,top_100,60,4,2.2837918215598196,0.0116974246354919,0.06666666666666667,PBMC datasets
+PBMC datasets,Pi3K Akt Mtor Signaling,top_500,60,14,1.861685425693323,0.0002289371244278,0.23333333333333334,PBMC datasets
+PBMC datasets,Pi3K Akt Mtor Signaling,top_5pct,60,6,2.589067360093672,0.0002540728557617,0.1,PBMC datasets
+PBMC datasets,Protein Secretion,top_100,60,0,0.0,0.5930269732526701,0.0,PBMC datasets
+PBMC datasets,Protein Secretion,top_500,60,0,0.5540602227749846,0.2944860792647757,0.0,PBMC datasets
+PBMC datasets,Protein Secretion,top_5pct,60,0,0.0,0.4218608671466636,0.0,PBMC datasets
+PBMC datasets,Reactive Oxygen Species Pathway,top_100,60,0,1.901654069835888,0.0768431102931833,0.0,PBMC datasets
+PBMC datasets,Reactive Oxygen Species Pathway,top_500,60,2,1.5496435364579184,0.0107225286172497,0.03333333333333333,PBMC datasets
+PBMC datasets,Reactive Oxygen Species Pathway,top_5pct,60,3,1.6433348576205717,0.0127659597876015,0.05,PBMC datasets
+PBMC datasets,Spermatogenesis,top_100,55,0,0.0,1.0,0.0,PBMC datasets
+PBMC datasets,Spermatogenesis,top_500,55,0,0.0,0.5154127100073046,0.0,PBMC datasets
+PBMC datasets,Spermatogenesis,top_5pct,55,0,0.0,0.5560310737710449,0.0,PBMC datasets
+PBMC datasets,Tgf Beta Signaling,top_100,60,0,1.319665557610604,0.1576776626585279,0.0,PBMC datasets
+PBMC datasets,Tgf Beta Signaling,top_500,60,11,1.7199861424993683,0.0006043847726249,0.18333333333333332,PBMC datasets
+PBMC datasets,Tgf Beta Signaling,top_5pct,60,7,0.21178955453149004,0.0026657260522092,0.11666666666666667,PBMC datasets
+PBMC datasets,Tnfa Signaling Via Nfkb,top_100,60,36,3.2064560109906446,4.074876237980929e-07,0.6,PBMC datasets
+PBMC datasets,Tnfa Signaling Via Nfkb,top_500,60,60,2.920618713242446,1.1419291992172154e-18,1.0,PBMC datasets
+PBMC datasets,Tnfa Signaling Via Nfkb,top_5pct,60,37,3.2106267056102373,4.7464916949637946e-18,0.6166666666666667,PBMC datasets
+PBMC datasets,Unfolded Protein Response,top_100,60,0,0.0,0.0628622950720148,0.0,PBMC datasets
+PBMC datasets,Unfolded Protein Response,top_500,60,3,1.0940716618451685,0.0022171178890761,0.05,PBMC datasets
+PBMC datasets,Unfolded Protein Response,top_5pct,60,3,0.46651960297471123,0.0016998572351755,0.05,PBMC datasets
+PBMC datasets,Uv Response Dn,top_100,60,2,2.125761224603941,0.0234538805736571,0.03333333333333333,PBMC datasets
+PBMC datasets,Uv Response Dn,top_500,60,12,1.7628925234821586,0.000141064928904,0.2,PBMC datasets
+PBMC datasets,Uv Response Dn,top_5pct,60,1,1.4577922077922079,0.0220689119034311,0.016666666666666666,PBMC datasets
+PBMC datasets,Uv Response Up,top_100,60,6,2.5293479233798783,0.0003194537821693,0.1,PBMC datasets
+PBMC datasets,Uv Response Up,top_500,60,21,1.9464708372424027,0.0024497066316027,0.35,PBMC datasets
+PBMC datasets,Uv Response Up,top_5pct,60,4,2.031046914017235,0.0013153858510181,0.06666666666666667,PBMC datasets
+PBMC datasets,Wnt Beta Catenin Signaling,top_100,60,0,2.854905995167623,0.0722898480578511,0.0,PBMC datasets
+PBMC datasets,Wnt Beta Catenin Signaling,top_500,60,6,2.5369296856673706,0.0053440382975285,0.1,PBMC datasets
+PBMC datasets,Wnt Beta Catenin Signaling,top_5pct,60,2,1.7554365784894221,0.0221437307034802,0.03333333333333333,PBMC datasets
+PBMC datasets,Xenobiotic Metabolism,top_100,60,0,0.707495252646513,0.1099306510388495,0.0,PBMC datasets
+PBMC datasets,Xenobiotic Metabolism,top_500,60,2,1.3450232023928537,0.002114817333266,0.03333333333333333,PBMC datasets
+PBMC datasets,Xenobiotic Metabolism,top_5pct,60,0,0.5801219843253524,0.2963439001495551,0.0,PBMC datasets

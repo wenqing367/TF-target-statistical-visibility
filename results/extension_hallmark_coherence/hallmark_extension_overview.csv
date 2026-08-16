@@ -1,0 +1,301 @@
+source_group,pathway,top_level,combinations,combinations_fdr_in_at_least_5_repeats,median_fold_enrichment,best_bh_fdr
+hcl_adult_celltype,Hypoxia,top_100,140,118,3.5888961449809704,8.52022790000625e-10
+hcl_adult_celltype,Tnfa Signaling Via Nfkb,top_100,140,112,3.276640569140569,1.6987690114884274e-19
+hcl_adult_celltype,Apoptosis,top_100,140,94,3.1820235533237686,3.952855453891778e-07
+hcl_adult_celltype,Inflammatory Response,top_100,140,64,3.103295164979422,1.0218315807928856e-08
+hcl_adult_celltype,P53 Pathway,top_100,140,64,2.9498669654438885,3.678657695708856e-05
+hcl_adult_celltype,Mtorc1 Signaling,top_100,140,57,2.475721797202444,3.4675677196378096e-08
+hcl_adult_celltype,Interferon Gamma Response,top_100,140,45,2.531477108749836,1.3285614034349226e-05
+hcl_adult_celltype,Glycolysis,top_100,140,39,2.530811237373737,6.326098281344938e-07
+hcl_adult_celltype,Uv Response Up,top_100,140,34,2.5470038526327583,5.904305870188463e-05
+hcl_adult_celltype,Il2 Stat5 Signaling,top_100,140,21,2.259352943947184,9.953346871181782e-05
+hcl_adult_celltype,Allograft Rejection,top_100,140,19,2.2200075331172893,8.046252196286092e-05
+hcl_adult_celltype,G2M Checkpoint,top_100,140,18,2.279832766439909,0.0002929957273978
+hcl_adult_celltype,Unfolded Protein Response,top_100,140,17,2.3678384115884112,0.0007258277253231
+hcl_adult_celltype,Tgf Beta Signaling,top_100,140,14,2.359367971210076,0.0006925447362459
+hcl_adult_celltype,Uv Response Dn,top_100,140,14,2.3445824041799272,0.0002319509410212
+hcl_adult_celltype,Il6 Jak Stat3 Signaling,top_100,140,14,2.0984065934065934,0.0006081644780612
+hcl_adult_celltype,Pi3K Akt Mtor Signaling,top_100,140,11,2.2333619374523264,0.0024084494995389
+hcl_adult_celltype,Myogenesis,top_100,140,11,2.206929050554292,0.0012212923997313
+hcl_adult_celltype,Epithelial Mesenchymal Transition,top_100,140,9,2.1925863487572617,0.0037172991806941
+hcl_adult_celltype,Cholesterol Homeostasis,top_100,140,7,2.134624756335283,0.0078513021946973
+hcl_adult_celltype,Kras Signaling Up,top_100,140,6,2.0539613661814107,0.0063579818869234
+hcl_adult_celltype,E2F Targets,top_100,140,4,1.7667164357381748,0.0064118101757596
+hcl_adult_celltype,Fatty Acid Metabolism,top_100,140,4,1.7293594002896329,0.0019469894153443
+hcl_adult_celltype,Estrogen Response Early,top_100,140,3,1.8691889828517736,0.0186909240586924
+hcl_adult_celltype,Reactive Oxygen Species Pathway,top_100,140,2,2.3837241828857683,0.008345704346215
+hcl_adult_celltype,Hedgehog Signaling,top_100,140,1,4.6098023571130575,0.0324212793934561
+hcl_adult_celltype,Wnt Beta Catenin Signaling,top_100,140,1,3.2845473024044454,0.023303352600365
+hcl_adult_celltype,Complement,top_100,140,1,1.5822048976720144,0.0314298147285966
+hcl_adult_celltype,Heme Metabolism,top_100,140,1,1.0801719452634084,0.0306513291656075
+hcl_adult_celltype,Apical Junction,top_100,140,1,1.0667592017587353,0.0118156346675385
+hcl_adult_celltype,Apical Surface,top_100,140,0,3.975716248037677,0.0204915438978938
+hcl_adult_celltype,Myc Targets V2,top_100,135,0,2.3562367864693448,0.042093251451044
+hcl_adult_celltype,Angiogenesis,top_100,140,0,2.1603386408479786,0.0446894086101593
+hcl_adult_celltype,Xenobiotic Metabolism,top_100,140,0,1.3667600337071248,0.086329485384046
+hcl_adult_celltype,Myc Targets V1,top_100,140,0,1.318068538222582,0.04518762389102
+hcl_adult_celltype,Estrogen Response Late,top_100,140,0,1.1767857142857143,0.0734511423917691
+hcl_adult_celltype,Interferon Alpha Response,top_100,140,0,0.9763794406651548,0.1538585094231867
+hcl_adult_celltype,Mitotic Spindle,top_100,140,0,0.8891991170159685,0.0517052244544212
+hcl_adult_celltype,Adipogenesis,top_100,140,0,0.7358561091686092,0.1824986659053032
+hcl_adult_celltype,Oxidative Phosphorylation,top_100,140,0,0.6110898509328488,0.074268904153262
+hcl_adult_celltype,Androgen Response,top_100,140,0,0.0,0.0785499528800799
+hcl_adult_celltype,Bile Acid Metabolism,top_100,140,0,0.0,0.2537146061115783
+hcl_adult_celltype,Coagulation,top_100,140,0,0.0,0.0822720322956578
+hcl_adult_celltype,Dna Repair,top_100,140,0,0.0,0.1013480911359035
+hcl_adult_celltype,Kras Signaling Dn,top_100,135,0,0.0,0.2968230595899426
+hcl_adult_celltype,Notch Signaling,top_100,135,0,0.0,0.2777777777777778
+hcl_adult_celltype,Pancreas Beta Cells,top_100,130,0,0.0,0.1415428167020523
+hcl_adult_celltype,Peroxisome,top_100,140,0,0.0,0.0886950533290007
+hcl_adult_celltype,Protein Secretion,top_100,140,0,0.0,0.2216744891166554
+hcl_adult_celltype,Spermatogenesis,top_100,120,0,0.0,0.1687017994858611
+hcl_adult_celltype,Hypoxia,top_500,140,140,2.15475469998266,4.5104571702383964e-13
+hcl_adult_celltype,Apoptosis,top_500,140,136,2.1499645419535947,1.6688884739483974e-10
+hcl_adult_celltype,Tnfa Signaling Via Nfkb,top_500,140,135,1.9531042972882775,6.504275710856678e-17
+hcl_adult_celltype,Interferon Gamma Response,top_500,140,119,1.9894179894179893,1.996411789518048e-08
+hcl_adult_celltype,Mtorc1 Signaling,top_500,140,103,1.743915343915344,2.722119364165105e-06
+hcl_adult_celltype,Inflammatory Response,top_500,140,101,1.9444444444444444,1.0699959125311948e-08
+hcl_adult_celltype,P53 Pathway,top_500,140,99,1.852969434936648,5.681067539925415e-08
+hcl_adult_celltype,Glycolysis,top_500,140,93,1.87337717695774,2.3298155516447847e-05
+hcl_adult_celltype,G2M Checkpoint,top_500,140,78,1.912450665531651,1.3654041756587617e-05
+hcl_adult_celltype,Il2 Stat5 Signaling,top_500,140,73,1.886406864416636,8.475034872549456e-06
+hcl_adult_celltype,Uv Response Up,top_500,140,55,1.7588426093070426,2.8334077385751043e-05
+hcl_adult_celltype,Complement,top_500,140,55,1.715031382750728,0.0001783950475358
+hcl_adult_celltype,Il6 Jak Stat3 Signaling,top_500,140,51,1.988269065925875,0.0001672131697019
+hcl_adult_celltype,E2F Targets,top_500,140,47,1.7966397630638105,4.893792672564821e-05
+hcl_adult_celltype,Allograft Rejection,top_500,140,44,1.8782180436928624,1.2582830437716164e-05
+hcl_adult_celltype,Tgf Beta Signaling,top_500,140,33,1.9208386108199396,0.0003936779664114
+hcl_adult_celltype,Myc Targets V1,top_500,140,26,1.3550519095291065,0.000120050381954
+hcl_adult_celltype,Uv Response Dn,top_500,140,24,1.7039324421965318,0.0001943219032332
+hcl_adult_celltype,Cholesterol Homeostasis,top_500,140,23,1.899691402711476,0.0007410833574407
+hcl_adult_celltype,Unfolded Protein Response,top_500,140,23,1.7180782989527472,2.351457472081431e-06
+hcl_adult_celltype,Pi3K Akt Mtor Signaling,top_500,140,22,1.5296296296296297,1.487484982006323e-05
+hcl_adult_celltype,Reactive Oxygen Species Pathway,top_500,140,21,1.8135332316083912,0.0008819412259087
+hcl_adult_celltype,Myc Targets V2,top_500,135,17,1.6980337078651684,0.0003167787630596
+hcl_adult_celltype,Interferon Alpha Response,top_500,140,10,1.7432330806047591,0.0105265132447105
+hcl_adult_celltype,Epithelial Mesenchymal Transition,top_500,140,10,1.4678649237472765,0.0025494626990382
+hcl_adult_celltype,Kras Signaling Up,top_500,140,9,1.398439241917503,0.0028852566930835
+hcl_adult_celltype,Apical Junction,top_500,140,9,1.035978716744914,0.0007961782223794
+hcl_adult_celltype,Estrogen Response Early,top_500,140,8,1.3436570161343029,0.0017909089130352
+hcl_adult_celltype,Fatty Acid Metabolism,top_500,140,7,1.2903093331153972,0.003937460779011
+hcl_adult_celltype,Wnt Beta Catenin Signaling,top_500,140,5,2.217391304347826,0.006770807904909
+hcl_adult_celltype,Myogenesis,top_500,140,5,1.490042701863354,6.037022386324303e-05
+hcl_adult_celltype,Apical Surface,top_500,140,4,2.275173611111111,0.027299163018944
+hcl_adult_celltype,Estrogen Response Late,top_500,140,3,1.2763975155279503,0.0026146000180619
+hcl_adult_celltype,Adipogenesis,top_500,140,2,1.100102634990284,0.0019060726830826
+hcl_adult_celltype,Heme Metabolism,top_500,140,1,1.5102560441500958,0.0102861925349131
+hcl_adult_celltype,Hedgehog Signaling,top_500,140,0,2.272222222222222,0.0906819019695462
+hcl_adult_celltype,Angiogenesis,top_500,140,0,2.134920634920635,0.0740486217464584
+hcl_adult_celltype,Mitotic Spindle,top_500,140,0,1.1416666666666666,0.0133566842800954
+hcl_adult_celltype,Protein Secretion,top_500,140,0,1.112364479534385,0.0591231627069634
+hcl_adult_celltype,Coagulation,top_500,140,0,1.0921545333586251,0.0491213760046761
+hcl_adult_celltype,Xenobiotic Metabolism,top_500,140,0,1.0535251204017333,0.0270735150785716
+hcl_adult_celltype,Peroxisome,top_500,140,0,0.9760221420128334,0.0434469659993702
+hcl_adult_celltype,Androgen Response,top_500,140,0,0.936842105263158,0.044570869818892
+hcl_adult_celltype,Bile Acid Metabolism,top_500,140,0,0.9007430238781318,0.1057536400380394
+hcl_adult_celltype,Oxidative Phosphorylation,top_500,140,0,0.788978494623656,0.1169615739001009
+hcl_adult_celltype,Dna Repair,top_500,140,0,0.3419949767605435,0.169723383623924
+hcl_adult_celltype,Kras Signaling Dn,top_500,135,0,0.0,0.1383553086585012
+hcl_adult_celltype,Notch Signaling,top_500,135,0,0.0,0.3319609806757909
+hcl_adult_celltype,Pancreas Beta Cells,top_500,130,0,0.0,0.1799246942112326
+hcl_adult_celltype,Spermatogenesis,top_500,120,0,0.0,0.1957975761747215
+hcl_adult_celltype,Tnfa Signaling Via Nfkb,top_5pct,140,92,4.103875951634572,4.7102251556322855e-15
+hcl_adult_celltype,Hypoxia,top_5pct,140,82,4.452390963511537,1.0089136691426456e-08
+hcl_adult_celltype,Apoptosis,top_5pct,140,62,3.9623917344715673,3.073128698096557e-06
+hcl_adult_celltype,Inflammatory Response,top_5pct,140,47,4.507371794871795,2.21415697654126e-09
+hcl_adult_celltype,P53 Pathway,top_5pct,140,42,3.981124972434232,5.240428167530196e-06
+hcl_adult_celltype,Mtorc1 Signaling,top_5pct,140,34,2.660607954748168,5.274166090122718e-07
+hcl_adult_celltype,Uv Response Up,top_5pct,140,18,3.142760582010582,0.0001988976422656
+hcl_adult_celltype,Interferon Gamma Response,top_5pct,140,17,2.543816757054876,0.0008894680254087
+hcl_adult_celltype,Pi3K Akt Mtor Signaling,top_5pct,140,15,2.582846003898635,0.0005211138590464
+hcl_adult_celltype,Unfolded Protein Response,top_5pct,140,13,3.696879713423831,0.0007965225004041
+hcl_adult_celltype,Uv Response Dn,top_5pct,140,12,3.62727205634278,0.0015417469084483
+hcl_adult_celltype,Cholesterol Homeostasis,top_5pct,140,11,2.7013928799489144,0.0070532087675696
+hcl_adult_celltype,G2M Checkpoint,top_5pct,140,9,2.8485593025707043,0.0011176575313833
+hcl_adult_celltype,Myogenesis,top_5pct,140,8,2.704186091686092,0.0006189620522414
+hcl_adult_celltype,Il2 Stat5 Signaling,top_5pct,140,8,2.649881712215678,0.0001177217876887
+hcl_adult_celltype,Allograft Rejection,top_5pct,140,7,2.400012816131237,0.0040558648094279
+hcl_adult_celltype,Tgf Beta Signaling,top_5pct,140,7,1.965862428634168,0.0014920970441851
+hcl_adult_celltype,Il6 Jak Stat3 Signaling,top_5pct,140,5,2.471590909090909,0.000305104322003
+hcl_adult_celltype,Kras Signaling Up,top_5pct,140,5,1.6281300500969618,0.0032606423386347
+hcl_adult_celltype,Estrogen Response Early,top_5pct,140,4,2.7754807692307697,0.0108293048744221
+hcl_adult_celltype,Glycolysis,top_5pct,140,3,2.148604269293924,4.041028189589384e-07
+hcl_adult_celltype,Epithelial Mesenchymal Transition,top_5pct,140,2,2.1643999645047862,0.0108602665468888
+hcl_adult_celltype,Myc Targets V2,top_5pct,135,1,3.58470695970696,0.0299221160273961
+hcl_adult_celltype,Wnt Beta Catenin Signaling,top_5pct,140,0,4.831250000000001,0.0787024597636039
+hcl_adult_celltype,E2F Targets,top_5pct,140,0,2.266768053375196,0.1086738643560479
+hcl_adult_celltype,Reactive Oxygen Species Pathway,top_5pct,140,0,2.0541778610482657,0.0036759279009838
+hcl_adult_celltype,Complement,top_5pct,140,0,1.3616704345559258,0.0835957278166351
+hcl_adult_celltype,Fatty Acid Metabolism,top_5pct,140,0,1.2176033220305666,0.0864413004108345
+hcl_adult_celltype,Myc Targets V1,top_5pct,140,0,1.1169677373381075,0.1064167514500272
+hcl_adult_celltype,Estrogen Response Late,top_5pct,140,0,1.076115280676752,0.060721388729149
+hcl_adult_celltype,Adipogenesis,top_5pct,140,0,0.0,0.439085923184671
+hcl_adult_celltype,Androgen Response,top_5pct,140,0,0.0,0.2294866985453182
+hcl_adult_celltype,Angiogenesis,top_5pct,140,0,0.0,0.1376849462825472
+hcl_adult_celltype,Apical Junction,top_5pct,140,0,0.0,0.0440992342509251
+hcl_adult_celltype,Apical Surface,top_5pct,140,0,0.0,0.2487627355574618
+hcl_adult_celltype,Bile Acid Metabolism,top_5pct,140,0,0.0,0.5267243279186348
+hcl_adult_celltype,Coagulation,top_5pct,140,0,0.0,0.3213462497626324
+hcl_adult_celltype,Dna Repair,top_5pct,140,0,0.0,0.3971934409278752
+hcl_adult_celltype,Hedgehog Signaling,top_5pct,140,0,0.0,0.1437814521926671
+hcl_adult_celltype,Heme Metabolism,top_5pct,140,0,0.0,0.1831311281166719
+hcl_adult_celltype,Interferon Alpha Response,top_5pct,140,0,0.0,0.2627145297299657
+hcl_adult_celltype,Kras Signaling Dn,top_5pct,135,0,0.0,1.0
+hcl_adult_celltype,Mitotic Spindle,top_5pct,140,0,0.0,0.0848506449605394
+hcl_adult_celltype,Notch Signaling,top_5pct,135,0,0.0,1.0
+hcl_adult_celltype,Oxidative Phosphorylation,top_5pct,140,0,0.0,0.3978710436812251
+hcl_adult_celltype,Pancreas Beta Cells,top_5pct,130,0,0.0,0.1108998732572876
+hcl_adult_celltype,Peroxisome,top_5pct,140,0,0.0,0.3829662859497782
+hcl_adult_celltype,Protein Secretion,top_5pct,140,0,0.0,0.4938617962185428
+hcl_adult_celltype,Spermatogenesis,top_5pct,120,0,0.0,0.187446443873179
+hcl_adult_celltype,Xenobiotic Metabolism,top_5pct,140,0,0.0,0.0635643390899424
+hcl_adult_tissue,Apoptosis,top_100,80,41,2.426735976425995,3.387899334094374e-07
+hcl_adult_tissue,Tnfa Signaling Via Nfkb,top_100,80,41,2.077520010853344,2.275700645630496e-18
+hcl_adult_tissue,Hypoxia,top_100,80,38,2.3227467765199967,3.0817164263409736e-10
+hcl_adult_tissue,Inflammatory Response,top_100,80,34,2.465513700666259,7.94280722454781e-08
+hcl_adult_tissue,Interferon Gamma Response,top_100,80,21,1.9201595618004288,2.283839460379772e-05
+hcl_adult_tissue,Allograft Rejection,top_100,80,19,2.283333333333333,7.756087622080769e-05
+hcl_adult_tissue,P53 Pathway,top_100,80,19,2.2464586329443783,0.0008992722647445
+hcl_adult_tissue,Mtorc1 Signaling,top_100,80,19,1.761870692285672,7.507852476447798e-08
+hcl_adult_tissue,Glycolysis,top_100,80,16,1.3457633417000772,6.62698120156489e-07
+hcl_adult_tissue,Kras Signaling Up,top_100,80,10,2.255030153508772,0.0021683678596048
+hcl_adult_tissue,Epithelial Mesenchymal Transition,top_100,80,9,1.9211908336908337,0.0019153990052444
+hcl_adult_tissue,Uv Response Up,top_100,80,8,1.9762388678668348,0.0047063761621764
+hcl_adult_tissue,Reactive Oxygen Species Pathway,top_100,80,7,1.651494410392352,0.0210613083063136
+hcl_adult_tissue,Uv Response Dn,top_100,80,6,1.657782414767709,0.0003033534079068
+hcl_adult_tissue,Il6 Jak Stat3 Signaling,top_100,80,5,2.022288763066202,0.0050580258451287
+hcl_adult_tissue,Pi3K Akt Mtor Signaling,top_100,80,4,1.9640604104889816,0.0179539609283632
+hcl_adult_tissue,Complement,top_100,80,4,1.738095238095238,0.0039780634707791
+hcl_adult_tissue,Il2 Stat5 Signaling,top_100,80,4,1.5227560975609755,0.0088274596393906
+hcl_adult_tissue,Apical Surface,top_100,80,3,3.6038917154897727,0.0058231768734891
+hcl_adult_tissue,Myogenesis,top_100,80,3,2.3576923076923078,0.0190603886524269
+hcl_adult_tissue,Cholesterol Homeostasis,top_100,80,1,2.075296969046969,0.0009558450303918
+hcl_adult_tissue,Interferon Alpha Response,top_100,80,1,1.076964171956408,0.0011705518227332
+hcl_adult_tissue,Angiogenesis,top_100,80,0,2.698200738332317,0.0403542643320099
+hcl_adult_tissue,G2M Checkpoint,top_100,80,0,1.6051755837470123,0.0766866925224287
+hcl_adult_tissue,Apical Junction,top_100,75,0,1.5776183644189383,0.0502873157370587
+hcl_adult_tissue,Estrogen Response Early,top_100,80,0,1.450874861572536,0.1407906836696228
+hcl_adult_tissue,Fatty Acid Metabolism,top_100,80,0,1.4159024286108512,0.0236199319098916
+hcl_adult_tissue,Tgf Beta Signaling,top_100,80,0,1.3670024270199834,0.0481780798503721
+hcl_adult_tissue,Heme Metabolism,top_100,80,0,1.3324006525687198,0.0674784295538157
+hcl_adult_tissue,E2F Targets,top_100,80,0,1.206756198842303,0.1488902127027974
+hcl_adult_tissue,Peroxisome,top_100,80,0,1.1690900719262065,0.0801679559950822
+hcl_adult_tissue,Unfolded Protein Response,top_100,80,0,1.120815345873163,0.1005615786776941
+hcl_adult_tissue,Xenobiotic Metabolism,top_100,80,0,1.0306038808170208,0.1353141572677105
+hcl_adult_tissue,Hedgehog Signaling,top_100,80,0,0.9393274853801168,0.017045768996624
+hcl_adult_tissue,Estrogen Response Late,top_100,80,0,0.7611904843480545,0.2470980019029495
+hcl_adult_tissue,Adipogenesis,top_100,80,0,0.5831328247775616,0.5083793745691957
+hcl_adult_tissue,Oxidative Phosphorylation,top_100,80,0,0.5247902949340056,0.5162727286624699
+hcl_adult_tissue,Myc Targets V1,top_100,80,0,0.5074596540113782,0.0816569515357864
+hcl_adult_tissue,Androgen Response,top_100,80,0,0.0,0.5085680924366157
+hcl_adult_tissue,Bile Acid Metabolism,top_100,70,0,0.0,0.1421217625578438
+hcl_adult_tissue,Coagulation,top_100,80,0,0.0,0.1017148172697652
+hcl_adult_tissue,Dna Repair,top_100,80,0,0.0,0.4107142857142857
+hcl_adult_tissue,Kras Signaling Dn,top_100,80,0,0.0,0.4144736842105262
+hcl_adult_tissue,Mitotic Spindle,top_100,80,0,0.0,0.0611233153204334
+hcl_adult_tissue,Myc Targets V2,top_100,80,0,0.0,0.0768347560495065
+hcl_adult_tissue,Notch Signaling,top_100,50,0,0.0,1.0
+hcl_adult_tissue,Pancreas Beta Cells,top_100,55,0,0.0,1.0
+hcl_adult_tissue,Protein Secretion,top_100,70,0,0.0,0.4144736842105262
+hcl_adult_tissue,Spermatogenesis,top_100,70,0,0.0,0.2470980019029495
+hcl_adult_tissue,Wnt Beta Catenin Signaling,top_100,50,0,0.0,0.2526924978759856
+hcl_adult_tissue,Tnfa Signaling Via Nfkb,top_500,80,70,1.9139454094292805,5.118213880440938e-19
+hcl_adult_tissue,Hypoxia,top_500,80,69,1.863636363636364,5.189695425447528e-11
+hcl_adult_tissue,Apoptosis,top_500,80,65,1.9358530050877485,1.5750231431039438e-10
+hcl_adult_tissue,Inflammatory Response,top_500,80,57,1.9135745207173775,1.1115455158635397e-07
+hcl_adult_tissue,Interferon Gamma Response,top_500,80,56,1.972222222222222,3.9653526986430643e-13
+hcl_adult_tissue,Allograft Rejection,top_500,80,43,2.099377710863347,7.140442822688028e-10
+hcl_adult_tissue,Il6 Jak Stat3 Signaling,top_500,80,43,2.0432098765432096,3.726152489591275e-05
+hcl_adult_tissue,Glycolysis,top_500,80,41,1.7125,1.9977673292336715e-06
+hcl_adult_tissue,Il2 Stat5 Signaling,top_500,80,33,1.678741154925893,0.0004793446208473
+hcl_adult_tissue,P53 Pathway,top_500,80,32,1.522222222222222,2.727317025186678e-05
+hcl_adult_tissue,Uv Response Up,top_500,80,30,1.7181818181818185,4.481107393147285e-05
+hcl_adult_tissue,Complement,top_500,80,27,1.5092592592592593,4.8476959686085525e-05
+hcl_adult_tissue,Mtorc1 Signaling,top_500,80,22,1.598684210526316,0.0002101716995773
+hcl_adult_tissue,G2M Checkpoint,top_500,80,20,1.8494623655913975,0.0001473345077833
+hcl_adult_tissue,Interferon Alpha Response,top_500,80,18,1.9039351851851851,1.5577000407087306e-07
+hcl_adult_tissue,Myc Targets V1,top_500,80,13,1.0216049382716048,0.001016003234241
+hcl_adult_tissue,Uv Response Dn,top_500,80,8,1.6043944738389184,0.0010171761490906
+hcl_adult_tissue,Kras Signaling Up,top_500,80,8,1.4691358024691357,0.0004095114274102
+hcl_adult_tissue,Tgf Beta Signaling,top_500,80,6,1.6840277777777777,0.0026702896654594
+hcl_adult_tissue,E2F Targets,top_500,80,6,1.6180555555555554,0.0009129270654679
+hcl_adult_tissue,Reactive Oxygen Species Pathway,top_500,80,6,1.5394837044269254,0.0019897895704736
+hcl_adult_tissue,Epithelial Mesenchymal Transition,top_500,80,6,1.4421768707482994,0.0019560707589263
+hcl_adult_tissue,Hedgehog Signaling,top_500,80,4,2.158163265306122,0.0216344811615737
+hcl_adult_tissue,Myogenesis,top_500,80,4,1.4218158272248873,0.0090007280341287
+hcl_adult_tissue,Apical Surface,top_500,80,3,2.23015873015873,0.0037059173146597
+hcl_adult_tissue,Pi3K Akt Mtor Signaling,top_500,80,2,1.6592592592592592,0.0008448776978425
+hcl_adult_tissue,Apical Junction,top_500,75,2,1.4753086419753083,0.0042880892581366
+hcl_adult_tissue,Cholesterol Homeostasis,top_500,80,1,1.530726752664703,0.0188519506686598
+hcl_adult_tissue,Unfolded Protein Response,top_500,80,1,1.492063492063492,0.0126315139046613
+hcl_adult_tissue,Fatty Acid Metabolism,top_500,80,1,1.3384979441182807,0.0148518417208194
+hcl_adult_tissue,Heme Metabolism,top_500,80,1,1.1516513357552771,0.0326977865139263
+hcl_adult_tissue,Peroxisome,top_500,80,1,1.0356744988892217,0.0102600190421229
+hcl_adult_tissue,Myc Targets V2,top_500,80,1,0.7883051161203516,0.0187304280804471
+hcl_adult_tissue,Wnt Beta Catenin Signaling,top_500,50,0,2.0432098765432096,0.0867303721713068
+hcl_adult_tissue,Mitotic Spindle,top_500,80,0,1.7265306122448978,0.0235407780386716
+hcl_adult_tissue,Angiogenesis,top_500,80,0,1.4217865602313275,0.0646200701495869
+hcl_adult_tissue,Estrogen Response Early,top_500,80,0,1.2462804768196012,0.0394873039002852
+hcl_adult_tissue,Estrogen Response Late,top_500,80,0,1.205454760835952,0.0169881793194419
+hcl_adult_tissue,Xenobiotic Metabolism,top_500,80,0,1.1749650141860286,0.0739609180411236
+hcl_adult_tissue,Bile Acid Metabolism,top_500,70,0,1.0460069444444446,0.1787952828081611
+hcl_adult_tissue,Coagulation,top_500,80,0,0.8296296296296296,0.0289958612806186
+hcl_adult_tissue,Protein Secretion,top_500,70,0,0.8223241947273987,0.3781112091791703
+hcl_adult_tissue,Androgen Response,top_500,80,0,0.7311827956989246,0.1935558054068804
+hcl_adult_tissue,Adipogenesis,top_500,80,0,0.7179958254869839,0.0338194384186732
+hcl_adult_tissue,Dna Repair,top_500,80,0,0.6665028253404015,0.3108921729611384
+hcl_adult_tissue,Oxidative Phosphorylation,top_500,80,0,0.6418560606060606,0.2938870884046364
+hcl_adult_tissue,Kras Signaling Dn,top_500,80,0,0.0,0.3086778297462083
+hcl_adult_tissue,Notch Signaling,top_500,50,0,0.0,0.2657710280373832
+hcl_adult_tissue,Pancreas Beta Cells,top_500,55,0,0.0,1.0
+hcl_adult_tissue,Spermatogenesis,top_500,70,0,0.0,0.3277022474474756
+hcl_adult_tissue,Hypoxia,top_5pct,80,27,3.402572278911564,3.0817164263409736e-10
+hcl_adult_tissue,Apoptosis,top_5pct,80,26,3.236185383244207,7.079671919343649e-07
+hcl_adult_tissue,Tnfa Signaling Via Nfkb,top_5pct,80,23,3.0617273850742,2.275700645630496e-18
+hcl_adult_tissue,Inflammatory Response,top_5pct,80,16,2.3891914959892158,1.2433178203258331e-06
+hcl_adult_tissue,P53 Pathway,top_5pct,80,13,3.599968543012274,0.0008992722647445
+hcl_adult_tissue,Mtorc1 Signaling,top_5pct,80,13,1.188226174410385,4.447536354942868e-07
+hcl_adult_tissue,Interferon Gamma Response,top_5pct,80,10,1.338858234295416,0.0005231690347829
+hcl_adult_tissue,Glycolysis,top_5pct,80,9,0.0,2.590568086289651e-06
+hcl_adult_tissue,Reactive Oxygen Species Pathway,top_5pct,80,9,0.0,0.0155936133319134
+hcl_adult_tissue,Allograft Rejection,top_5pct,80,7,2.362620647468473,0.0026680681587595
+hcl_adult_tissue,Kras Signaling Up,top_5pct,80,7,2.0620648844333056,0.0021683678596048
+hcl_adult_tissue,Epithelial Mesenchymal Transition,top_5pct,80,6,3.129606481481481,0.0049915508009459
+hcl_adult_tissue,Il6 Jak Stat3 Signaling,top_5pct,80,5,2.860965959328028,0.0011999820048838
+hcl_adult_tissue,Myogenesis,top_5pct,80,5,2.449670008354219,0.0013178114593503
+hcl_adult_tissue,Uv Response Dn,top_5pct,80,4,2.367796184908805,0.001376015113206
+hcl_adult_tissue,Il2 Stat5 Signaling,top_5pct,80,3,1.3815410947631743,0.0103880627053459
+hcl_adult_tissue,Pi3K Akt Mtor Signaling,top_5pct,80,2,0.0,0.0250276504499421
+hcl_adult_tissue,Apical Surface,top_5pct,80,0,4.189803543421965,0.0402100845519575
+hcl_adult_tissue,Uv Response Up,top_5pct,80,0,3.0616071428571425,0.0411672758604975
+hcl_adult_tissue,Cholesterol Homeostasis,top_5pct,80,0,2.8790945165945168,0.0689385691667549
+hcl_adult_tissue,Complement,top_5pct,80,0,2.1894526455329526,0.0303235880077359
+hcl_adult_tissue,Estrogen Response Early,top_5pct,80,0,1.6091525915363998,0.1125087623939707
+hcl_adult_tissue,Unfolded Protein Response,top_5pct,80,0,1.3516596580641989,0.2195495367628934
+hcl_adult_tissue,Estrogen Response Late,top_5pct,80,0,0.85581188306153,0.2470980019029495
+hcl_adult_tissue,Adipogenesis,top_5pct,80,0,0.0,0.5083793745691957
+hcl_adult_tissue,Androgen Response,top_5pct,80,0,0.0,0.4772667761103464
+hcl_adult_tissue,Angiogenesis,top_5pct,80,0,0.0,0.0403542643320099
+hcl_adult_tissue,Apical Junction,top_5pct,75,0,0.0,0.0364658196782253
+hcl_adult_tissue,Bile Acid Metabolism,top_5pct,70,0,0.0,0.5266846964845987
+hcl_adult_tissue,Coagulation,top_5pct,80,0,0.0,0.099529245293899
+hcl_adult_tissue,Dna Repair,top_5pct,80,0,0.0,1.0
+hcl_adult_tissue,E2F Targets,top_5pct,80,0,0.0,0.1862417765862457
+hcl_adult_tissue,Fatty Acid Metabolism,top_5pct,80,0,0.0,0.054045219738454
+hcl_adult_tissue,G2M Checkpoint,top_5pct,80,0,0.0,0.1710603415368633
+hcl_adult_tissue,Hedgehog Signaling,top_5pct,80,0,0.0,0.2176656151419558
+hcl_adult_tissue,Heme Metabolism,top_5pct,80,0,0.0,0.1916882510718987
+hcl_adult_tissue,Interferon Alpha Response,top_5pct,80,0,0.0,0.222955407393063
+hcl_adult_tissue,Kras Signaling Dn,top_5pct,80,0,0.0,1.0
+hcl_adult_tissue,Mitotic Spindle,top_5pct,80,0,0.0,0.0611233153204334
+hcl_adult_tissue,Myc Targets V1,top_5pct,80,0,0.0,0.1773418012002717
+hcl_adult_tissue,Myc Targets V2,top_5pct,80,0,0.0,0.3697732475008358
+hcl_adult_tissue,Notch Signaling,top_5pct,50,0,0.0,1.0
+hcl_adult_tissue,Oxidative Phosphorylation,top_5pct,80,0,0.0,0.6232826871580638
+hcl_adult_tissue,Pancreas Beta Cells,top_5pct,55,0,0.0,1.0
+hcl_adult_tissue,Peroxisome,top_5pct,80,0,0.0,0.1798318353989854
+hcl_adult_tissue,Protein Secretion,top_5pct,70,0,0.0,0.6264238737138015
+hcl_adult_tissue,Spermatogenesis,top_5pct,70,0,0.0,0.2470980019029495
+hcl_adult_tissue,Tgf Beta Signaling,top_5pct,80,0,0.0,0.1768031090453587
+hcl_adult_tissue,Wnt Beta Catenin Signaling,top_5pct,50,0,0.0,0.285720129405109
+hcl_adult_tissue,Xenobiotic Metabolism,top_5pct,80,0,0.0,0.1972336131551445

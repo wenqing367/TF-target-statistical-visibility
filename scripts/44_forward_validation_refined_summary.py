@@ -2,8 +2,8 @@
 Build unified tables for the forward known-edge visibility validation.
 
 This script does not rerun matching or pair metrics. It only combines the
-strict refined matching outputs from the local datasets and the two added
-server datasets into a clean result source for the first project objective.
+strict refined matching outputs from the local datasets and the added NYGC
+PBMC dataset into a clean result source for the first project objective.
 """
 
 from __future__ import annotations
@@ -34,14 +34,6 @@ RESULT_SOURCES = [
         "by_repeat": SERVER_ADDED / "nygc_multimodal_pbmc_refined_matching" / "refined_formal_abs_by_repeat.csv",
         "qc_summary": SERVER_ADDED / "nygc_multimodal_pbmc_refined_matching" / "refined_matching_qc_summary.csv",
         "qc_by_repeat": SERVER_ADDED / "nygc_multimodal_pbmc_refined_matching" / "refined_matching_qc_by_repeat.csv",
-    },
-    {
-        "source": "server_gse126030",
-        "result_dir": SERVER_ADDED / "gse126030_refined_matching",
-        "summary": SERVER_ADDED / "gse126030_refined_matching" / "refined_formal_abs_summary.csv",
-        "by_repeat": SERVER_ADDED / "gse126030_refined_matching" / "refined_formal_abs_by_repeat.csv",
-        "qc_summary": SERVER_ADDED / "gse126030_refined_matching" / "refined_matching_qc_summary.csv",
-        "qc_by_repeat": SERVER_ADDED / "gse126030_refined_matching" / "refined_matching_qc_by_repeat.csv",
     },
 ]
 
@@ -76,8 +68,6 @@ def add_dataset_role(summary: pd.DataFrame) -> pd.DataFrame:
         condition = row["condition"]
         if dataset == "NYGC_multimodal_PBMC":
             role.append("normal broad PBMC validation")
-        elif dataset == "GSE126030_T_cells":
-            role.append(f"T-cell tissue validation ({condition})")
         elif dataset == "PBMC10k":
             role.append("original resting PBMC validation")
         elif dataset == "Kang_IFN_beta":
@@ -193,8 +183,6 @@ def write_report(completion: pd.DataFrame, key_results: pd.DataFrame, qc: pd.Dat
         f"- Metric result rows: {n_rows}",
         f"- Metric row counts: {metric_counts}",
         f"- Absolute Pearson/Spearman rows with AUPRC > 0.5: {ps_positive}/{ps_total}",
-        "",
-        "Important dataset note: GSE126030 is represented by tissue-specific T-cell h5ad files. The server files do not contain condition/stim/sample metadata, so these results are tissue validation results, not anti-CD3/CD28 stimulation comparisons.",
         "",
         "Output tables:",
         "- forward_refined_key_results.csv",

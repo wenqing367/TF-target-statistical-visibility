@@ -1,0 +1,281 @@
+run_dir,dataset,condition,edge_set,repeat,positive_edges,negative_edges,internal_duplicate_tf_target,failed_matches,relaxed_fraction,positive_negative_overlap_unique,negative_overlap_with_known_union_unique,smd_target_mean_counts,smd_target_detection_rate
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,0,334,334,0,0,0.0,0,0,0.0324230795706808,-0.0008189100823069
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,1,334,334,0,0,0.0,0,0,0.0270502124163316,-0.0012911101486942
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,2,334,334,0,0,0.0,0,0,0.02641721764527,-0.0010431906169902
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,3,334,334,0,0,0.0,0,0,0.0325954157787391,-0.0012365809718628
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,4,334,334,0,0,0.0,0,0,0.0230850817613536,-0.0017335194765371
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,5,334,334,0,0,0.0,0,0,0.0280967707024012,0.0005221139337948
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,6,334,334,0,0,0.0,0,0,0.0231810807142549,-0.0020433611144779
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,7,334,334,0,0,0.0,0,0,0.0274936713642882,-0.0006425007917779
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,8,334,334,0,0,0.0,0,0,0.0255468676319927,-0.0006494734067249
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust,9,334,334,0,0,0.0,0,0,0.0294262633295159,-0.0013227902327367
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,0,541,541,0,0,0.0,0,0,0.0155021457510679,-0.0019676133473781
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,1,541,541,0,0,0.0,0,0,0.016023533795698,-0.0006416685759983
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,2,541,541,0,0,0.0,0,0,0.0173872950452341,-0.001379940294224
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,3,541,541,0,0,0.0,0,0,0.0165563425149075,-0.0006470760639544
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,4,541,541,0,0,0.0,0,0,0.0135120129446177,-0.0020265720162804
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,5,541,541,0,0,0.0,0,0,0.0135442846639135,-0.0009701136472746
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,6,541,541,0,0,0.0,0,0,0.0128383690110671,-0.0014835998515017
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,7,541,541,0,0,0.0,0,0,0.015109774176352,-0.0014975266222611
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,8,541,541,0,0,0.0,0,0,0.013044985558936,-0.0011930484128981
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,dorothea_ab,9,541,541,0,0,0.0,0,0,0.0170985508430346,-0.0008891445480164
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,0,157,157,0,0,0.0,0,0,0.0361344766301425,-0.0021353961960555
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,1,157,157,0,0,0.0,0,0,0.0322600220646271,-0.0026567862394789
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,2,157,157,0,0,0.0,0,0,0.0352614191431147,-0.0023444773921951
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,3,157,157,0,0,0.0,0,0,0.0339758823596357,-0.0022554460063898
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,4,157,157,0,0,0.0,0,0,0.0288471612182462,-0.0021581906337453
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,5,157,157,0,0,0.0,0,0,0.0337504393059528,0.0003365367793966
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,6,157,157,0,0,0.0,0,0,0.0323461087459703,-0.000269115725742
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,7,157,157,0,0,0.0,0,0,0.0427953514768086,-0.0030745817991686
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,8,157,157,0,0,0.0,0,0,0.0339364194788549,-0.0010457752836231
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_intersection,9,157,157,0,0,0.0,0,0,0.0310215626379001,-0.0025612014156037
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,0,718,718,0,0,0.0,0,0,0.0172432967690794,-0.0011530691980132
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,1,718,718,0,0,0.0,0,0,0.0183490806859542,-0.0016107826542099
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,2,718,718,0,0,0.0,0,0,0.0173098229569947,-9.49785846241981e-05
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,3,718,718,0,0,0.0,0,0,0.0162314962832437,-0.001571260157583
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,4,718,718,0,0,0.0,0,0,0.0159967379561851,-0.0010275196542982
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,5,718,718,0,0,0.0,0,0,0.0183324883818263,-0.0007024507971907
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,6,718,718,0,0,0.0,0,0,0.0176982596570411,-0.0007872311757528
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,7,718,718,0,0,0.0,0,0,0.0169979067037655,-0.0007195399075283
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,8,718,718,0,0,0.0,0,0,0.0188833208065429,-0.0007678681596759
+adult_celltype__at2_cell,ZJU_HCL_adult_celltype,AT2 cell,trrust_dorothea_union,9,718,718,0,0,0.0,0,0,0.0187959451663716,-0.0012364752264875
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,0,528,528,0,0,0.0,0,0,0.0032449784511374,-0.0067753590038315
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,1,528,528,0,0,0.0,0,0,0.003261632526154,-0.0055037284673233
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,2,528,528,0,0,0.0,0,0,0.00324079768656,-0.0074057972173927
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,3,528,528,0,0,0.0,0,0,0.0026850064279707,-0.005653898005289
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,4,528,528,0,0,0.0,0,0,0.0023751993935897,-0.0052326905327252
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,5,528,528,0,0,0.0,0,0,0.0023554193439722,-0.0064727238373699
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,6,528,528,0,0,0.0,0,0,0.0028845276871162,-0.0066856566822346
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,7,528,528,0,0,0.0,0,0,0.0042072477743711,-0.0057837364182735
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,8,528,528,0,0,0.0,0,0,0.0037425086252286,-0.007572196696143
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust,9,528,528,0,0,0.0,0,0,0.0029120469351086,-0.006233851037434
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,0,787,787,0,0,0.0,0,0,0.0038174080849245,-0.0029604168559779
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,1,787,787,0,0,0.0,0,0,0.0037627018693645,-0.0042218393569101
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,2,787,787,0,0,0.0,0,0,0.0041015881118401,-0.0046253295182669
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,3,787,787,0,0,0.0,0,0,0.0032156689781478,-0.0038753433840982
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,4,787,787,0,0,0.0,0,0,0.0033290619515692,-0.0048320195930105
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,5,787,787,0,0,0.0,0,0,0.0043772282287088,-0.0036942994734627
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,6,787,787,0,0,0.0,0,0,0.0040879328679394,-0.0023730362288178
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,7,787,787,0,0,0.0,0,0,0.0043130479632743,-0.0042825009064541
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,8,787,787,0,0,0.0,0,0,0.0041043840130953,-0.0034249009328501
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,dorothea_ab,9,787,787,0,0,0.0,0,0,0.0028229811978384,-0.0034327697714604
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,0,242,242,0,0,0.0,0,0,0.003867144736637,-0.0072741679600455
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,1,242,242,0,0,0.0,0,0,0.0050074747587181,-0.005575721011419
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,2,242,242,0,0,0.0,0,0,0.0040830707810215,-0.0085835242407117
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,3,242,242,0,0,0.0,0,0,0.0040992496050624,-0.0080448789060738
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,4,242,242,0,0,0.0,0,0,0.004250868445237,-0.0050471054818424
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,5,242,242,0,0,0.0,0,0,0.0046697277191547,-0.0091916652325876
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,6,242,242,0,0,0.0,0,0,0.0036433184694003,-0.0053320106323134
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,7,242,242,0,0,0.0,0,0,0.0051784876558975,-0.0108784378607555
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,8,242,242,0,0,0.0,0,0,0.0034302461722346,-0.0079983846672554
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_intersection,9,242,242,0,0,0.0,0,0,0.002131151814315,-0.0090735964605848
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,0,1073,1073,0,0,0.0,0,0,0.0030237513660115,-0.0047818375934424
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,1,1073,1073,0,0,0.0,0,0,0.0040042993892319,-0.0056285712584946
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,2,1073,1073,0,0,0.0,0,0,0.0034135384707726,-0.0040526331409695
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,3,1073,1073,0,0,0.0,0,0,0.002467929932762,-0.0044167394018653
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,4,1073,1073,0,0,0.0,0,0,0.0024613067724023,-0.0045613958969994
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,5,1073,1073,0,0,0.0,0,0,0.0030552768210481,-0.0050685741695732
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,6,1073,1073,0,0,0.0,0,0,0.0028450139467075,-0.0040912690521414
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,7,1073,1073,0,0,0.0,0,0,0.0045522977897165,-0.0057295713419644
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,8,1073,1073,0,0,0.0,0,0,0.0034487417284725,-0.0037949579765824
+adult_celltype__endothelial_cell,ZJU_HCL_adult_celltype,Endothelial cell,trrust_dorothea_union,9,1073,1073,0,0,0.0,0,0,0.0034406595715386,-0.0045874368910837
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,0,154,154,0,0,0.0,0,0,0.0081270614314291,-0.0020680957746191
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,1,154,154,0,0,0.0,0,0,0.0108268509635417,-0.0021536518449891
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,2,154,154,0,0,0.0,0,0,0.0061959332581359,-0.0016836930534935
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,3,154,154,0,0,0.0,0,0,0.0078373255223874,-0.0039139876672971
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,4,154,154,0,0,0.0,0,0,0.0098213644071357,-0.0001230923765757
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,5,154,154,0,0,0.0,0,0,0.0109222938381159,-0.0032193644002836
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,6,154,154,0,0,0.0,0,0,0.0068862719454163,0.0001767349373082
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,7,154,154,0,0,0.0,0,0,0.0067437895812686,-0.0018393753255287
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,8,154,154,0,0,0.0,0,0,0.0094410814054996,-0.0032640682290057
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust,9,154,154,0,0,0.0,0,0,0.008236717172401,-0.0013392321167937
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,0,168,168,0,0,0.0,0,0,0.0019930857348769,-0.000288628295707
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,1,168,168,0,0,0.0,0,0,0.0028149582515352,0.0010648322775938
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,2,168,168,0,0,0.0,0,0,0.0016114632327589,0.0004511868951188
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,3,168,168,0,0,0.0,0,0,0.0034210983029156,2.112964973288518e-05
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,4,168,168,0,0,0.0,0,0,0.0060205860900884,0.0002323137276465
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,5,168,168,0,0,0.0,0,0,0.004231299881709,-0.0006971082618923
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,6,168,168,0,0,0.0,0,0,0.0045245295908008,-0.0003097995710838
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,7,168,168,0,0,0.0,0,0,0.0023715328354237,0.0010861043812631
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,8,168,168,0,0,0.0,0,0,0.002521832133217,0.0001056560649587
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,dorothea_ab,9,168,168,0,0,0.0,0,0,0.0040799442069433,-0.0020350241616342
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,0,57,57,0,0,0.0,0,0,0.0091699590692228,-0.0042292995537135
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,1,57,57,0,0,0.0,0,0,0.0056283177812474,-0.0004506465759064
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,2,57,57,0,0,0.0,0,0,0.0064038175980541,-0.0016335542744648
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,3,57,57,0,0,0.0,0,0,0.0075052735776143,-0.0008824308623035
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,4,57,57,0,0,0.0,0,0,0.0067919967529023,0.000395416275233
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,5,57,57,0,0,0.0,0,0,0.0107479881152035,-0.0016761371386664
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,6,57,57,0,0,0.0,0,0,0.0053502835808366,0.0006205886368916
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,7,57,57,0,0,0.0,0,0,0.0064196625233058,-0.0025170604718299
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,8,57,57,0,0,0.0,0,0,0.0092842966532201,-0.0010703660224573
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_intersection,9,57,57,0,0,0.0,0,0,0.0087414894999856,-0.0010903876631142
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,0,265,265,0,0,0.0,0,0,0.0060269320255986,-0.0009982419777124
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,1,265,265,0,0,0.0,0,0,0.0058758705816745,-0.0011124190404884
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,2,265,265,0,0,0.0,0,0,0.0059269728708461,-0.0015012567820147
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,3,265,265,0,0,0.0,0,0,0.0051533405647121,-0.0022890012737103
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,4,265,265,0,0,0.0,0,0,0.0076353328149405,0.0012328455709431
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,5,265,265,0,0,0.0,0,0,0.005540243238447,0.001073224254818
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,6,265,265,0,0,0.0,0,0,0.0052488897520003,-0.0019055113134534
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,7,265,265,0,0,0.0,0,0,0.0111584994647155,0.0006643441038694
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,8,265,265,0,0,0.0,0,0,0.0058318104987158,-0.0030361461765146
+adult_celltype__enterocyte,ZJU_HCL_adult_celltype,Enterocyte,trrust_dorothea_union,9,265,265,0,0,0.0,0,0,0.0052464138259637,0.0003803033293002
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,0,310,310,0,0,0.0,0,0,0.0034403709213703,-0.0032202632923541
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,1,310,310,0,0,0.0,0,0,0.0068014447177349,-0.0029729262110824
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,2,310,310,0,0,0.0,0,0,0.0061836629429967,-0.0025617124762738
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,3,310,310,0,0,0.0,0,0,0.006118204826757,-0.001573795385207
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,4,310,310,0,0,0.0,0,0,0.0032755564195525,-0.0027342869727111
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,5,310,310,0,0,0.0,0,0,0.0082662628980336,-0.0011444979815736
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,6,310,310,0,0,0.0,0,0,0.0073962842183237,-0.0029046002920561
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,7,310,310,0,0,0.0,0,0,0.0079587915282844,-0.0044059863537552
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,8,310,310,0,0,0.0,0,0,0.004052556521285,-0.0049570602793133
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust,9,310,310,0,0,0.0,0,0,0.0066079401916468,-0.0036070007784974
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,0,476,476,0,0,0.0,0,0,0.0025673584294623,-0.0015170122661927
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,1,476,476,0,0,0.0,0,0,0.003222827439341,-0.0018557428044096
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,2,476,476,0,0,0.0,0,0,0.0042013248289599,-0.0030233676694418
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,3,476,476,0,0,0.0,0,0,0.0046270438027674,-0.0017473398428483
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,4,476,476,0,0,0.0,0,0,0.0045312221550356,-0.0027231879182925
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,5,476,476,0,0,0.0,0,0,0.0042303610290658,-0.0011443439807322
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,6,476,476,0,0,0.0,0,0,0.0035428241879909,-0.0014805513679709
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,7,476,476,0,0,0.0,0,0,0.0023309145778898,-0.0003862082717345
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,8,476,476,0,0,0.0,0,0,0.005595028406164,-0.0014845856377101
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,dorothea_ab,9,476,476,0,0,0.0,0,0,0.0028278634161019,-0.0021162065425645
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,0,140,140,0,0,0.0,0,0,0.0048521567260413,-0.002240264078471
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,1,140,140,0,0,0.0,0,0,0.0069245224322569,-0.0015816896513033
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,2,140,140,0,0,0.0,0,0,0.0080146705064917,-0.0011384460868785
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,3,140,140,0,0,0.0,0,0,0.0053367575152944,-0.0002727643354133
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,4,140,140,0,0,0.0,0,0,0.0080770417504118,-0.0028644592597822
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,5,140,140,0,0,0.0,0,0,0.0016446135146398,-0.0004723828942363
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,6,140,140,0,0,0.0,0,0,0.0080755468386113,0.0007089568020366
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,7,140,140,0,0,0.0,0,0,0.0085466797644244,0.0002198312037773
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,8,140,140,0,0,0.0,0,0,0.0158002255017573,-0.0051898079814005
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_intersection,9,140,140,0,0,0.0,0,0,0.0112807260504885,0.0006035011154419
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,0,646,646,0,0,0.0,0,0,0.0045277344214999,-0.0032464857863372
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,1,646,646,0,0,0.0,0,0,0.0036359607723756,-0.0015714053461614
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,2,646,646,0,0,0.0,0,0,0.0047192090958814,-0.0024211223382447
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,3,646,646,0,0,0.0,0,0,0.0038521580248251,-0.0023919980591522
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,4,646,646,0,0,0.0,0,0,0.0054703535345577,-0.0015376450137576
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,5,646,646,0,0,0.0,0,0,0.0045066917544372,-0.0026813206857507
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,6,646,646,0,0,0.0,0,0,0.0038082884003782,-0.0020169379770411
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,7,646,646,0,0,0.0,0,0,0.0043108812475056,-0.0030277002502032
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,8,646,646,0,0,0.0,0,0,0.0048304704078565,-0.0025528189410633
+adult_celltype__epithelial_cell,ZJU_HCL_adult_celltype,Epithelial cell,trrust_dorothea_union,9,646,646,0,0,0.0,0,0,0.0040445255598907,-0.0031203954949355
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,0,413,413,0,0,0.0,0,0,0.0082603971926293,0.0013547155579001
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,1,413,413,0,0,0.0,0,0,0.0091945575064096,0.0019103433924912
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,2,413,413,0,0,0.0,0,0,0.0081226793268703,0.0002737377339452
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,3,413,413,0,0,0.0,0,0,0.0079447534282153,0.0009543128592436
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,4,413,413,0,0,0.0,0,0,0.0073664160767235,0.0015287019454275
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,5,413,413,0,0,0.0,0,0,0.0073767418176593,0.0022939554832145
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,6,413,413,0,0,0.0,0,0,0.0082143072173308,0.0001398677664913
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,7,413,413,0,0,0.0,0,0,0.008706173362143,0.0005933773948441
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,8,413,413,0,0,0.0,0,0,0.0077427367719501,0.000371916765457
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust,9,413,413,0,0,0.0,0,0,0.0077159749965531,0.0038295198424746
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,0,486,486,0,0,0.0,0,0,0.0057282511512672,9.19279883628796e-05
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,1,486,486,0,0,0.0,0,0,0.0049848833109756,9.905164413819328e-05
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,2,486,486,0,0,0.0,0,0,0.0045086099767106,-0.0008504887926806
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,3,486,486,0,0,0.0,0,0,0.0042595458134649,6.837281605592753e-05
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,4,486,486,0,0,0.0,0,0,0.0050559251981092,-0.000879749479262
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,5,486,486,0,0,0.0,0,0,0.0047004338127842,-0.0012074981112157
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,6,486,486,0,0,0.0,0,0,0.0049032048939015,0.0002728171213624
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,7,486,486,0,0,0.0,0,0,0.0041545776528642,-0.0016512702944316
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,8,486,486,0,0,0.0,0,0,0.003765346882846,0.0004168555515315
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,dorothea_ab,9,486,486,0,0,0.0,0,0,0.004864658413112,-0.0001137303216041
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,0,186,186,0,0,0.0,0,0,0.0076757557361383,-0.0022987688171515
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,1,186,186,0,0,0.0,0,0,0.0092399790536735,-0.0012561215527015
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,2,186,186,0,0,0.0,0,0,0.007641293566105,0.0027482651987857
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,3,186,186,0,0,0.0,0,0,0.0076713864520549,-0.0032329933808142
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,4,186,186,0,0,0.0,0,0,0.0094435883221636,0.0007334071150892
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,5,186,186,0,0,0.0,0,0,0.0102014107467501,0.0009888918239875
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,6,186,186,0,0,0.0,0,0,0.007977345073551,0.0015274912712349
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,7,186,186,0,0,0.0,0,0,0.009189834201647,0.0015908233471427
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,8,186,186,0,0,0.0,0,0,0.0078753372274195,0.003478894108025
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_intersection,9,186,186,0,0,0.0,0,0,0.0085019281713889,0.0022073419449253
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,0,713,713,0,0,0.0,0,0,0.0058487890606934,4.991006475533361e-05
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,1,713,713,0,0,0.0,0,0,0.0070147893131866,-0.001033470654714
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,2,713,713,0,0,0.0,0,0,0.0072041374318441,3.418094682341435e-05
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,3,713,713,0,0,0.0,0,0,0.0060228111976262,0.0006209876832638
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,4,713,713,0,0,0.0,0,0,0.0060775384983865,0.0009532201195083
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,5,713,713,0,0,0.0,0,0,0.006229897661599,0.0004036748052539
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,6,713,713,0,0,0.0,0,0,0.0060970766516417,-0.000605353895828
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,7,713,713,0,0,0.0,0,0,0.0064785240953242,0.0013838085797707
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,8,713,713,0,0,0.0,0,0,0.0062547410738598,-0.0002664488424128
+adult_celltype__fibroblast,ZJU_HCL_adult_celltype,Fibroblast,trrust_dorothea_union,9,713,713,0,0,0.0,0,0,0.0069780062067744,0.0003314954295731
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,0,302,302,0,0,0.0,0,0,0.008732470819032,-0.0078078736046975
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,1,302,302,0,0,0.0,0,0,0.008353454134938,-0.006338142120714
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,2,302,302,0,0,0.0,0,0,0.009539570888133,-0.0076086086769209
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,3,302,302,0,0,0.0,0,0,0.0101609412107005,-0.0069576663516991
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,4,302,302,0,0,0.0,0,0,0.0048932366254238,-0.0077074852473399
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,5,302,302,0,0,0.0,0,0,0.0070910419017161,-0.0074297553794509
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,6,302,302,0,0,0.0,0,0,0.0088358671074615,-0.0095129374159999
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,7,302,302,0,0,0.0,0,0,0.0089824154229924,-0.004565179982805
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,8,302,302,0,0,0.0,0,0,0.0063664280400984,-0.0066209843632857
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust,9,302,302,0,0,0.0,0,0,0.0059612813017585,-0.0089977190536421
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,0,591,591,0,0,0.0,0,0,0.0050964370287294,-0.0035272718435734
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,1,591,591,0,0,0.0,0,0,0.0084682469624383,-0.0047884430958162
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,2,591,591,0,0,0.0,0,0,0.0061667126349315,-0.0038278155911433
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,3,591,591,0,0,0.0,0,0,0.007420556231094,-0.0046780793462631
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,4,591,591,0,0,0.0,0,0,0.0065077453416799,-0.0046003250393621
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,5,591,591,0,0,0.0,0,0,0.0029418408249596,-0.0048321706167142
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,6,591,591,0,0,0.0,0,0,0.00901672494172,-0.0045532432238251
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,7,591,591,0,0,0.0,0,0,0.006990062387522,-0.0040130440436654
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,8,591,591,0,0,0.0,0,0,0.0067809161690006,-0.004694265802208
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,dorothea_ab,9,591,591,0,0,0.0,0,0,0.0074115110138128,-0.0036055508559232
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,0,141,141,0,0,0.0,0,0,0.0063501092002672,-0.0083614438063001
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,1,141,141,0,0,0.0,0,0,0.0125595625804459,-0.0052948582995436
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,2,141,141,0,0,0.0,0,0,0.0109783012496835,-0.0072318043389848
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,3,141,141,0,0,0.0,0,0,0.0097871414100711,-0.0083460777199983
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,4,141,141,0,0,0.0,0,0,0.0107014661012979,-0.0046082757603842
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,5,141,141,0,0,0.0,0,0,0.0095222883013708,-0.0070193462334826
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,6,141,141,0,0,0.0,0,0,0.0099317143784587,-0.0056525888454698
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,7,141,141,0,0,0.0,0,0,0.0108303078874032,-0.00549698845977
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,8,141,141,0,0,0.0,0,0,0.0083331987778086,-0.0059360822322421
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_intersection,9,141,141,0,0,0.0,0,0,0.0086865376439536,-0.0070243955778191
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,0,752,752,0,0,0.0,0,0,0.0066869763474688,-0.0039875305947524
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,1,752,752,0,0,0.0,0,0,0.0072170092432377,-0.0044316829373578
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,2,752,752,0,0,0.0,0,0,0.0055930903515504,-0.0045292274938062
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,3,752,752,0,0,0.0,0,0,0.0063618734071914,-0.0046887841407982
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,4,752,752,0,0,0.0,0,0,0.0057050579196809,-0.0050521215292158
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,5,752,752,0,0,0.0,0,0,0.0048779899716538,-0.00488422145495
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,6,752,752,0,0,0.0,0,0,0.00680728222988,-0.0054198041277143
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,7,752,752,0,0,0.0,0,0,0.0044423661107403,-0.0048429210117981
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,8,752,752,0,0,0.0,0,0,0.0052383916887013,-0.0037794705309962
+adult_celltype__loop_of_henle,ZJU_HCL_adult_celltype,Loop of Henle,trrust_dorothea_union,9,752,752,0,0,0.0,0,0,0.0048944035441084,-0.0040834119729677
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,0,393,393,0,0,0.0,0,0,0.012296765716062,0.0001399362358053
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,1,393,393,0,0,0.0,0,0,0.0098005004035829,-0.0002212865285412
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,2,393,393,0,0,0.0,0,0,0.0089006226860484,-0.0026608389967013
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,3,393,393,0,0,0.0,0,0,0.0086799847672816,-0.0040236245651389
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,4,393,393,0,0,0.0,0,0,0.0097240055826626,-0.0014424046398758
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,5,393,393,0,0,0.0,0,0,0.007687772524426,-0.0038058209610023
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,6,393,393,0,0,0.0,0,0,0.0095395707847483,-0.0031600449122828
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,7,393,393,0,0,0.0,0,0,0.0080948211721641,-0.0010831931516238
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,8,393,393,0,0,0.0,0,0,0.0093360481894245,-0.0021959599201516
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust,9,393,393,0,0,0.0,0,0,0.0077241037122159,-0.0037619749996316
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,0,592,592,0,0,0.0,0,0,0.0052571476130027,-2.6122973965737303e-05
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,1,592,592,0,0,0.0,0,0,0.0039606872863814,-2.7701984635787087e-05
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,2,592,592,0,0,0.0,0,0,0.0051686033642536,-0.0002477768710063
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,3,592,592,0,0,0.0,0,0,0.0046107680673664,-0.0016130190048824
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,4,592,592,0,0,0.0,0,0,0.0062379129521285,-0.0017282437055295
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,5,592,592,0,0,0.0,0,0,0.0061982276621333,0.0008300478960972
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,6,592,592,0,0,0.0,0,0,0.0070482019695324,-0.0017567598088082
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,7,592,592,0,0,0.0,0,0,0.0063056995105647,-0.0007722086039544
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,8,592,592,0,0,0.0,0,0,0.0059782497266601,-0.0010051319675862
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,dorothea_ab,9,592,592,0,0,0.0,0,0,0.0059845781393119,-0.0003459642839833
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,0,192,192,0,0,0.0,0,0,0.0092024362329545,-0.0021783492910387
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,1,192,192,0,0,0.0,0,0,0.0092522606663013,-0.0046648069456316
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,2,192,192,0,0,0.0,0,0,0.008062769465974,-0.00124660821163
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,3,192,192,0,0,0.0,0,0,0.0100445462176938,-0.0022197440754418
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,4,192,192,0,0,0.0,0,0,0.0091817738008331,-0.0018747594104
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,5,192,192,0,0,0.0,0,0,0.0079707141838244,-0.0037695164517074
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,6,192,192,0,0,0.0,0,0,0.0082027417324967,-0.0016749680675512
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,7,192,192,0,0,0.0,0,0,0.0061772824472521,-0.0035897030830348
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,8,192,192,0,0,0.0,0,0,0.0077257454482144,0.0005890310169913
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_intersection,9,192,192,0,0,0.0,0,0,0.0070012516987938,-0.0063001457863595
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,0,793,793,0,0,0.0,0,0,0.0060560454202795,-0.0010480586468046
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,1,793,793,0,0,0.0,0,0,0.00515630678454,-0.000942340132624
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,2,793,793,0,0,0.0,0,0,0.0067869892760573,0.0009074232389997
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,3,793,793,0,0,0.0,0,0,0.0057814105193162,-0.0021715544286791
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,4,793,793,0,0,0.0,0,0,0.0062284642175941,-0.0009098433592017
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,5,793,793,0,0,0.0,0,0,0.0049760031091111,-0.0016236733169588
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,6,793,793,0,0,0.0,0,0,0.0062591754652614,-6.89162210049114e-05
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,7,793,793,0,0,0.0,0,0,0.0064642081370054,-0.0021681789918594
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,8,793,793,0,0,0.0,0,0,0.0065637752147775,-0.00197937221648
+adult_celltype__smooth_muscle_cell,ZJU_HCL_adult_celltype,Smooth muscle cell,trrust_dorothea_union,9,793,793,0,0,0.0,0,0,0.0064228588566777,-0.0003277455523495

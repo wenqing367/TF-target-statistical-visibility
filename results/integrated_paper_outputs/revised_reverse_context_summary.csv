@@ -1,0 +1,361 @@
+context_level,context_label,metric,top_level,analysis_units,mean_curated_positive_fraction,ci95_curated_positive_fraction,units_mean_above_0_5,median_actual_top_n,mean_delta_vs_0_5
+Adult cell types,AT2 cell,codetection_odds_ratio,top_100,4,0.6632499999999999,0.0452739848036375,4,100.0,0.16324999999999998
+Adult cell types,AT2 cell,codetection_odds_ratio,top_500,3,0.5404,0.030852002160853854,3,500.0,0.04039999999999997
+Adult cell types,AT2 cell,codetection_odds_ratio,top_5pct,4,0.7356244429590018,0.056776938028770645,4,44.5,0.23562444295900176
+Adult cell types,AT2 cell,coexpression_probability,top_100,4,0.50525,0.0035220969132984813,3,100.0,0.00525
+Adult cell types,AT2 cell,coexpression_probability,top_500,3,0.5094666666666666,0.002102880986752358,3,500.0,0.009466666666666667
+Adult cell types,AT2 cell,coexpression_probability,top_5pct,4,0.5193677584670231,0.029929996164499997,3,44.5,0.019367758467023172
+Adult cell types,AT2 cell,mutual_information,top_100,4,0.61925,0.028665349000724462,4,100.0,0.11924999999999995
+Adult cell types,AT2 cell,mutual_information,top_500,3,0.5336666666666666,0.02217640852597893,3,500.0,0.03366666666666667
+Adult cell types,AT2 cell,mutual_information,top_5pct,4,0.683543523469994,0.060994400393250034,4,44.5,0.18354352346999403
+Adult cell types,AT2 cell,pearson,top_100,4,0.654,0.02157484337525225,4,100.0,0.154
+Adult cell types,AT2 cell,pearson,top_500,3,0.5421333333333334,0.030967448658945778,3,500.0,0.0421333333333333
+Adult cell types,AT2 cell,pearson,top_5pct,4,0.7267697192513369,0.07792124951155338,4,44.5,0.22676971925133685
+Adult cell types,AT2 cell,spearman,top_100,4,0.64475,0.030703625735950715,4,100.0,0.14475
+Adult cell types,AT2 cell,spearman,top_500,3,0.5366666666666667,0.02447237019806437,3,500.0,0.03666666666666667
+Adult cell types,AT2 cell,spearman,top_5pct,4,0.680926173499703,0.03231124183877977,4,44.5,0.18092617349970286
+Adult cell types,Endothelial cell,codetection_odds_ratio,top_100,4,0.60475,0.03964157539755451,4,100.0,0.10474999999999998
+Adult cell types,Endothelial cell,codetection_odds_ratio,top_500,3,0.5488666666666667,0.01153424797914644,3,500.0,0.04886666666666667
+Adult cell types,Endothelial cell,codetection_odds_ratio,top_5pct,4,0.6412480141354634,0.04713976401911999,4,66.0,0.14124801413546334
+Adult cell types,Endothelial cell,coexpression_probability,top_100,4,0.51325,0.009378519783704329,3,100.0,0.013249999999999998
+Adult cell types,Endothelial cell,coexpression_probability,top_500,3,0.5045999999999999,0.0069720187416080085,2,500.0,0.0046
+Adult cell types,Endothelial cell,coexpression_probability,top_5pct,4,0.5216546055250378,0.01372118317352591,4,66.0,0.021654605525037774
+Adult cell types,Endothelial cell,mutual_information,top_100,4,0.58325,0.04138010592865448,4,100.0,0.08324999999999995
+Adult cell types,Endothelial cell,mutual_information,top_500,3,0.5332666666666667,0.006031933391910461,3,500.0,0.03326666666666667
+Adult cell types,Endothelial cell,mutual_information,top_5pct,4,0.6188803350759405,0.03598119370189671,4,66.0,0.11888033507594048
+Adult cell types,Endothelial cell,pearson,top_100,4,0.59275,0.054607343523253964,4,100.0,0.09274999999999994
+Adult cell types,Endothelial cell,pearson,top_500,3,0.5256666666666666,0.0060784582840644205,3,500.0,0.02566666666666667
+Adult cell types,Endothelial cell,pearson,top_5pct,4,0.6350705601111022,0.026399160704725696,4,66.0,0.1350705601111022
+Adult cell types,Endothelial cell,spearman,top_100,4,0.5905,0.04168937354610484,4,100.0,0.09049999999999997
+Adult cell types,Endothelial cell,spearman,top_500,3,0.5351333333333333,0.012012808571594707,3,500.0,0.03513333333333333
+Adult cell types,Endothelial cell,spearman,top_5pct,4,0.5855029964882484,0.05449882153275273,4,66.0,0.08550299648824841
+Adult cell types,Enterocyte,codetection_odds_ratio,top_100,4,0.52125,0.01301039968640473,4,100.0,0.021249999999999974
+Adult cell types,Enterocyte,codetection_odds_ratio,top_500,1,0.5044000000000001,0.0,1,322.0,0.0044
+Adult cell types,Enterocyte,codetection_odds_ratio,top_5pct,4,0.6731209150326798,0.02346502469447174,4,16.5,0.17312091503267973
+Adult cell types,Enterocyte,coexpression_probability,top_100,4,0.512,0.014111092563417393,4,100.0,0.012
+Adult cell types,Enterocyte,coexpression_probability,top_500,1,0.504,0.0,1,322.0,0.004
+Adult cell types,Enterocyte,coexpression_probability,top_5pct,4,0.498042619825708,0.057596254627252715,1,16.5,-0.0019573801742919245
+Adult cell types,Enterocyte,mutual_information,top_100,4,0.51975,0.025559970657260175,3,100.0,0.01975
+Adult cell types,Enterocyte,mutual_information,top_500,1,0.5042,0.0,1,322.0,0.0042
+Adult cell types,Enterocyte,mutual_information,top_5pct,4,0.653155637254902,0.08202021268499182,4,16.5,0.15315563725490194
+Adult cell types,Enterocyte,pearson,top_100,4,0.5255000000000001,0.01253736282743173,4,100.0,0.025500000000000002
+Adult cell types,Enterocyte,pearson,top_500,1,0.5006,0.0,1,322.0,0.0006
+Adult cell types,Enterocyte,pearson,top_5pct,4,0.7226000816993464,0.1407700571462692,4,16.5,0.22260008169934642
+Adult cell types,Enterocyte,spearman,top_100,4,0.52125,0.010006083149764457,4,100.0,0.02125
+Adult cell types,Enterocyte,spearman,top_500,1,0.5016,0.0,1,322.0,0.0016
+Adult cell types,Enterocyte,spearman,top_5pct,4,0.7184027777777777,0.09948455991779341,4,16.5,0.21840277777777778
+Adult cell types,Epithelial cell,codetection_odds_ratio,top_100,4,0.49274999999999997,0.07223858687248343,2,100.0,-0.0072500000000000255
+Adult cell types,Epithelial cell,codetection_odds_ratio,top_500,3,0.5134666666666666,0.006991582494527153,3,500.0,0.013466666666666668
+Adult cell types,Epithelial cell,codetection_odds_ratio,top_5pct,4,0.46350415041947296,0.05481674299271329,1,39.5,-0.03649584958052697
+Adult cell types,Epithelial cell,coexpression_probability,top_100,4,0.51625,0.01214501681074726,3,100.0,0.01625
+Adult cell types,Epithelial cell,coexpression_probability,top_500,3,0.5047333333333334,0.004205761973504668,3,500.0,0.004733333333333333
+Adult cell types,Epithelial cell,coexpression_probability,top_5pct,4,0.5247208067470164,0.009344465243557901,4,39.5,0.024720806747016398
+Adult cell types,Epithelial cell,mutual_information,top_100,4,0.517,0.033020813638269655,2,100.0,0.016999999999999998
+Adult cell types,Epithelial cell,mutual_information,top_500,3,0.498,0.0070159604711923194,1,500.0,-0.0019999999999999996
+Adult cell types,Epithelial cell,mutual_information,top_5pct,4,0.553274658808933,0.0672396832313159,3,39.5,0.05327465880893298
+Adult cell types,Epithelial cell,pearson,top_100,4,0.5445,0.019899872696410206,4,100.0,0.04449999999999997
+Adult cell types,Epithelial cell,pearson,top_500,3,0.5064000000000001,0.009636611299276008,2,500.0,0.0063999999999999994
+Adult cell types,Epithelial cell,pearson,top_5pct,4,0.5836100525818267,0.044994497829134644,4,39.5,0.08361005258182673
+Adult cell types,Epithelial cell,spearman,top_100,4,0.5215,0.03642736151118642,3,100.0,0.021499999999999977
+Adult cell types,Epithelial cell,spearman,top_500,3,0.4961333333333333,0.0037893333333333516,0,500.0,-0.0038666666666666663
+Adult cell types,Epithelial cell,spearman,top_5pct,4,0.5200057972941037,0.0644017033390057,2,39.5,0.020005797294103747
+Adult cell types,Fibroblast,codetection_odds_ratio,top_100,4,0.6315,0.02566153281989733,4,100.0,0.13149999999999995
+Adult cell types,Fibroblast,codetection_odds_ratio,top_500,3,0.5727333333333333,0.026438293977570537,3,500.0,0.07273333333333327
+Adult cell types,Fibroblast,codetection_odds_ratio,top_5pct,4,0.6378091806898197,0.03655232739879967,4,45.5,0.13780918068981973
+Adult cell types,Fibroblast,coexpression_probability,top_100,4,0.524,0.013555682695214346,4,100.0,0.024
+Adult cell types,Fibroblast,coexpression_probability,top_500,3,0.5143333333333333,0.006199441408528513,3,500.0,0.014333333333333332
+Adult cell types,Fibroblast,coexpression_probability,top_5pct,4,0.5621960406969805,0.0463198201553415,4,45.5,0.062196040696980495
+Adult cell types,Fibroblast,mutual_information,top_100,4,0.62525,0.028021545876937885,4,100.0,0.12524999999999997
+Adult cell types,Fibroblast,mutual_information,top_500,3,0.5566666666666666,0.030202943550440713,3,500.0,0.056666666666666636
+Adult cell types,Fibroblast,mutual_information,top_5pct,4,0.6538944086406493,0.0180539808603756,4,45.5,0.15389440864064918
+Adult cell types,Fibroblast,pearson,top_100,4,0.629,0.028794883804824332,4,100.0,0.12899999999999998
+Adult cell types,Fibroblast,pearson,top_500,3,0.5583333333333333,0.02444933606006059,3,500.0,0.0583333333333333
+Adult cell types,Fibroblast,pearson,top_5pct,4,0.6881161236424395,0.009278682203609863,4,45.5,0.1881161236424394
+Adult cell types,Fibroblast,spearman,top_100,4,0.62675,0.02366079387228306,4,100.0,0.12674999999999995
+Adult cell types,Fibroblast,spearman,top_500,3,0.5600666666666667,0.02425160660886423,3,500.0,0.060066666666666636
+Adult cell types,Fibroblast,spearman,top_5pct,4,0.6651711123045709,0.020113643445739928,4,45.5,0.16517111230457093
+Adult cell types,Loop of Henle,codetection_odds_ratio,top_100,4,0.6234999999999999,0.045955626423757986,4,100.0,0.12349999999999997
+Adult cell types,Loop of Henle,codetection_odds_ratio,top_500,3,0.5690666666666666,0.052555458826314475,3,500.0,0.0690666666666666
+Adult cell types,Loop of Henle,codetection_odds_ratio,top_5pct,4,0.6577985285795134,0.023655140088017425,4,45.5,0.15779852857951326
+Adult cell types,Loop of Henle,coexpression_probability,top_100,4,0.5115000000000001,0.009484591012092551,3,100.0,0.0115
+Adult cell types,Loop of Henle,coexpression_probability,top_500,3,0.5091333333333333,0.005691129628153349,3,500.0,0.009133333333333334
+Adult cell types,Loop of Henle,coexpression_probability,top_5pct,4,0.4998139501980758,0.032647066239549105,2,45.5,-0.00018604980192414924
+Adult cell types,Loop of Henle,mutual_information,top_100,4,0.56325,0.023956607300144404,4,100.0,0.06324999999999997
+Adult cell types,Loop of Henle,mutual_information,top_500,3,0.5569999999999999,0.04705360914248057,3,500.0,0.05699999999999993
+Adult cell types,Loop of Henle,mutual_information,top_5pct,4,0.6511368138087154,0.04651636403079497,4,45.5,0.15113681380871527
+Adult cell types,Loop of Henle,pearson,top_100,4,0.5975,0.0415200915220571,4,100.0,0.09749999999999998
+Adult cell types,Loop of Henle,pearson,top_500,3,0.5546000000000001,0.04184374310853815,3,500.0,0.054599999999999926
+Adult cell types,Loop of Henle,pearson,top_5pct,4,0.6499434069043577,0.027315702909337998,4,45.5,0.14994340690435762
+Adult cell types,Loop of Henle,spearman,top_100,4,0.5735,0.02464331417105524,4,100.0,0.07349999999999995
+Adult cell types,Loop of Henle,spearman,top_500,3,0.5618,0.043978020934704695,3,500.0,0.06179999999999993
+Adult cell types,Loop of Henle,spearman,top_5pct,4,0.6364834465195246,0.046137363389738596,4,45.5,0.13648344651952457
+Adult cell types,Smooth muscle cell,codetection_odds_ratio,top_100,4,0.55025,0.01605077256707603,4,100.0,0.050249999999999975
+Adult cell types,Smooth muscle cell,codetection_odds_ratio,top_500,3,0.5406666666666667,0.023314756338231563,3,500.0,0.04066666666666666
+Adult cell types,Smooth muscle cell,codetection_odds_ratio,top_5pct,4,0.5703125,0.026545592658355398,4,50.0,0.07031249999999997
+Adult cell types,Smooth muscle cell,coexpression_probability,top_100,4,0.51575,0.025446997858293643,2,100.0,0.01575
+Adult cell types,Smooth muscle cell,coexpression_probability,top_500,3,0.5130666666666667,0.0020284921603113035,3,500.0,0.013066666666666666
+Adult cell types,Smooth muscle cell,coexpression_probability,top_5pct,4,0.5580208333333333,0.023479166666666666,4,50.0,0.0580208333333333
+Adult cell types,Smooth muscle cell,mutual_information,top_100,4,0.52075,0.019442156087567396,4,100.0,0.02075
+Adult cell types,Smooth muscle cell,mutual_information,top_500,3,0.5098,0.025286278967060406,2,500.0,0.0098
+Adult cell types,Smooth muscle cell,mutual_information,top_5pct,4,0.49927083333333333,0.03964883024230773,1,50.0,-0.0007291666666666254
+Adult cell types,Smooth muscle cell,pearson,top_100,4,0.549,0.007289865110777609,4,100.0,0.049
+Adult cell types,Smooth muscle cell,pearson,top_500,3,0.5191333333333333,0.026641904770075716,2,500.0,0.019133333333333332
+Adult cell types,Smooth muscle cell,pearson,top_5pct,4,0.4970833333333334,0.06683208020437824,3,50.0,-0.002916666666666674
+Adult cell types,Smooth muscle cell,spearman,top_100,4,0.52925,0.009240972171079557,4,100.0,0.029249999999999998
+Adult cell types,Smooth muscle cell,spearman,top_500,3,0.5168,0.031086860504077926,2,500.0,0.0168
+Adult cell types,Smooth muscle cell,spearman,top_5pct,4,0.5188541666666666,0.030758777259056017,2,50.0,0.0188541666666667
+Tissue contexts,"Adult
+colon",codetection_odds_ratio,top_100,3,0.4623333333333333,0.013594986003834054,0,100.0,-0.03766666666666663
+Tissue contexts,"Adult
+colon",codetection_odds_ratio,top_500,0,,0.0,0,216.0,
+Tissue contexts,"Adult
+colon",codetection_odds_ratio,top_5pct,4,0.6481749622926094,0.03079886063975126,4,11.0,0.14817496229260932
+Tissue contexts,"Adult
+colon",coexpression_probability,top_100,3,0.48533333333333334,0.0006533333333332614,0,100.0,-0.014666666666666666
+Tissue contexts,"Adult
+colon",coexpression_probability,top_500,0,,0.0,0,216.0,
+Tissue contexts,"Adult
+colon",coexpression_probability,top_5pct,4,0.5075666163901458,0.07424314306979359,3,11.0,0.007566616390145774
+Tissue contexts,"Adult
+colon",mutual_information,top_100,3,0.46466666666666673,0.016411546071118464,0,100.0,-0.0353333333333333
+Tissue contexts,"Adult
+colon",mutual_information,top_500,0,,0.0,0,216.0,
+Tissue contexts,"Adult
+colon",mutual_information,top_5pct,4,0.5215082956259427,0.11335782843583063,2,11.0,0.0215082956259427
+Tissue contexts,"Adult
+colon",pearson,top_100,3,0.4566666666666666,0.004711253666606232,0,100.0,-0.0433333333333333
+Tissue contexts,"Adult
+colon",pearson,top_500,0,,0.0,0,216.0,
+Tissue contexts,"Adult
+colon",pearson,top_5pct,4,0.542611865258924,0.09854116311626487,2,11.0,0.0426118652589241
+Tissue contexts,"Adult
+colon",spearman,top_100,3,0.4666666666666666,0.009624200976935381,0,100.0,-0.0333333333333333
+Tissue contexts,"Adult
+colon",spearman,top_500,0,,0.0,0,216.0,
+Tissue contexts,"Adult
+colon",spearman,top_5pct,4,0.6080769230769231,0.0856901270265279,3,11.0,0.10807692307692304
+Tissue contexts,"Adult
+kidney",codetection_odds_ratio,top_100,4,0.6627500000000001,0.011213044486965477,4,100.0,0.16274999999999995
+Tissue contexts,"Adult
+kidney",codetection_odds_ratio,top_500,3,0.5965333333333332,0.02716641390475463,3,500.0,0.09653333333333326
+Tissue contexts,"Adult
+kidney",codetection_odds_ratio,top_5pct,4,0.6430248917748917,0.03269134226435184,4,61.0,0.14302489177489175
+Tissue contexts,"Adult
+kidney",coexpression_probability,top_100,4,0.51375,0.01463178617485463,4,100.0,0.01375
+Tissue contexts,"Adult
+kidney",coexpression_probability,top_500,3,0.5196666666666667,0.006630609155860255,3,500.0,0.019666666666666666
+Tissue contexts,"Adult
+kidney",coexpression_probability,top_5pct,4,0.522989898989899,0.02407629710307822,3,61.0,0.02298989898989895
+Tissue contexts,"Adult
+kidney",mutual_information,top_100,4,0.61975,0.035028431785241766,4,100.0,0.11974999999999995
+Tissue contexts,"Adult
+kidney",mutual_information,top_500,3,0.5750666666666667,0.03384947679228005,3,500.0,0.0750666666666666
+Tissue contexts,"Adult
+kidney",mutual_information,top_5pct,4,0.6479906204906205,0.027242663583252932,4,61.0,0.14799062049062045
+Tissue contexts,"Adult
+kidney",pearson,top_100,4,0.61625,0.016070705232399327,4,100.0,0.11624999999999995
+Tissue contexts,"Adult
+kidney",pearson,top_500,3,0.5776,0.03490634723561506,3,500.0,0.07759999999999993
+Tissue contexts,"Adult
+kidney",pearson,top_5pct,4,0.6453138528138528,0.03289764757234634,4,61.0,0.14531385281385276
+Tissue contexts,"Adult
+kidney",spearman,top_100,4,0.63475,0.03387621535335181,4,100.0,0.13474999999999995
+Tissue contexts,"Adult
+kidney",spearman,top_500,3,0.5793333333333334,0.03542223673218713,3,500.0,0.07933333333333327
+Tissue contexts,"Adult
+kidney",spearman,top_5pct,4,0.6742860750360751,0.021178961972958297,4,61.0,0.174286075036075
+Tissue contexts,"Adult
+liver",codetection_odds_ratio,top_100,4,0.58525,0.04130266940525755,4,100.0,0.08524999999999998
+Tissue contexts,"Adult
+liver",codetection_odds_ratio,top_500,1,0.5136000000000001,0.0,1,380.0,0.0136
+Tissue contexts,"Adult
+liver",codetection_odds_ratio,top_5pct,4,0.7064362727910238,0.005219997526736541,4,19.5,0.20643627279102383
+Tissue contexts,"Adult
+liver",coexpression_probability,top_100,4,0.5085,0.00441906475776644,4,100.0,0.0085
+Tissue contexts,"Adult
+liver",coexpression_probability,top_500,1,0.5098,0.0,1,380.0,0.0098
+Tissue contexts,"Adult
+liver",coexpression_probability,top_5pct,4,0.540969056802244,0.021557096667612838,4,19.5,0.040969056802244
+Tissue contexts,"Adult
+liver",mutual_information,top_100,4,0.5685,0.028329741733144436,4,100.0,0.06849999999999995
+Tissue contexts,"Adult
+liver",mutual_information,top_500,1,0.5156000000000001,0.0,1,380.0,0.0156
+Tissue contexts,"Adult
+liver",mutual_information,top_5pct,4,0.6442211605890603,0.013574764101778715,4,19.5,0.14422116058906026
+Tissue contexts,"Adult
+liver",pearson,top_100,4,0.56825,0.02985785156370093,4,100.0,0.06824999999999998
+Tissue contexts,"Adult
+liver",pearson,top_500,1,0.506,0.0,1,380.0,0.006
+Tissue contexts,"Adult
+liver",pearson,top_5pct,4,0.6669069950911641,0.037022449387885625,4,19.5,0.1669069950911641
+Tissue contexts,"Adult
+liver",spearman,top_100,4,0.57225,0.03585045745872705,4,100.0,0.07224999999999995
+Tissue contexts,"Adult
+liver",spearman,top_500,1,0.5156000000000001,0.0,1,380.0,0.0156
+Tissue contexts,"Adult
+liver",spearman,top_5pct,4,0.651233783309958,0.019377740132143006,4,19.5,0.1512337833099579
+Tissue contexts,"Adult
+lung",codetection_odds_ratio,top_100,4,0.6505000000000001,0.005337777315200281,4,100.0,0.1505
+Tissue contexts,"Adult
+lung",codetection_odds_ratio,top_500,3,0.5396666666666666,0.015357086066192469,3,500.0,0.03966666666666666
+Tissue contexts,"Adult
+lung",codetection_odds_ratio,top_5pct,4,0.6899754120148857,0.043736901536065846,4,61.0,0.1899754120148857
+Tissue contexts,"Adult
+lung",coexpression_probability,top_100,4,0.52575,0.023251347631194793,3,100.0,0.025750000000000002
+Tissue contexts,"Adult
+lung",coexpression_probability,top_500,3,0.5268666666666667,0.008411523947009293,3,500.0,0.026866666666666667
+Tissue contexts,"Adult
+lung",coexpression_probability,top_5pct,4,0.5120008725700945,0.02309913307139321,2,61.0,0.01200087257009455
+Tissue contexts,"Adult
+lung",mutual_information,top_100,4,0.606,0.0203531946714351,4,100.0,0.10599999999999993
+Tissue contexts,"Adult
+lung",mutual_information,top_500,3,0.5205333333333333,0.007035402033841305,3,500.0,0.020533333333333334
+Tissue contexts,"Adult
+lung",mutual_information,top_5pct,4,0.6611690416753346,0.0595746974840615,4,61.0,0.16116904167533455
+Tissue contexts,"Adult
+lung",pearson,top_100,4,0.6105,0.006998599859971999,4,100.0,0.1104999999999999
+Tissue contexts,"Adult
+lung",pearson,top_500,3,0.5284666666666666,0.008079173995183198,3,500.0,0.028466666666666668
+Tissue contexts,"Adult
+lung",pearson,top_5pct,4,0.6343705938099531,0.027368131522139124,4,61.0,0.13437059380995303
+Tissue contexts,"Adult
+lung",spearman,top_100,4,0.62075,0.023579473417925767,4,100.0,0.12074999999999997
+Tissue contexts,"Adult
+lung",spearman,top_500,3,0.518,0.0026100646224439666,3,500.0,0.018000000000000002
+Tissue contexts,"Adult
+lung",spearman,top_5pct,4,0.6723091903011812,0.04370527754051695,4,61.0,0.17230919030118114
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",codetection_odds_ratio,top_100,2,0.6685,0.016659999999999904,2,100.0,0.16849999999999998
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",codetection_odds_ratio,top_500,2,0.5481,0.04135600000000001,2,500.0,0.04809999999999995
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",codetection_odds_ratio,top_5pct,2,0.6707015959048479,0.04774585968081903,2,61.0,0.1707015959048479
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",coexpression_probability,top_100,2,0.5245,0.03822000000000003,2,100.0,0.024499999999999997
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",coexpression_probability,top_500,2,0.5091000000000001,0.00019600000000008716,2,500.0,0.0091
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",coexpression_probability,top_5pct,2,0.5214543812104788,0.005754290876242144,2,61.0,0.02145438121047875
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",mutual_information,top_100,2,0.561,0.009800000000000008,2,100.0,0.061
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",mutual_information,top_500,2,0.5182,0.01999200000000008,2,500.0,0.0182
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",mutual_information,top_5pct,2,0.6103432700993676,0.027532068654019845,2,61.0,0.11034327009936759
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",pearson,top_100,2,0.615,0.05292000000000004,2,100.0,0.11499999999999994
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",pearson,top_500,2,0.5327,0.034300000000000025,2,500.0,0.0327
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",pearson,top_5pct,2,0.6236374585968082,0.09230472749171942,2,61.0,0.12363745859680815
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",spearman,top_100,2,0.638,0.029400000000000023,2,100.0,0.138
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",spearman,top_500,2,0.5387,0.05194000000000005,2,500.0,0.03869999999999995
+Tissue contexts,"GSE178429
+IFN-gamma
+PBMC",spearman,top_5pct,2,0.66547726588377,0.05332309545317669,2,61.0,0.16547726588376993
+Tissue contexts,"Kang
+IFN-beta
+PBMC",codetection_odds_ratio,top_100,2,0.609,0.003920000000000003,2,100.0,0.1089999999999999
+Tissue contexts,"Kang
+IFN-beta
+PBMC",codetection_odds_ratio,top_500,2,0.524,0.01176000000000001,2,500.0,0.024
+Tissue contexts,"Kang
+IFN-beta
+PBMC",codetection_odds_ratio,top_5pct,2,0.6021505376344085,0.061118279569892485,2,30.5,0.10215053763440855
+Tissue contexts,"Kang
+IFN-beta
+PBMC",coexpression_probability,top_100,2,0.5075000000000001,0.014700000000000012,1,100.0,0.0075
+Tissue contexts,"Kang
+IFN-beta
+PBMC",coexpression_probability,top_500,2,0.5072,0.006271999999999961,2,500.0,0.0072
+Tissue contexts,"Kang
+IFN-beta
+PBMC",coexpression_probability,top_5pct,2,0.5182795698924731,0.029505376344086058,2,30.5,0.018279569892473098
+Tissue contexts,"Kang
+IFN-beta
+PBMC",mutual_information,top_100,2,0.49,0.015680000000000013,0,100.0,-0.009999999999999998
+Tissue contexts,"Kang
+IFN-beta
+PBMC",mutual_information,top_500,2,0.5056,0.009407999999999942,2,500.0,0.0056
+Tissue contexts,"Kang
+IFN-beta
+PBMC",mutual_information,top_5pct,2,0.4970967741935484,0.04489032258064513,1,30.5,-0.002903225806451651
+Tissue contexts,"Kang
+IFN-beta
+PBMC",pearson,top_100,2,0.5425,0.008819999999999899,2,100.0,0.042499999999999996
+Tissue contexts,"Kang
+IFN-beta
+PBMC",pearson,top_500,2,0.5016,0.007055999999999983,1,500.0,0.0015999999999999999
+Tissue contexts,"Kang
+IFN-beta
+PBMC",pearson,top_5pct,2,0.5575268817204301,0.017913978494623683,2,30.5,0.05752688172043005
+Tissue contexts,"Kang
+IFN-beta
+PBMC",spearman,top_100,2,0.5409999999999999,0.035279999999999916,2,100.0,0.040999999999999995
+Tissue contexts,"Kang
+IFN-beta
+PBMC",spearman,top_500,2,0.5074,0.0019600000000000017,2,500.0,0.0074
+Tissue contexts,"Kang
+IFN-beta
+PBMC",spearman,top_5pct,2,0.5558064516129031,0.00821935483870971,2,30.5,0.05580645161290315
+Tissue contexts,"NYGC
+PBMC",codetection_odds_ratio,top_100,4,0.57075,0.03485435362571893,4,100.0,0.07074999999999998
+Tissue contexts,"NYGC
+PBMC",codetection_odds_ratio,top_500,4,0.5245500000000001,0.01042967426784428,4,500.0,0.02455
+Tissue contexts,"NYGC
+PBMC",codetection_odds_ratio,top_5pct,4,0.5406311432735532,0.02135088541902962,4,381.0,0.0406311432735532
+Tissue contexts,"NYGC
+PBMC",coexpression_probability,top_100,4,0.49875,0.012686490189699182,2,100.0,-0.0012499999999999998
+Tissue contexts,"NYGC
+PBMC",coexpression_probability,top_500,4,0.49775,0.0038119354664002967,2,500.0,-0.00225
+Tissue contexts,"NYGC
+PBMC",coexpression_probability,top_5pct,4,0.49430347757162363,0.007722402766935296,1,381.0,-0.0056965224283764
+Tissue contexts,"NYGC
+PBMC",mutual_information,top_100,4,0.5842499999999999,0.029086635533637537,4,100.0,0.08424999999999996
+Tissue contexts,"NYGC
+PBMC",mutual_information,top_500,4,0.50955,0.01872210426207487,2,500.0,0.009550000000000001
+Tissue contexts,"NYGC
+PBMC",mutual_information,top_5pct,4,0.5303822771441937,0.013136390903893057,4,381.0,0.03038227714419365
+Tissue contexts,"NYGC
+PBMC",pearson,top_100,4,0.595,0.03752261184939021,4,100.0,0.09499999999999995
+Tissue contexts,"NYGC
+PBMC",pearson,top_500,4,0.5301,0.011467256341427073,4,500.0,0.030100000000000002
+Tissue contexts,"NYGC
+PBMC",pearson,top_5pct,4,0.5363436413445711,0.020618747849275393,4,381.0,0.036343641344571104
+Tissue contexts,"NYGC
+PBMC",spearman,top_100,4,0.584,0.03947669016858769,4,100.0,0.08399999999999996
+Tissue contexts,"NYGC
+PBMC",spearman,top_500,4,0.5181,0.004384153890243035,4,500.0,0.0181
+Tissue contexts,"NYGC
+PBMC",spearman,top_5pct,4,0.5281387659221912,0.01615067472230353,4,381.0,0.02813876592219115
+Tissue contexts,PBMC10k,codetection_odds_ratio,top_100,4,0.59375,0.03437342141829933,4,100.0,0.09374999999999994
+Tissue contexts,PBMC10k,codetection_odds_ratio,top_500,4,0.5421,0.006362205487617185,4,500.0,0.0421
+Tissue contexts,PBMC10k,codetection_odds_ratio,top_5pct,4,0.5573922090981389,0.02057058099679566,4,397.5,0.05739220909813892
+Tissue contexts,PBMC10k,coexpression_probability,top_100,4,0.504,0.008728787621046435,2,100.0,0.004
+Tissue contexts,PBMC10k,coexpression_probability,top_500,4,0.5017,0.0030046231044841844,2,500.0,0.0017
+Tissue contexts,PBMC10k,coexpression_probability,top_5pct,4,0.5071126144875153,0.004432450670362417,4,397.5,0.007112614487515224
+Tissue contexts,PBMC10k,mutual_information,top_100,4,0.5882499999999999,0.04829835987553476,4,100.0,0.08824999999999998
+Tissue contexts,PBMC10k,mutual_information,top_500,4,0.5065,0.010685745520708102,3,500.0,0.006500000000000001
+Tissue contexts,PBMC10k,mutual_information,top_5pct,4,0.5146372371035137,0.008940571716633981,4,397.5,0.01463723710351365
+Tissue contexts,PBMC10k,pearson,top_100,4,0.601,0.03591848177934769,4,100.0,0.10099999999999998
+Tissue contexts,PBMC10k,pearson,top_500,4,0.5194,0.0033721115046806967,4,500.0,0.0194
+Tissue contexts,PBMC10k,pearson,top_5pct,4,0.522530271823075,0.011475275523749325,4,397.5,0.022530271823074925
+Tissue contexts,PBMC10k,spearman,top_100,4,0.601,0.04817641193225857,4,100.0,0.10099999999999995
+Tissue contexts,PBMC10k,spearman,top_500,4,0.51465,0.006323595074533689,4,500.0,0.01465
+Tissue contexts,PBMC10k,spearman,top_5pct,4,0.5175686019978597,0.012861977833952095,4,397.5,0.017568601997859676

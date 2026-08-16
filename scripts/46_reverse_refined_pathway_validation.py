@@ -24,7 +24,6 @@ REVERSE = ROOT / "results" / "reverse_validation_from_refined_pairs"
 SOURCE_DIRS = {
     "local_refined": LOCAL_REFINED,
     "server_nygc": SERVER_REFINED / "nygc_multimodal_pbmc_refined_matching",
-    "server_gse126030": SERVER_REFINED / "gse126030_refined_matching",
 }
 
 TOP_LEVELS = ["top_100", "top_500", "top_5pct"]

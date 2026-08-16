@@ -3,14 +3,12 @@
 Scope: known TF-target edges versus strict expression/detection matched background edges.
 Pearson and Spearman are absolute correlations. No matching or metric recomputation is performed here.
 
-- Analysis units: 28
-- Units passing completion/QC checks: 28/28
-- Dataset-condition groups: 10
-- Metric result rows: 140
-- Metric row counts: {'codetection_odds_ratio': 28, 'coexpression_probability': 28, 'mutual_information': 28, 'pearson': 28, 'spearman': 28}
-- Absolute Pearson/Spearman rows with AUPRC > 0.5: 56/56
-
-Important dataset note: GSE126030 is represented by tissue-specific T-cell h5ad files. The server files do not contain condition/stim/sample metadata, so these results are tissue validation results, not anti-CD3/CD28 stimulation comparisons.
+- Analysis units: 12
+- Units passing completion/QC checks: 12/12
+- Dataset-condition groups: 6
+- Metric result rows: 60
+- Metric row counts: {'codetection_odds_ratio': 12, 'coexpression_probability': 12, 'mutual_information': 12, 'pearson': 12, 'spearman': 12}
+- Absolute Pearson/Spearman rows with AUPRC > 0.5: 24/24
 
 Output tables:
 - forward_refined_key_results.csv
